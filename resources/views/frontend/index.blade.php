@@ -132,20 +132,20 @@
 			</div>
 			<div class="col-auto">
 				<div class="size-full">
-					<div class="text-[#ec9a96] text-[45px] sm:text-[70px] leading-[100%] font-normal font-cursive relative z-10 md:-ms-28 -mt-9">
+					<div class="text-[#ec9a96] text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] relative z-10 md:-ms-28 -mt-9">
 						CandidShutters</div>
 					<div class="text-[#686e78] text-lg sm:text-2xl font-workSans text-pretty pb-4">
 						Artistic Story Telling Celebrating YOU!
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm">
-						Welcome to CandidShutters, where we infuse magic into your wedding memories turning them into timeless tales of love and companionship.
+					Welcome to our FLIXAURA <strong>wedding photography in jaipur</strong>  ! We are passionate about Candid photography, pre wedding photoshoot, wedding videography & editing work too. We always together create beautiful memories by our work, capturing the best moments and emotions of your special day. Wedding Diaries By FLIXAURA  focuses on Couple Pre Wedding Photoshoot, <strong>Indian Wedding Videography</strong> , Cinematic Wedding Shoot, Advertising and Events. 
+
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm py-4">
-						We are an award-winning premium wedding photography and films brand, known for our artistic, professional and customer centric approach.
+					We have been in the industry for more than 5 Years and we try every possible aspect to make sure that our clients get their lifetime memories. We value every customer and try to offer them 100% Satisfaction by delivering them best Quality Photographs and Videos as they expect. 
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm">
-						We believe in and exist to showcase the most beautiful and heartfelt stories of your life in their true magnificence.
-					</div>
+					We use the best camera for <strong>wedding videography</strong>  and light equipment to ensure the highest quality. Our approach combines candid moments with beautifully styled portraits, ensuring every precious memory is preserved. Let us help you cherish your beautiful moments for years to come!
 				</div>
 			</div>
 		</div>
@@ -158,9 +158,9 @@
 <!-- 3rd section  -->
 <section class="max-sm:px-6 py-10">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6 pb-10">
-		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 pb-14">
+		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 pb-5">
 			Gallery
-			<div class="absolute -top-7 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
+			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
 				Image
 			</div>
 		</div>
@@ -285,7 +285,9 @@
 <div class="mx-auto max-w-7xl lg:px-8 px-6">
 	<div class="sm:text-5xl text-4xl relative  text-balance md:w-1/2 w-full font-bold text-slate-800 pb-14">
 		Gallery
-		<div class="absolute -top-7 font-family-yesteryear -webkit-text-stroke:0.8px opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Video</div>
+		<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
+				Video
+			</div>
 	</div>
 
 	<!-- Swiper -->
@@ -351,7 +353,7 @@
 	<div class="grid grid-cols-2 md:grid-cols-5 gap-y-4 md:gap-4 items-center sm:mt-14 mt-5">
 		<div class="col-span-3">
 			<div class="py-6">
-				<div class="text-[#ec9a96] text-center text-[45px] sm:text-[70px] leading-[100%] font-normal font-cursive pb-8">
+				<div class="text-[#ec9a96] text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-8">
 					Nurtured to perfection
 				</div>
 				<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 gap-y-10 md:gap-y-20">
@@ -414,10 +416,10 @@
 <!-- 5th section end  -->
 
 <!-- 6th section  -->
-<div class="bg-black/90 py-20">
+<div class="bg-black/90 md:py-20 py-12">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6">
 		<div class="flex items-center justify-between">
-			<div class="text-white text-[45px] sm:text-[70px] leading-[100%] font-normal font-cursive pb-8">
+			<div class="text-white text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-8">
 				Client Testimonial
 			</div>
 			<div class="flex items-center space-x-2 fill-gray-500">
@@ -607,25 +609,16 @@
 <!-- end  -->
 
 <!-- 7th section start  -->
-<div class=" py-20">
+<div class=" md:py-20 py-12">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6">
-		<div class="flex items-center justify-between">
-			<div class="text-white text-[45px] sm:text-[70px] leading-[100%] font-normal font-cursive pb-8">
-				Client Testimonial
-			</div>
-			<div class="flex items-center space-x-2 fill-gray-500">
-				<button id="prevButton">
-					<svg class="h-10 w-10 rounded-full border p-1 hover:border-amber-600 hover:fill-amber-600 dark:fill-white dark:hover:fill-amber-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-						<path d="M13.293 6.293L7.58 12l5.7 5.7 1.41-1.42 -4.3-4.3 4.29-4.293Z"></path>
-					</svg>
-				</button>
-				<button id="nextButton">
-					<svg class="h-10 w-10 rounded-full border p-1 hover:border-amber-600 hover:fill-amber-600 dark:fill-white dark:hover:fill-amber-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-						<path d="M10.7 17.707l5.7-5.71 -5.71-5.707L9.27 7.7l4.29 4.293 -4.3 4.29Z"></path>
-					</svg>
-				</button>
+	<div class="mx-auto max-w-7xl lg:px-8 px-6 pb-10">
+		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 pb-7">
+		Blog & Tips
+			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
+			 From Us!
 			</div>
 		</div>
+	</div>
 
 		<!-- Swiper -->
 		<div class="swiper-container blogSwiper swiper">
@@ -811,13 +804,97 @@
 					</a>
 				</div>
 
-		
+
 
 			</div>
 		</div>
 	</div>
 </div>
 <!-- 7th section end  -->
+
+<!-- 8th section  -->
+<section class="h-full lg:py-20 py-12 bg-fixed bg-no-repeat bg-cover bg-center bg-[url('{{asset('/public/tailwind_frontend/contactform.webp')}}')]">
+	<div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl ">
+
+
+		<div class="max-w-5xl max-sm:px-4 mx-auto">
+
+			<div class="mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
+				<div class="p-6 sm:p-12">
+					<div class="text-white text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-5">
+						Book Now
+					</div>
+					<div class=" text-sm md:text-base leading-7 text-white/80 text-balance text-center ">Planning your wedding or an event? Fill out the booking form, and we'll get in touch with you shortly.
+						If it's urgent, call us at +91-98870 34345.</div>
+
+					<form action="#" method="POST" class="sm:mt-14 mt-10">
+						<div class="grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4">
+							<div>
+								<label for="" class="text-base font-medium text-white"> Your name </label>
+								<div class="mt-2.5 relative">
+									<input type="text" name="" id="" placeholder="Enter your full name" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+								</div>
+							</div>
+
+							<div>
+								<label for="" class="text-base font-medium text-white"> Email address </label>
+								<div class="mt-2.5 relative">
+									<input type="email" name="" id="" placeholder="Enter your email" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+								</div>
+							</div>
+
+							<div>
+								<label for="" class="text-base font-medium text-white"> Phone number </label>
+								<div class="mt-2.5 relative">
+									<input type="tel" name="" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+								</div>
+							</div>
+
+							<div>
+								<label for="" class="text-base font-medium text-white"> City</label>
+								<div class="mt-2.5 relative">
+									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+								</div>
+							</div>
+							<div>
+								<label for="" class="text-base font-medium text-white"> Service </label>
+								<div class="mt-2.5 relative">
+									<select id="countries" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900">
+										<option selected>Select a Service</option>
+										<option value="Wedding">Wedding</option>
+										<option value="Pre-Wedding">Pre-Wedding</option>
+										<option value="Both">Both</option>
+									</select>
+								</div>
+							</div>
+							<div>
+								<label for="" class="text-base font-medium text-white"> Budget </label>
+								<div class="mt-2.5 relative">
+									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+								</div>
+							</div>
+
+							<div class="sm:col-span-2">
+								<label for="" class="text-base font-medium text-white"> Message </label>
+								<div class="mt-2.5 relative">
+									<textarea name="" id="" placeholder="Type Here ...." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md resize-y focus:outline-none focus:border-slate-900 caret-slate-900" rows="4"></textarea>
+								</div>
+							</div>
+
+							<div class="sm:col-span-2 text-center">
+								<button type="submit" class="inline-flex items-center justify-center w-auto px-4 py-2 mt-2 text-base font-semibold text-white transition-all duration-200 bg-slate-900 border border-transparent rounded-md focus:outline-none hover:bg-slate-800 focus:bg-slate-800">
+									Submit
+								</button>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</section>
+<!-- 8th section end  -->
 
 @endsection
 

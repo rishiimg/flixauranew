@@ -64,8 +64,8 @@
  <script>
     document.addEventListener("DOMContentLoaded", function () {
         const swiper = new Swiper('.testimonialSwiper', {
-            slidesPerView: 4,
-            spaceBetween: 50,
+            slidesPerView: 1,
+            spaceBetween: 10,
             loop: false, // Set loop to false
             autoplay: {
                 delay: 2500,

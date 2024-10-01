@@ -319,7 +319,7 @@ class WebController extends Controller
 
     public function ourTeam(Request $request)
     {
-        return view('frontend.our-team.index');
+        return view('frontend.about.index');
     }
 
     public function babyShoot(Request $request)
