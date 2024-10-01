@@ -1,163 +1,165 @@
-@php
-    use App\Traits\SettingsTrait;
-@endphp
-<header id="header" class="header py-1">
-    <div class="container-fluid">
-        <div class="container">
-            <div class="brand my-md-2 row align-items-center">
-                <div class="col-auto ps-0">
-                    <div class="brand-name">
-                        <a href="{{ asset('/') }}" class="position-relative text-decoration-none">
-                            <img src="{{ asset('/') }}timthumb.php?src={{ asset('/public') }}/frontend_assets/img/header/logo.png&w=2&h=2&zc=1"
-                            srcset="{{ asset('/') }}timthumb.php?src={{ asset('/public') }}/frontend_assets/img/header/logo.png&w=2&h=2&zc=1"
-                            data-src="{{ asset('/') }}timthumb.php?src={{ asset('/public') }}/frontend_assets/img/header/logo.png&w=100&h=100&zc=1"
-                            data-srcset="{{ asset('/') }}timthumb.php?src={{ asset('/public') }}/frontend_assets/img/header/logo.png&w=100&h=100&zc=1"
-                            class="img-fluid h-lg-50px h-50px mr-2 header_logo1 d-lg-inline-flex lazy"
-                            alt="logo">
-                            <div class="lazy-wave"></div>
-                        </a>
-                        {{-- <a href="{{ asset('/') }}" class="position-relative text-decoration-none">
-                            <img src="{{ asset('/') }}timthumb.php?src={{ asset('/public') }}/frontend_assets/img/header/logo2.png&w=20&h=3&zc=1"
-                                srcset="{{ asset('/') }}timthumb.php?src={{ asset('/public') }}/frontend_assets/img/header/logo2.png&w=20&h=3&zc=1"
-                                data-src="{{ asset('/') }}timthumb.php?src={{ asset('/public') }}/frontend_assets/img/header/logo2.png&w=155&h=25&zc=1"
-                                data-srcset="{{ asset('/') }}timthumb.php?src={{ asset('/public') }}/frontend_assets/img/header/logo2.png&w=155&h=25&zc=1"
-                                class="img-fluid h-lg-25px h-md-23px h-20px lazy" alt="logo">
-                            <div class="lazy-wave"></div>
-                        </a> --}}
-                    </div>
-                </div>
-                <div class="col text-end">
-                    <div class="brand_mens d-flex align-items-center justify-content-end">
-                        <a href="{{ route('portfolio-categories') }}"
-                            class="btn toggle_btn btn-primary d-md-none d-block shadow-none outline-none me-3">
-                            Portfolio
-                        </a>
-                        <button class="btn toggle_btn btn-primary d-md-none d-block shadow-none outline-none"
-                            type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample"
-                            aria-controls="offcanvasExample">
-                            <img src="{{ asset('/public') }}/frontend_assets/img/menu.png" alt="Menu">
-                        </button>
-                        <div class="d-md-flex align-items-center d-none">
-                            <ul class="list-unstyled d-flex m-0">
-                                {{-- <li>
-                                    <a href="{{ asset('/') }}#howitwork">How it Works</a>
-                                </li> --}}
-                                <li>
-                                    <a href="{{ route('website.webhomepage') }}">Home</a>
-                                </li>
-                                <li>
-                                    <a href="{{ route('portfolio-categories') }}">Our Services</a>
-                                </li>
-                                {{-- <li>
-                                    <a href="{{ route('website.photographercategory') }}">Photos</a>
-                                </li> --}}
-                                <li>
-                                    <a href="{{ route('our-partner') }}">Our Partners</a>
-                                </li>
-                                <li>
-                                    <a href="{{ route('website.blog') }}">Blog</a>
-                                </li>
-                                <li>
-                                    <a href="{{route('website.babyShoot')}}" class="babyshoot">Baby Shoot</a>
-                                </li>
-                            </ul>
-                            {{-- @if (Auth::check())
-                                @hasanyrole('admin|photographer')
-                                    <div class="button d-flex align-items-center ms-3">
-                                        <a class="comman_button shadow text-black d-inline-flex align-items-center"
-                                            href="{{ route('dashboard') }}"><img
-                                                src="{{ asset('/public') }}/frontend_assets/img/header/logo.png"
-                                                class="img-fluid h-25px" alt="logo"><span
-                                                class="text-black">Dashboard</span></a>
-                                    </div>
-                                @endhasrole
-                            @else
-                                <div class="button d-flex align-items-center ms-3">
-                                    <a class="comman_button shadow text-black d-inline-flex align-items-center"
-                                        href="{{ route('website.login') }}"><img
-                                            src="{{ asset('/public') }}/frontend_assets/img/header/logo.png"
-                                            class="img-fluid h-25px" alt="logo"><span class="text-black">Login as
-                                            Photographer</span></a>
-                                </div>
-                            @endif --}}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+<div class="group-[]/nav:bg-black group-[]/nav:fixed group-[]/nav:animate-fixed-nav py-3 group-[]/nav:py-0 w-full z-50 bg-transparent absolute top-0 w-full">
+  <header class="mx-auto max-w-7xl lg:px-8 px-6">
+    <div class="topHeader flex items-center justify-between group-[]/nav:hidden">
+      <div class="md:flex hidden">
+        <ul class="flex items-center gap-3">
+          <li>
+            <a class="size-5 text-white" href="/">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14 13.5H16.5L17.5 9.5H14V7.5C14 6.47062 14 5.5 16 5.5H17.5V2.1401C17.1743 2.09685 15.943 2 14.6429 2C11.9284 2 10 3.65686 10 6.69971V9.5H7V13.5H10V22H14V13.5Z">
 
-<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
-    <div class="offcanvas-header d-flex align-items-center">
-        <div class="brand-name offcanvas-title" id="offcanvasExampleLabel">
-            <a href="{{ asset('/') }}/"><img src="{{ asset('/public') }}/frontend_assets/img/header/logo.png"
-                    class="img-fluid h-lg-50px h-md-33px h-sm-32px h-25px mr-2 header_logo1 d-lg-inline-flex"
-                    alt="logo"></a>
-            <a href="{{ asset('/') }}/"><img src="{{ asset('/public') }}/frontend_assets/img/header/logo2.png"
-                    class="img-fluid h-lg-25px h-md-23px h-sm-22px h-15px" alt="logo"></a>
+                </path>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a class="size-5 text-white" href="/">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M492 109.5c-17.4 7.7-36 12.9-55.6 15.3 20-12 35.4-31 42.6-53.6-18.7 11.1-39.4 19.2-61.5 23.5C399.8 75.8 374.6 64 346.8 64c-53.5 0-96.8 43.4-96.8 96.9 0 7.6.8 15 2.5 22.1-80.5-4-151.9-42.6-199.6-101.3-8.3 14.3-13.1 31-13.1 48.7 0 33.6 17.2 63.3 43.2 80.7-16-.4-31-4.8-44-12.1v1.2c0 47 33.4 86.1 77.7 95-8.1 2.2-16.7 3.4-25.5 3.4-6.2 0-12.3-.6-18.2-1.8 12.3 38.5 48.1 66.5 90.5 67.3-33.1 26-74.9 41.5-120.3 41.5-7.8 0-15.5-.5-23.1-1.4C62.8 432 113.7 448 168.3 448 346.6 448 444 300.3 444 172.2c0-4.2-.1-8.4-.3-12.5C462.6 146 479 129 492 109.5z">
+
+                </path>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a class="size-5 text-white" href="/">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
+
+                </path>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a class="size-5 text-white" href="/">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M424 80H88a56.06 56.06 0 0 0-56 56v240a56.06 56.06 0 0 0 56 56h336a56.06 56.06 0 0 0 56-56V136a56.06 56.06 0 0 0-56-56zm-14.18 92.63-144 112a16 16 0 0 1-19.64 0l-144-112a16 16 0 1 1 19.64-25.26L256 251.73l134.18-104.36a16 16 0 0 1 19.64 25.26z">
+
+                </path>
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="flex items-center justify-center py-2">
+        <a href="/">
+          <img src="{{ asset('/public/tailwind_frontend/logo1.png') }}" alt="logp" width="100" height="100" class=" sm:size-16 size-12">
+        </a>
+      </div>
+      <div class="flex items-center ">
+        <button class="md:flex hidden justify-between text-white items-center overflow-hidden group gap-4">
+          <span class="group-hover:-translate-x-7 duration-300 w-7 h-[2px] bg-white">
+
+          </span> <span class="group-hover:-translate-x-7 duration-300"> Book a Now</span>
+        </button>
+        <div class="flex items-center gap-3">
+          <div class="flex md:hidden">
+            <label for="sideToggle" class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5">
+              <span class="sr-only">Open menu</span>
+              <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5">
+
+                </path>
+              </svg>
+            </label>
+          </div>
         </div>
-        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
     </div>
-    <div class="offcanvas-body bg-white pt-4 px-4">
-        <div class="brand_mens">
-            <ul class="list-unstyled d-flex m-0 flex-wrap">
-                {{-- <li class="w-100 text-center">
-                    <a href="javascript:;">How it Works</a>
-                </li> --}}
-                <li class="w-100 text-center">
-                    <a href="{{route('website.webhomepage')}}">Home</a>
-                </li>
-                <li class="w-100 text-center">
-                    <a href="{{route('portfolio-categories')}}">Our Services</a>
-                </li>
-                <li class="w-100 text-center">
-                    <a href="{{route('website.photographercategory')}}">Photos</a>
-                </li>
-                <li class="w-100 text-center">
-                    <a href="{{route('website.blog')}}">Blog</a>
-                </li>
-                <li class="w-100 text-center">
-                    <a href="{{route('website.babyShoot')}}">Baby Shoot</a>
-                </li>
-            </ul>
-            {{-- <div class="button d-flex align-items-center justify-content-center mt-2">
-                @if (Auth::check())
-                    @hasanyrole('admin|photographer')
-                        <a class="comman_button shadow text-decoration-none d-flex align-items-center text-white bg-dark w-100 justify-content-center rounded-5"
-                            href="{{ route('dashboard') }}"><span class="text-black">Dashboard</span><img
-                                src="{{ asset('/public') }}/frontend_assets/img/header/logo.png" class="img-fluid h-20px"
-                                alt="logo"></a>
-                    @endhasrole
-                @else
-                    <a class="comman_button shadow text-decoration-none d-flex align-items-center text-white bg-dark w-100 justify-content-center rounded-5"
-                        href="{{ route('website.login') }}"><span class="text-black">Login as Photographer</span><img
-                            src="{{ asset('/public') }}/frontend_assets/img/header/logo.png" class="img-fluid h-20px"
-                            alt="logo"></a>
-                @endif
-            </div> --}}
+    <div class="bootomheader pt-4 group-[]/nav:pt-0 flex items-center group-[]/nav:justify-between justify-center ">
+      <div class="hidden group-[]/nav:flex items-center justify-center py-2 ">
+        <a href="/">
+          <img src="{{ asset('/public/tailwind_frontend/logo1.png') }}" alt="logp" width="100" height="100" class=" sm:size-16 size-12">
+        </a>
+      </div>
+      <div class="flex items-center justify-center gap-8">
+        <ul class="list-none md:flex hidden justify-center m-0 space-x-4">
+          <li>
+            <a class="after:transform after:scale-x-100 after:origin-left text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="/">Home</a>
+          </li>
+          <li>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="/about-us">About</a>
+          </li>
+          <li>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="/our-services">Our Services</a>
+          </li>
+          <li>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="/gallery">Gallery</a>
+          </li>
+          <li>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="blog">Blog</a>
+          </li>
+          <li>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="contact">Contact</a>
+          </li>
+        </ul>
+        <div class="hidden group-[]/nav:max-md:block">
+          <label for="sideToggle" class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5">
+            <span class="sr-only">Open menu</span>
+            <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5">
+
+              </path>
+            </svg>
+          </label>
         </div>
+      </div>
     </div>
+  </header>
 </div>
-<div id="liveToast" class="position-fixed toast hide" role="alert" aria-live="assertive" aria-atomic="true"
-        style="top: 20px; right: 20px; z-index: 1000;">
-        <div class="toast-header bg-success text-white">
-            <div class="d-flex align-items-center flex-grow-1">
-                <div class="flex-shrink-0">
-                    <img class="avatar avatar-sm avatar-circle"
-                        src="{{ asset('/public/settings/' . SettingsTrait::settings('favicon')) }}"
-                        alt="Image description">
-                </div>
-                <div class="flex-grow-1 ms-3">
-                    <h5 class="mb-0 text-white">{{ SettingsTrait::settings('project_name') }}</h5>
-                    <small class="ms-auto">Just Now</small>
-                </div>
-                <div class="text-end">
-                    <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
-                </div>
-            </div>
-        </div>
-        <div class="toast-body">
-            {{ session('error') }}{{ session('success') }}
-        </div>
+
+<input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
+<label for="sideToggle" class="fixed inset-0 -z-[1011] backdrop-blur-xl bg-sky-950/10 peer-checked/sideToggle:z-[1010] peer-checked/sideToggle:opacity-100 opacity-0 duration-100">
+
+</label>
+
+
+<div class=" fixed flex flex-col h-screen inset-y-0 right-0 z-[1011] w-full overflow-y-auto bg-gradient-to-b from-gray-950 to-sky-950 select-none text-white  sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100 translate-x-full opacity-0 duration-300">
+  <!-- <div class="absolute inset-0 bg-gray-800/50  h-full size-full ">
+
+  </div> -->
+  <div class="flex flex-col overflow-hidden h-full w-full relative z-10 ms-auto">
+    <div class="flex items-center justify-between p-3 bg-slate-950">
+      <a href="/">
+        <img src="{{ asset('/public/tailwind_frontend/logo.png') }}" alt="logp" width="100" height="100" class=" w-32">
+      </a>
+      <div>
+        <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
+          <span class="sr-only">Close menu</span>
+          <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </label>
+      </div>
     </div>
+    <div class="relative flex w-full p-3 flex-auto overflow-y-auto flex-col z-20 bg-white">
+      <ul>
+        <li>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/">HOME</a>
+        </li>
+        <li>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/about-us">About Us</a>
+        </li>
+        <li>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/our-services">Our Services</a>
+        </li>
+        <li>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/gallery">Gallery</a>
+        </li>
+        <li>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/blog">Blog</a>
+        </li>
+        <li>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/contact">Contact Us</a>
+        </li>
+        <li>
+          <button class="flex justify-between text-white items-center overflow-hidden group gap-4">
+            <span class="group-hover:-translate-x-7 duration-300 w-7 h-[2px] bg-white">
+
+            </span> <span class="group-hover:-translate-x-7 duration-300"> Book a Now</span>
+          </button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
