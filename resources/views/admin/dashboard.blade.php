@@ -37,7 +37,6 @@
                                 <span class="text-body fs-5 ms-1">from {{ $data['activecategory'] }}</span>
                             </div>
                             <!-- End Col -->
-
                             <div class="col-auto">
                                 <a href="{{ route('category.viewpcategory') }}"
                                     class="badge bg-soft-success text-success p-1">

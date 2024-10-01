@@ -6,7 +6,7 @@
 <main class="main-scrollbar">
 
 	<!-- Templete -->
-	{{-- <section id="hero" class="container-fluid hero zi-1">
+	{{-- <section id="hero" class="container-fl uid hero zi-1">
 		<div class="row align-items-center">
 			<div class="col-lg-7 slider" style="padding-left:0px;">
 				<div id="carouselExampleCaptions" class="carousel carousel-fade slide home-slide position-relative" data-bs-ride="carousel">
@@ -43,7 +43,6 @@
 		</div>
 	</section> --}}
 	<!-- hero section end -->
-
 	{{-- hero section --}}
 	<section class="container-fluid vh-100 newHeroSection indexHeroSection">
 		<div class="container h-100 d-flex align-items-center justify-content-center position-relative">

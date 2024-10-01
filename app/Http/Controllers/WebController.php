@@ -160,7 +160,7 @@ class WebController extends Controller
     public function categories()
     {
         $data = DB::table('portfoliocategory')->where('status', 1)->orderBy('id', 'DESC')->get();
-        return view('frontend.categories.index', compact('data'));
+        return view('frontend.service.index', compact('data'));
     }
     public function single_category($slug)
     {

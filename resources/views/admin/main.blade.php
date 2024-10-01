@@ -375,6 +375,23 @@
                                 </div>
                             </div>
                             <div class="nav-item">
+                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuhero" role="button"
+                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuhero"
+                                    aria-expanded="false" aria-controls="navbarVerticalMenuhero">
+                                    <i class="bi bi-dot nav-icon"></i>
+                                    <span class="nav-link-title">Hero Section</span>
+                                </a>
+
+                                <div id="navbarVerticalMenuhero" class="nav-collapse collapse hide"
+                                    data-bs-parent="#navbarVerticalMenu">
+                                    <a class="nav-link" href="{{ route('hero.index') }}">Add
+                                    text    </a>
+                                    <a class="nav-link " href="{{ route('hero.view') }}">View
+                                        text</a>
+                                </div>
+
+                            </div>
+                            <div class="nav-item">
                                 <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuCarrier" role="button"
                                     data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuCarrier"
                                     aria-expanded="false" aria-controls="navbarVerticalMenuCarrier">

@@ -17,6 +17,7 @@ use App\Http\Controllers\PhotographerportfolioController;
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\BlogCategoryController;
 use App\Http\Controllers\ClientController;
+use App\Http\Controllers\HerosectionController;
 
 /*
 |--------------------------------------------------------------------------
@@ -179,7 +180,14 @@ Route::group(['prefix' => 'my-admin'], function () {
         Route::any('edit-blog/{id}',[BlogController::class, 'edit'])->name('blog.edit');
         Route::any('delete-blog/{id}',[BlogController::class, 'delete'])->name('blog.delete');
 
-
+        
+        /*
+       |--------------------------------------------------------------------------
+       | HEro  Section
+       |--------------------------------------------------------------------------
+       */
+        Route::any('add-txt', [HerosectionController::class, 'herotext'])->name('hero.index');
+        Route::any('view-txt', [HerosectionController::class, 'heroview'])->name('hero.view');
 
          /*
         |--------------------------------------------------------------------------
