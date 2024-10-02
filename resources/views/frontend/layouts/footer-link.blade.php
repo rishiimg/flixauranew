@@ -28,7 +28,19 @@
 </script>
 
 
-<!-- Fancybox Initialization Script -->
+<!-- Fancybox Initialization Script video -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        Fancybox.bind("[data-fancybox='video']", {
+            Carousel: {
+                infinite: false,
+            },
+        });
+    });
+</script>
+
+
+<!-- Fancybox Initialization Script gallery -->
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         Fancybox.bind("[data-fancybox='gallery']", {

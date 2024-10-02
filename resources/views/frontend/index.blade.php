@@ -296,37 +296,73 @@
 			<!-- Slide 1 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/X1lTCG8VKhA">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>
 				</div>
 			</div>
 			<!-- Slide 2 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>
 				</div>
 			</div>
 			<!-- Slide 3 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ysZEG4bSqvE">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>	
+				
 				</div>
 			</div>
 			<!-- Slide 1 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/X1lTCG8VKhA">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>
 				</div>
 			</div>
 			<!-- Slide 2 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>
 				</div>
 			</div>
 			<!-- Slide 3 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ysZEG4bSqvE">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>	
+				
 				</div>
 			</div>
 			<!-- Add more slides as needed -->
