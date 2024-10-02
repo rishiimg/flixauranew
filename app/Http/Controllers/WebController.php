@@ -271,7 +271,7 @@ class WebController extends Controller
         if (empty($blog)) {
             return redirect()->back();
         } else {
-            return view('frontend.blog.blogm.index', compact('blog'));
+            return view('frontend.blog.index', compact('blog'));
         }
     }
 
@@ -322,6 +322,17 @@ class WebController extends Controller
         return view('frontend.about.index');
     }
 
+
+    public function ourTeam1(Request $request)
+    {
+        return view('frontend.gallery.index');
+    }
+
+    // public function blognew(Request $request)
+    // {
+    //     return view('frontend.blog.index');
+    // }
+
     public function babyShoot(Request $request)
     {
         $cities = DB::table('city')->get();
@@ -334,5 +345,17 @@ class WebController extends Controller
     }
     public function mehendiindex(){
         return view('frontend.our-services.mehendi.index');
+    }
+    public function engagementindex(){
+        return view('frontend.our-services.engagement.index');
+    }
+    public function weddingphotographyindex(){
+        return view('frontend.our-services.wedding-photography.index');
+    }
+    public function candidphotographyindex(){
+        return view('frontend.our-services.candid-photography.index');
+    }
+    public function preweddingphotoshootindex(){
+        return view('frontend.our-services.pre-wedding-photoshoot.index');
     }
 }

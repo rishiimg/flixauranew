@@ -91,28 +91,28 @@
                   <a href="{{route('services.mehendi') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Mehendi</a>
                 </li>
                 <li>
-                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Pre-Wedding Photoshoot</a>
-                </li>  <li>
-                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Bridal Photoshoot</a>
-                </li>  <li>
-                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Destination Wedding</a>
+                  <a href="{{route('services.engagement') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Engagement</a>
                 </li>
                 <li>
-                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Candid Photography</a>
+                  <a href="{{route('services.wedding-photography') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Wedding Photography</a>
                 </li>
                 <li>
-                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Wedding Photography</a>
-                </li>
-      
+                  <a href="{{route('services.candid-photography') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Candid Photography</a>
+                </li>  
+                <li>
+                  <a  href="{{route('services.pre-wedding-photoshoot') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Pre-Wedding Photoshoot</a>
+                </li>  
+             
+             
               </ul>
             
             </div>
           </li>
           <li>
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="/gallery">Gallery</a>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left "  href="{{route('website.gallery') }}">Gallery</a>
           </li>
           <li>
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="blog">Blog</a>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left "  href="{{route('website.blog') }}">Blog</a>
           </li>
           <li>
             <!-- <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.contact_us')}}">Contact</a> -->
@@ -165,9 +165,76 @@
         <li>
           <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/about-us">About Us</a>
         </li>
-        <li>
+        <!-- <li>
           <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/our-services">Our Services</a>
-        </li>
+        </li> -->
+        <div class="relative flex flex-col gap-y-3">
+                <input class="peer/mm hidden" type="checkbox" name="mmMenu" id="mmCompany">
+                <label for="mmCompany" class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold">
+                Our Services
+                  <svg class="h-5 w-5 ml-auto flex-none text-gray-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd"></path>
+                  </svg>
+                </label>
+                <div class="w-full peer-checked/mm:block hidden">
+                  <div class="grid grid-cols-1 flex-wrap w-full gap-4">
+                    <div class="w-full text-sm xl:text-base *:flex *:items-center *:gap-x-3 *:py-1 *:relative">
+                      <div>
+                        <div class="flex-auto">
+                          <a href="javascript:;" class="block font-semibold  text-slate-950/70 px-2">
+                            Haldi
+                          </a>
+                        </div>
+                      </div>
+                      <div>
+                    
+                        <div class="flex-auto">
+                          <a href="https://www.imgglobalinfotech.com/testimonials.php" class="block font-semibold  text-slate-950/70 px-2">
+                          Mehendi
+
+                          </a>
+                        </div>
+                      </div>
+                      <div>
+                      
+                        <div class="flex-auto">
+                          <a href="https://www.flickr.com/photos/imgglobalinfotech" class="block font-semibold  text-slate-950/70 px-2">
+                          Engagement
+
+                          </a>
+                        </div>
+                      </div>
+                      <div >
+                  
+                        <div class="flex-auto">
+                          <a href="https://www.imgglobalinfotech.com/career.php" class="block font-semibold  text-slate-950/70 px-2">
+                          Wedding Photography
+
+                          </a>
+                        </div>
+                      </div>
+                      <div>
+                  
+                        <div class="flex-auto">
+                          <a href="https://www.imgglobalinfotech.com/casestudy.php" class="block font-semibold  text-slate-950/70 px-2">
+                          Candid Photography
+
+                          </a>
+                        </div>
+                      </div>
+                      <div class=" border-b ">
+                     
+                        <div class="flex-auto pb-3">
+                          <a href="https://www.imgglobalinfotech.com/disclaimer.php" class="block font-semibold  text-slate-950/70 px-2">
+                          Pre-Wedding Photoshoot
+                          </a>
+                        </div>
+                      </div>
+                   
+                    </div>
+                  </div>
+                </div>
+              </div>
         <li>
           <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/gallery">Gallery</a>
         </li>

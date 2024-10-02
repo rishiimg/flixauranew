@@ -8,9 +8,9 @@ About Us
 
 <!-- 1st section  -->
 
-<section class="h-[70vh] min-h-[400px] bg-no-repeat bg-cover bg-center bg-[url('{{asset('/public/tailwind_frontend/haldi.webp')}}')] relative before:absolute before:bg-black/50 before:inset-0 before:z-10 before:size-full">
+<section class="h-[70vh] min-h-[400px] bg-no-repeat bg-cover bg-center bg-[url('https://weddingphotographybysf.com/wp-content/uploads/2024/07/46-scaled.jpg')] relative before:absolute before:bg-black/50 before:inset-0 before:z-10 before:size-full">
   <div class="mx-auto max-w-7xl lg:px-8 px-6 h-full py-10 relative z-20">
-    <div class="text-white sm:text-7xl text-5xl flex items-end justify-center text-center h-full">Haldi Ceremony </div>
+    <div class="text-white sm:text-7xl text-5xl flex items-end justify-center text-center h-full">Pre-Wedding </div>
   </div>
 </section>
 
@@ -26,32 +26,32 @@ About Us
       <div data-aos="fade-right" data-aos-duration="1000" class="col-span-12 lg:col-span-6 ">
         <div class="size-full relative flex items-center justify-center ">
           <div class=" h-full w-[70%]">
-            <Image width={500} height={500} class="aspect-[1/1]  object-cover rounded-3xl" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/DA412949-9545-45C3-ADEB-9AAB52115726.jpeg" alt="" />
+            <Image width={500} height={500} class="aspect-[1/1]  object-cover rounded-3xl" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/443C5B9C-8078-4DE5-BDC1-79208B898528.jpeg" alt="" />
           </div>
 
           <div class=" absolute sm:-top-7 -top-3  z-[3] w-[40%] right-0 sm:group-hover:right-[58%]  duration-300 ">
-            <Image width={500} height={500} class="aspect-[1/.8] pointer-events-none rounded-3xl object-cover" src="https://weddingphotographybysf.com/wp-content/uploads/2024/07/DSC02732-1536x1024.jpg" alt="" />
+            <Image width={500} height={500} class="aspect-[1/.8] pointer-events-none rounded-3xl object-cover" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/CED39366-F358-4E0E-BFE1-8CF116BA41D1.jpeg" alt="" />
           </div>
           <div class=" absolute -bottom-5 pointer-events-none z-[3] w-[40%] left-0 sm:group-hover:left-[58%]  duration-300 ">
-            <Image width={500} height={500} class="aspect-[1/.8] rounded-3xl object-top" src="https://weddingphotographybysf.com/wp-content/uploads/2024/07/DSC06846-copy-1536x1024.jpg" alt="" />
+            <Image width={500} height={500} class="aspect-[1/.8] rounded-3xl object-top" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2A1D18D1-234A-4DD7-B8A5-A3F3C95F013B.jpeg" alt="" />
           </div>
         </div>
       </div>
       <div data-aos="fade-left" class="col-span-12 lg:col-span-6 ">
         <div class="size-full">
           <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-slate-800 lg:pb-14 max-lg:mt-20">
-          Let’s Capture the
-            <div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light"> Fun!</div>
+          Pre wedding photography by
+            <div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Filxaura  </div>
           </div>
 
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-          Are you ready to make some amusing memories? With FILXAURA, your <strong> Haldi ceremony photography</strong> will be a joyous and entertaining experience! Let’s embrace the colors, the chaos, and the laughter together.The Haldi ceremony is your chance to unleash your inner joy and creativity, and we’re here to capture all the delightful chaos.
+          Pre wedding photography is a beautiful way to celebrate your unique love story before the big day! At FILXAURA, we specialize in creating stunning images that reflect your personalities, style, preferences, and the essence of your relationship. 
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-          Our goal is to make <strong>Haldi photoshoot</strong>  an enjoyable and memorable experience. Every celebration is unique, and your haldi is no exception. It’s a chance to create lasting memories with loved ones, filled with laughter and love.
+          Our focus is not just on clicking your photos together, we are here to turn your dream of Pre Wedding into reality. A <strong>pre-wedding shoot</strong>  allows you to become more comfortable with the camera and excitement as you embark on this new journey together.
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-          Contact us today to book your <strong>Haldi ceremony photoshoot</strong> , and let’s get ready to create some unforgettable memories! After all, what’s life without a little laughter and turmeric? 
+          At FILXAURA, we can’t wait to create beautiful memories that reflect your journey.
           </div>
         </div>
       </div>
@@ -174,123 +174,123 @@ About Us
   <!-- Fancybox Integration -->
   <div id="gallery-wrapper" class="grid md:grid-cols-4 grid-cols-2">
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
+          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
 
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-153-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-153-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-139-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-139-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-152-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-152-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/8.jpg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://www.kumkumphotosjaipur.com/images/gallery/wedding/8.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/11.jpg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://www.kumkumphotosjaipur.com/images/gallery/wedding/11.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/12.jpg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://www.kumkumphotosjaipur.com/images/gallery/wedding/12.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
+          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
 
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
@@ -319,32 +319,32 @@ About Us
   </div>
   <div class="relative flex flex-col mt-5">
     <input class="peer/mm hidden" type="radio" checked name="QA" id="QA1">
-    <label for="QA1" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6">What is Haldi Ceremony Photography and why is it important?</label>
-    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">Haldi is a pre-wedding ceremony where turmeric paste, a traditional ritual, is applied to the skin of the bride and groom to brighten and cleanse it before their big day. This colorful and joyous event is a great way to preserve cultural traditions, as well as the happiness of family and friends. </div>
+    <label for="QA1" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6"> Why should you consider pre-wedding photographs?</label>
+    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">Pre-wedding photos capture intimate moments between a couple prior to their wedding. This allows you to capture beautiful, romantic, and relaxed images at a location that suits your style, reflecting your love before the chaos of the wedding. </div>
   </div>
 
   <div class="relative flex flex-col mt-5">
     <input class="peer/mm hidden" type="radio" name="QA" id="QA2">
-    <label for="QA2" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6">What is the best way to photograph Haldi ceremonies?</label>
-    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">Haldi photography is a combination of creativity and sensitivity. We aim to capture the vivid colors, emotional moments and lively interactions among family members and friends as they take part in this auspicious ceremony.</div>
+    <label for="QA2" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6">How would you approach pre-wedding photo sessions?</label>
+    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">Pre-wedding sessions are approached with a mix of creativity and individualization. We want to capture the unique personalities and connection between you and your partner in an artistic and natural way. We will work with you closely to select locations and themes which reflect your style and story.</div>
   </div>
 
   <div class="relative flex flex-col mt-5">
     <input class="peer/mm hidden" type="radio" name="QA" id="QA3">
     <label for="QA3" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6">
-      What do we wear to the Haldi Ceremony photoshoot? </label>
-    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">Wear comfortable, casual clothes that you're not afraid to get stained with turmeric. Bright colors such as yellow, orange or contrasting shades will add to the festive mood and make your pictures pop. </div>
+    When should we schedule our pre-wedding photo session? </label>
+    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">Your wedding timeline, the location and your personal preferences will all influence when you should schedule your pre-wedding photo session. We recommend booking it at least several months prior to your wedding date. This will allow time for editing, and any unexpected circumstances. </div>
   </div>
 
   <div class="relative flex flex-col mt-5">
     <input class="peer/mm hidden" type="radio" name="QA" id="QA4">
-    <label for="QA4" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white rounded-t-4xl peer-checked/mm:rounded-xl py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6"> Do You provide props or decor for Haldi Ceremony photography?</label>
-    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">We usually capture the Haldi ritual as it unfolds naturally, focusing on traditional rituals and genuine expressions joy and camaraderie between family members. We are also happy to incorporate any props or décor ideas you may have into the photoshoot.</div>
+    <label for="QA4" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white rounded-t-4xl peer-checked/mm:rounded-xl py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6">  Where are the best locations for pre-wedding photos?</label>
+    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">You can choose from a wide range of locations for your pre-wedding photos, such as parks, beaches or urban settings. We also offer photography in historical landmarks and places that are meaningful to you both. We are flexible, and we can discuss the options that best suit your vision.</div>
   </div>
   <div class="relative flex flex-col mt-5">
     <input class="peer/mm hidden" type="radio" name="QA" id="QA5">
-    <label for="QA5" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white rounded-t-4xl peer-checked/mm:rounded-xl py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6"> How many photos will we receive of our Haldi Ceremony and when will they arrive?</label>
-    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">Your edited Haldi photos will be delivered within [timeframe - e.g. 2-3 weeks]. The number of edited photos will depend on the package and coverage you select. This can range from [number] up to [number] images. Each photo is carefully edited to bring out the vibrancy and emotions of this special event.</div>
+    <label for="QA5" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white rounded-t-4xl peer-checked/mm:rounded-xl py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6"> Do You provide props for pre-wedding photos or help with styling?</label>
+    <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">We will capture your natural connection but we can also provide props and styling ideas to enhance your photoshoot. We aim to create an emotionally charged and visually stunning collection of photos that you'll cherish.</div>
   </div>
 </div>
 

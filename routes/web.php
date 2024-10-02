@@ -212,6 +212,10 @@ Route::group(['prefix' => 'my-admin'], function () {
 Route::get('/', [WebController::class, 'index'])->name('website.webhomepage');
 Route::get('/book-now', [WebController::class, 'book_now'])->name('website.book_now');
 Route::get('about-us', [WebController::class, 'ourTeam'])->name('website.about_us');
+Route::get('gallery', [WebController::class, 'ourTeam1'])->name('website.gallery');
+// Route::get('blog', [WebController::class, 'blognew'])->name('website.blog');
+
+
 Route::get('contact-us', [WebController::class, 'contact_us'])->name('website.contact_us');
 Route::any('contactus', [WebController::class, 'contactus'])->name('website.contactus');
 Route::any('contactsendmail', [WebController::class, 'contactsendmail'])->name('website.contactsendmail');
@@ -233,6 +237,14 @@ Route::get('/blog/{slug}', [WebController::class, 'singleBlog'])->name('website.
 
 Route::get('services/haldi', [WebController::class, 'haldiindex'])->name('services.haldi');
 Route::get('services/mehendi', [WebController::class, 'mehendiindex'])->name('services.mehendi');
+Route::get('services/engagement', [WebController::class, 'engagementindex'])->name('services.engagement');
+Route::get('services/wedding-photography', [WebController::class, 'weddingphotographyindex'])->name('services.wedding-photography');
+Route::get('services/candid-photography', [WebController::class, 'candidphotographyindex'])->name('services.candid-photography');
+Route::get('services/pre-wedding-photoshoot', [WebController::class, 'preweddingphotoshootindex'])->name('services.pre-wedding-photoshoot');
+
+
+
+
 
 
 Route::get('/thankyou', function () {

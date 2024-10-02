@@ -8,9 +8,9 @@ About Us
 
 <!-- 1st section  -->
 
-<section class="h-[70vh] min-h-[400px] bg-no-repeat bg-cover bg-cover bg-[url('https://img.freepik.com/free-photo/mehndi-wedding-ornament-hands-drawn-by-henna_8353-9769.jpg?t=st=1727859941~exp=1727863541~hmac=72fe225d148c59aac271c3582c71fbc410acbbc7db0e323be5b3f4c7b2353763&w=740')] relative before:absolute before:bg-black/50 before:inset-0 before:z-10 before:size-full">
+<section class="h-[70vh] min-h-[400px] bg-no-repeat bg-cover bg-cover bg-[url('https://img.freepik.com/free-photo/woman-lying-her-husband-bridge_1153-1318.jpg?t=st=1727864325~exp=1727867925~hmac=e435cf14445fa91860d168d1e0aff180f6d5569ff6019a45f7bec990f0141eb2&w=740')] relative before:absolute before:bg-black/50 before:inset-0 before:z-10 before:size-full">
   <div class="mx-auto max-w-7xl lg:px-8 px-6 h-full py-10 relative z-20">
-    <div class="text-white sm:text-7xl text-5xl flex items-end justify-center text-center h-full">MEHANDI CEREMONY</div>
+    <div class="text-white sm:text-7xl text-5xl flex items-end justify-center h-full text-center">Engagement</div>
   </div>
 </section>
 
@@ -26,33 +26,32 @@ About Us
       <div data-aos="fade-right" data-aos-duration="1000" class="col-span-12 lg:col-span-6 ">
         <div class="size-full relative flex items-center justify-center ">
           <div class=" h-full w-[70%]">
-            <Image width={500} height={500} class="aspect-[1/1]  object-cover rounded-3xl" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9D3E0659-346B-4F14-83A7-7DAC9112AC78.jpeg" alt="" />
+            <Image width={500} height={500} class="aspect-[1/1]  object-cover rounded-3xl" src="https://img.freepik.com/premium-photo/man-woman-are-standing-front-wall-with-lights_1113980-1753.jpg?w=740" alt="" />
           </div>
 
           <div class=" absolute sm:-top-7 -top-3  z-[3] w-[40%] right-0 sm:group-hover:right-[58%]  duration-300 ">
-            <Image width={500} height={500} class="aspect-[1/.8] pointer-events-none rounded-3xl object-cover" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg" alt="" />
+            <Image width={500} height={500} class="aspect-[1/.8] pointer-events-none rounded-3xl object-cover" src="https://img.freepik.com/free-photo/side-view-married-couple-outdoors_23-2149617145.jpg?t=st=1727864961~exp=1727868561~hmac=395ebbb9e5db919bfc281684ff9697dc242623105e87e6d1b802e8b3fdb76de5&w=740" alt="" />
           </div>
           <div class=" absolute -bottom-5 pointer-events-none z-[3] w-[40%] left-0 sm:group-hover:left-[58%]  duration-300 ">
-            <Image width={500} height={500} class="aspect-[1/.8] rounded-3xl object-top object-cover" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/99BF5808-CD86-4D55-8444-0E450E2404CE.jpeg" alt="" />
+            <Image width={500} height={500} class="aspect-[1/.8] rounded-3xl object-top object-cover" src="https://img.freepik.com/free-photo/beautiful-woman-long-red-dress-walks-around-city-with-her-husband_1157-13364.jpg?t=st=1727865024~exp=1727868624~hmac=b3df5927ae0a40c28ee5de20c0d3e5e49ff6aae1a773d141f06222994e5a84d1&w=740" alt="" />
           </div>
         </div>
       </div>
       <div data-aos="fade-left" class="col-span-12 lg:col-span-6 ">
         <div class="size-full">
           <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-slate-800 lg:pb-14 max-lg:mt-20">
-            Mehandi Photography with
+          Engagement Photography with
             <div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light"> FlixAura</div>
           </div>
 
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-            Welcome to the enchanting world of Mehndi, where artistry, culture, and joy come together in a vibrant celebration! At FILXAURA, we specialize in <strong>mehandi photoshoot</strong> , from the intricate henna designs adorning your hands to the beautiful decor, we focus on capturing the little details that make your Mehndi unique.
+          Love is always in the air—and so is the laughter! Your engagement ceremony marks the beginning of an exciting journey, and we’re here with our mesmerizing <strong>engagement photoshoot</strong>  to capture all the joyful, amusing, and heartwarming moments that make this celebration unforgettable.
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-            The Mehndi ceremony is more than just a ritual, it’s a colorful gathering of friends and family filled with laughter, intricate designs, and heartfelt moments. Our dedicated <strong>wedding photographers</strong> are passionate about preserving the essence of this special day, ensuring every detail is captured in stunning visuals.
+          We take the time to get to know you as a couple, which allows us to capture your true essence. Every photo tells a part of your story, and we’re dedicated to making it a beautiful one!
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-
-            Get ready to celebrate in style! Let the henna dry in peace… FILXAURA will be there to capture the magic!
+          Let FILXAURA capture the heart of your celebration, authentically and beautifully with the unique <strong>engagement photography</strong>  ideas.
 
           </div>
         </div>
@@ -69,15 +68,15 @@ About Us
 
   <div class="grid lg:grid-cols-3 sm:grid-cols-2   gap-5">
     <div class="w-full group/main aspect-[1/1.1] :hover:scale-105 :duration-500 overflow-hidden  *:size-full *:object-cover relative after:absolute after:size-full after:bg-black/40 after:inset-0 after:hover:backdrop-blur-sm after:duration-500 	">
-      <Image width={300} height={300} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7338199E-9D1C-4AE7-9DAB-03B3FDADE58C.jpeg" alt="" />
+      <Image width={300} height={300} src="https://plus.unsplash.com/premium_photo-1682090789715-a1acbfe72404?q=80&w=1452&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
           <h2 class="text-2xl w-4/5 font-semibold text-white">
-            Fly High on Love – Kite Decor
+          Romantic Garden Engagement
           </h2>
-          <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Imagine a whimsical Mehndi adorned with colourful kites dancing in the breeze. This playful backdrop adds a touch of magic to your photos, while the kites themselves become interactive props for capturing candid moments of joy and laughter. Wedding Photography By SF will expertly capture these vibrant scenes, ensuring your Mehndi photos are bursting with personality and perfectly reflect the unique charm of your celebration.</p>
+          <p class="text-white font-medium text-sm mt-1">#ENGAGEMENT</p>
+          <p class="text-xs text-white mt-2 line-clamp-4">Picture a love story unfolding amidst lush gardens and blooming flowers. The Romantic Garden Engagement theme sets a magical atmosphere for capturing intimate moments with a soft, natural backdrop.</p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -91,17 +90,17 @@ About Us
       </div>
     </div>
     <div class="w-full group/main aspect-[1/1.1] *:hover:scale-105 *:duration-500 overflow-hidden  *:size-full *:object-cover relative after:absolute after:size-full after:bg-black/40 after:inset-0 after:hover:backdrop-blur-sm after:duration-500 	">
-      <Image width={300} height={300} src="https://weddingimage.betterhalf.ai/weddings/ideabook/PHOTOGRAPHY/59af3b5a-7787-412c-9f65-9203538e7476/6669E11D-7E45-417C-A1DA-FAEC99036319.jpg" alt="/" />
+      <Image width={300} height={300} src="https://images.unsplash.com/photo-1626375362529-ab540f0dc801?q=80&w=1551&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="/" />
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
           <h2 class="text-2xl w-4/5 font-semibold text-white">
 
-            Go Boho with Dream Catchers
+          City Lights Romance
           </h2>
-          <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Embrace the free-spirited vibe with a boho mehndi! Imagine a colourful tapestry of dreamcatchers, macrame hangings, and vibrant floor cushions. Lush greenery and fairy lights add a touch of whimsy, creating a perfect backdrop for your mehndi ceremony. This aesthetic translates beautifully into photographs. The natural textures and diffused lighting from fairy lights allow your mehndi photographer to capture stunning, candid moments. Bold pops of colour from the decor add a unique charm to every frame.</p>
+          <p class="text-white font-medium text-sm mt-1">#ENGAGEMENT</p>
+          <p class="text-xs text-white mt-2 line-clamp-4">Celebrate your engagement with the sparkling city skyline as your backdrop. The City Lights Romance theme captures your love amidst dazzling lights and urban chic vibes, perfect for an elegant and modern engagement..</p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -115,16 +114,15 @@ About Us
       </div>
     </div>
     <div class="w-full group/main aspect-[1/1.1] :hover:scale-105 :duration-500 overflow-hidden  *:size-full *:object-cover relative after:absolute after:size-full after:bg-black/40 after:inset-0 after:hover:backdrop-blur-sm after:duration-500 	">
-      <Image width={300} height={300} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1BC0348A-64C0-44B1-A7C5-F8DC640903EC.jpeg" alt="" />
+      <Image width={300} height={300} src="https://images.unsplash.com/photo-1611105672452-1db1501c528e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
           <h2 class="text-2xl w-4/5 font-semibold text-white">
-
-            Saree but not Sorry!
+          Rustic Charm
           </h2>
-          <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Elevate your mehndi with the magic of sarees! Drape colourful silks in rich jewel tones to create a captivating backdrop. Twirl vintage sarees into whimsical streamers or weave them into a stunning canopy. This burst of cultural flair adds a touch of timeless elegance and pops in photos, ensuring Sony Fashion Studio captures every detail and emotion of your mehndi celebration.</p>
+          <p class="text-white font-medium text-sm mt-1">#ENGAGEMENT</p>
+          <p class="text-xs text-white mt-2 line-clamp-4">Rustic barn doors, wildflowers, and a cozy setting—all contribute to the natural beauty of this engagement theme. Perfect for couples looking for an outdoor, laid-back atmosphere, we capture the essence of your bond with warmth and simplicity.</p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -155,66 +153,66 @@ About Us
   <!-- Fancybox Integration -->
   <div id="gallery-wrapper" class="grid md:grid-cols-4 grid-cols-2">
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
 
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
@@ -228,58 +226,58 @@ About Us
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
 
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg">
+      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
-          <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
+          <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
