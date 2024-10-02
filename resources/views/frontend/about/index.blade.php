@@ -70,7 +70,7 @@ About Us
 <!-- 2nd end  -->
 <!-- 3rd section -->
 
-<div class="max-w-7xl mx-auto px-6 lg:px-8 py-10">
+<div class="max-w-7xl mx-auto px-6 lg:px-8 md:py-20 py-10">
   <div class="grid md:grid-cols-2  items-center md:gap-10 gap-5">
     <div class="">
       <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-slate-800 md:pb-14 mb-8">
@@ -141,34 +141,34 @@ About Us
 							<div>
 								<label for="" class="text-base font-medium text-white"> Your name </label>
 								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Enter your full name" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="text" name="" id="" placeholder="Enter your full name" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div>
 								<label for="" class="text-base font-medium text-white"> Email address </label>
 								<div class="mt-2.5 relative">
-									<input type="email" name="" id="" placeholder="Enter your email" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="email" name="" id="" placeholder="Enter your email" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div>
 								<label for="" class="text-base font-medium text-white"> Phone number </label>
 								<div class="mt-2.5 relative">
-									<input type="tel" name="" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="tel" name="" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div>
 								<label for="" class="text-base font-medium text-white"> City</label>
 								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 							<div>
 								<label for="" class="text-base font-medium text-white"> Service </label>
 								<div class="mt-2.5 relative">
-									<select id="countries" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900">
+									<select id="countries" class="block w-full px-4 sm:py-3 py-2 text-gray-500 placeholder:text-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900">
 										<option selected>Select a Service</option>
 										<option value="Wedding">Wedding</option>
 										<option value="Pre-Wedding">Pre-Wedding</option>
@@ -179,14 +179,14 @@ About Us
 							<div>
 								<label for="" class="text-base font-medium text-white"> Budget </label>
 								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div class="sm:col-span-2">
 								<label for="" class="text-base font-medium text-white"> Message </label>
 								<div class="mt-2.5 relative">
-									<textarea name="" id="" placeholder="Type Here ...." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md resize-y focus:outline-none focus:border-slate-900 caret-slate-900" rows="4"></textarea>
+									<textarea name="" id="" placeholder="Type Here ...." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md resize-y focus:outline-none focus:border-slate-900 caret-slate-900" rows="4"></textarea>
 								</div>
 							</div>
 

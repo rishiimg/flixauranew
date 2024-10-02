@@ -329,4 +329,10 @@ class WebController extends Controller
         $babyshoot = DB::table('portfolio')->where('category_id',7)->where('type','image')->orderBy('id','DESC')->get();
         return view('frontend.baby-shoot.index',compact('cities','category','babyshoot'));
     }
+    public function haldiindex(){
+        return view('frontend.our-services.haldi.index');
+    }
+    public function mehendiindex(){
+        return view('frontend.our-services.mehendi.index');
+    }
 }

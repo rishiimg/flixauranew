@@ -296,37 +296,73 @@
 			<!-- Slide 1 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/X1lTCG8VKhA">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>
 				</div>
 			</div>
 			<!-- Slide 2 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>
 				</div>
 			</div>
 			<!-- Slide 3 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ysZEG4bSqvE">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>	
+				
 				</div>
 			</div>
 			<!-- Slide 1 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/X1lTCG8VKhA">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>
 				</div>
 			</div>
 			<!-- Slide 2 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>
 				</div>
 			</div>
 			<!-- Slide 3 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<iframe class="h-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ysZEG4bSqvE">
+				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+					<iframe class="h-full w-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					
+					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+				</div>
+				</a>	
+				
 				</div>
 			</div>
 			<!-- Add more slides as needed -->
@@ -832,34 +868,34 @@
 							<div>
 								<label for="" class="text-base font-medium text-white"> Your name </label>
 								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Enter your full name" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="text" name="" id="" placeholder="Enter your full name" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div>
 								<label for="" class="text-base font-medium text-white"> Email address </label>
 								<div class="mt-2.5 relative">
-									<input type="email" name="" id="" placeholder="Enter your email" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="email" name="" id="" placeholder="Enter your email" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div>
 								<label for="" class="text-base font-medium text-white"> Phone number </label>
 								<div class="mt-2.5 relative">
-									<input type="tel" name="" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="tel" name="" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div>
 								<label for="" class="text-base font-medium text-white"> City</label>
 								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 							<div>
 								<label for="" class="text-base font-medium text-white"> Service </label>
 								<div class="mt-2.5 relative">
-									<select id="countries" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900">
+									<select id="countries" class="block w-full px-4 sm:py-3 py-2 text-gray-500 placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900">
 										<option selected>Select a Service</option>
 										<option value="Wedding">Wedding</option>
 										<option value="Pre-Wedding">Pre-Wedding</option>
@@ -870,14 +906,14 @@
 							<div>
 								<label for="" class="text-base font-medium text-white"> Budget </label>
 								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div class="sm:col-span-2">
 								<label for="" class="text-base font-medium text-white"> Message </label>
 								<div class="mt-2.5 relative">
-									<textarea name="" id="" placeholder="Type Here ...." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md resize-y focus:outline-none focus:border-slate-900 caret-slate-900" rows="4"></textarea>
+									<textarea name="" id="" placeholder="Type Here ...." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md resize-y focus:outline-none focus:border-slate-900 caret-slate-900" rows="4"></textarea>
 								</div>
 							</div>
 

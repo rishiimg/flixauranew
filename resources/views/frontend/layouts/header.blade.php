@@ -80,186 +80,32 @@
           <li>
             <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.about_us') }}">About</a>
           </li>
-          <li class="group">
+          <li class="group relative">
             <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="/our-services">Our Services</a>
-            <div class="md:bg-white md:rounded-lg md:shadow-md translate-y-[22px] opacity-0 invisible duration-300 !w-full left-0 absolute group-hover:opacity-100 group-hover:visible pt-8 after:absolute after:-top-5 after:w-full after:h-10 after:bg-transparent">
-              <div class="relative py-1 md:p-2 md:grid md:grid-cols-2 lg:grid-cols-3 gap-4 overflow-hidden rounded-lg">
-                <div class="flex flex-col">
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
-                      <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Automotive</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Explore advice and
-                        explanations for all of HPIT features.</p>
-                    </div>
-                  </a>
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <rect width="7" height="7" x="14" y="3" rx="1"></rect>
-                      <path d="M10 21V8a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1H3">
-                      </path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Banking</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Discover the huge
-                        range of tools that HPIT integrates with.</p>
-                    </div>
-                  </a>
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="m7 11 2-2-2-2"></path>
-                      <path d="M11 13h4"></path>
-                      <rect width="18" height="18" x="3" y="3" rx="2" ry="2"></rect>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Defense</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Build custom
-                        integrations with our first-class API.</p>
-                    </div>
-                  </a>
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="m7 11 2-2-2-2"></path>
-                      <path d="M11 13h4"></path>
-                      <rect width="18" height="18" x="3" y="3" rx="2" ry="2"></rect>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Energy</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Build custom
-                        integrations with our first-class API.</p>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="flex flex-col">
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <circle cx="12" cy="12" r="10"></circle>
-                      <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
-                      <path d="M12 17h.01"></path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Government</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Learn how to install,
-                        set up, and use HPIT.</p>
-                    </div>
-                  </a>
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <circle cx="12" cy="12" r="4"></circle>
-                      <path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8"></path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Contract
-                        Vehicles</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Learn how to
-                        integrate or build on top of HPIT.</p>
-                    </div>
-                  </a>
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
-                      <circle cx="9" cy="7" r="4"></circle>
-                      <path d="M22 21v-2a4 4 0 0 0-3-3.87"></path>
-                      <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Homeland
-                        Security</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Learn, share, and
-                        connect with other HPIT users.</p>
-                    </div>
-                  </a>
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
-                      <circle cx="9" cy="7" r="4"></circle>
-                      <path d="M22 21v-2a4 4 0 0 0-3-3.87"></path>
-                      <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Intelligence</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Learn, share, and
-                        connect with other HPIT users.</p>
-                    </div>
-                  </a>
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <circle cx="12" cy="12" r="10"></circle>
-                      <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
-                      <path d="M12 17h.01"></path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Manufacturing</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Learn how to install,
-                        set up, and use HPIT.</p>
-                    </div>
-                  </a>
-
-                </div>
-
-                <div class="flex flex-col">
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <circle cx="12" cy="12" r="4"></circle>
-                      <path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8"></path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Science</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Learn how to
-                        integrate or build on top of HPIT.</p>
-                    </div>
-                  </a>
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
-                      <circle cx="9" cy="7" r="4"></circle>
-                      <path d="M22 21v-2a4 4 0 0 0-3-3.87"></path>
-                      <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Space</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Learn, share, and
-                        connect with other HPIT users.</p>
-                    </div>
-                  </a>
-
-                  <a class="p-3 flex gap-x-4 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg" href="#" target="_parent">
-                    <svg class="shrink-0 2xl:size-8 size-4 mt-1 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
-                      <circle cx="9" cy="7" r="4"></circle>
-                      <path d="M22 21v-2a4 4 0 0 0-3-3.87"></path>
-                      <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-                    </svg>
-                    <div class="grow">
-                      <p class="font-medium 2xl:text-xl 3xl:text-2xl text-sm text-gray-800">Travel
-                        And Transportation</p>
-                      <p class="2xl:text-xl text-sm text-gray-500">Learn, share, and
-                        connect with other HPIT users.</p>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="bg-theme2 text-white font-bold text-2xl size-56 rounded-full flex justify-center items-start p-9 absolute -bottom-20 -right-16 -rotate-45 text-center">
-                  <span class="mt-5">
-                    Who We Serve
-                  </span>
-                </div>
-
-              </div>
-              <!-- End Grid -->
+            <div class="md:bg-white md:rounded-lg md:shadow-md translate-y-[22px] opacity-0 invisible duration-300 left-0 absolute group-hover:opacity-100 group-hover:visible p-3 after:absolute after:-top-5 after:w-full after:h-10 after:bg-transparent w-52">
+              <ul class="flex flex-col gap-3">
+                <li>
+                  <a href="{{route('services.haldi') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Haldi</a>
+                </li>
+                <li>
+                  <a href="{{route('services.mehendi') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Mehendi</a>
+                </li>
+                <li>
+                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Pre-Wedding Photoshoot</a>
+                </li>  <li>
+                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Bridal Photoshoot</a>
+                </li>  <li>
+                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Destination Wedding</a>
+                </li>
+                <li>
+                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Candid Photography</a>
+                </li>
+                <li>
+                  <a href="javascript:;" class="text-black text-base relative duration-300 hover:text-amber-700 ">Wedding Photography</a>
+                </li>
+      
+              </ul>
+            
             </div>
           </li>
           <li>

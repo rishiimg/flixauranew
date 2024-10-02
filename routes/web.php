@@ -230,7 +230,11 @@ Route::any('/career', [WebController::class, 'career'])->name('website.career');
 Route::post('/careersubmit', [WebController::class, 'careersubmit'])->name('website.career.submit');
 Route::get('/blogs/category/{category}', [WebController::class, 'blogs'])->name('website.blogscategory');
 Route::get('/blog/{slug}', [WebController::class, 'singleBlog'])->name('website.singleBlog');
-// Route::get('/our-team', [WebController::class, 'ourTeam'])->name('website.ourTeam');
+
+Route::get('services/haldi', [WebController::class, 'haldiindex'])->name('services.haldi');
+Route::get('services/mehendi', [WebController::class, 'mehendiindex'])->name('services.mehendi');
+
+
 Route::get('/thankyou', function () {
     return view('frontend.thankyoupage.index');
 })->name('thankyou-page');
