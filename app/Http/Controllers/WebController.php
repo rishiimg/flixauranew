@@ -79,7 +79,8 @@ class WebController extends Controller
     {
         if (Auth::check()) {
             return redirect()->route('dashboard');
-        } else {
+        } 
+        else {
             return view('frontend.photographer.login');
         }
     }

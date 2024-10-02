@@ -827,39 +827,40 @@
 					<div class=" text-sm md:text-base leading-7 text-white/80 text-balance text-center ">Planning your wedding or an event? Fill out the booking form, and we'll get in touch with you shortly.
 						If it's urgent, call us at +91-98870 34345.</div>
 
-					<form action="#" method="POST" class="sm:mt-14 mt-10">
+					<form action="{{ route('contact.submit') }}"  method="POST" class="sm:mt-14 mt-10">
+						@csrf
 						<div class="grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4">
 							<div>
 								<label for="" class="text-base font-medium text-white"> Your name </label>
 								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Enter your full name" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="text" name="name" id="" placeholder="Enter your full name" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div>
 								<label for="" class="text-base font-medium text-white"> Email address </label>
 								<div class="mt-2.5 relative">
-									<input type="email" name="" id="" placeholder="Enter your email" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="email" name="email" id="" placeholder="Enter your email" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div>
 								<label for="" class="text-base font-medium text-white"> Phone number </label>
 								<div class="mt-2.5 relative">
-									<input type="tel" name="" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="tel" name="number" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div>
 								<label for="" class="text-base font-medium text-white"> City</label>
 								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="text" name="city" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 							<div>
 								<label for="" class="text-base font-medium text-white"> Service </label>
 								<div class="mt-2.5 relative">
-									<select id="countries" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900">
+									<select id="countries" name="service" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900">
 										<option selected>Select a Service</option>
 										<option value="Wedding">Wedding</option>
 										<option value="Pre-Wedding">Pre-Wedding</option>
@@ -870,19 +871,19 @@
 							<div>
 								<label for="" class="text-base font-medium text-white"> Budget </label>
 								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="text" name="budget" id="" placeholder="Type here..." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 
 							<div class="sm:col-span-2">
 								<label for="" class="text-base font-medium text-white"> Message </label>
 								<div class="mt-2.5 relative">
-									<textarea name="" id="" placeholder="Type Here ...." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md resize-y focus:outline-none focus:border-slate-900 caret-slate-900" rows="4"></textarea>
+									<textarea name="message" id="" placeholder="Type Here ...." class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md resize-y focus:outline-none focus:border-slate-900 caret-slate-900" rows="4"></textarea>
 								</div>
 							</div>
 
 							<div class="sm:col-span-2 text-center">
-								<button type="submit" class="inline-flex items-center justify-center w-auto px-4 py-2 mt-2 text-base font-semibold text-white transition-all duration-200 bg-slate-900 border border-transparent rounded-md focus:outline-none hover:bg-slate-800 focus:bg-slate-800">
+								<button type="submit" name="submit" class="inline-flex items-center justify-center w-auto px-4 py-2 mt-2 text-base font-semibold text-white transition-all duration-200 bg-slate-900 border border-transparent rounded-md focus:outline-none hover:bg-slate-800 focus:bg-slate-800">
 									Submit
 								</button>
 							</div>

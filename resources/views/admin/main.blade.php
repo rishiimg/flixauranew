@@ -403,7 +403,7 @@
                                         data-bs-parent="#navbarVerticalMenu">
                                         <a class="nav-link" href="{{ route('image.index') }}">Add
                                             image </a>
-                                        <a class="nav-link " href="{{ route('hero.view') }}">View
+                                        <a class="nav-link " href="{{ route('image.view') }}">View
                                             image</a>
                                         <a class="nav-link" href="{{ route('video.index') }}">Add
                                             video </a>

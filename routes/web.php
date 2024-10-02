@@ -17,6 +17,7 @@ use App\Http\Controllers\PhotographerportfolioController;
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\BlogCategoryController;
 use App\Http\Controllers\ClientController;
+use App\Http\Controllers\ContactusController;
 use App\Http\Controllers\HerosectionController;
 use App\Http\Controllers\ImagegalleryController;
 
@@ -187,18 +188,27 @@ Route::group(['prefix' => 'my-admin'], function () {
        | image gallery Section
        |--------------------------------------------------------------------------
        */
+        Route::any('contact-us', [ContactusController::class, 'index'])->name('contact.submit');
+        /*
+        /*
+       |--------------------------------------------------------------------------
+       | image gallery Section
+       |--------------------------------------------------------------------------
+       */
         Route::any('add-image', [ImagegalleryController::class, 'index'])->name('image.index');
-        Route::any('add-video', [ImagegalleryController::class, 'index'])->name('video.index');
+        Route::any('view-image', [ImagegalleryController::class, 'show'])->name('image.view');
+        Route::any('add-video', [ImagegalleryController::class, 'videoindex'])->name('video.index');
         // Route::any('view-txt', [ImagegalleryController::class, 'heroview'])->name('hero.view');
         /*
        |--------------------------------------------------------------------------
        | HEro  Section
        |--------------------------------------------------------------------------
-       */
+
+        */
         Route::any('add-txt', [HerosectionController::class, 'herotext'])->name('hero.index');
         Route::any('view-txt', [HerosectionController::class, 'heroview'])->name('hero.view');
-
          /*
+
         |--------------------------------------------------------------------------
         | Client Manager
         |--------------------------------------------------------------------------

@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\imagegallery;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class ImagegalleryController extends Controller
 {
@@ -17,10 +18,10 @@ class ImagegalleryController extends Controller
             unset($input['_token']);
             if ($files = $request->file('image')) {
                 foreach ($files as $file) {
-                    // $name = $file->getClientOriginalName();
-                        $imageName = time().'.'.$file->extension();  
+                        $imageName = uniqid().'.'.$file->extension();
                     $file->move(public_path('gallery'), $imageName);
-                    $images[]=$imageName;                }
+                    $images[]=$imageName;          
+                      }
             }
             imagegallery::insert( 
                      [  'image' =>  implode("|",$images),]
@@ -50,7 +51,9 @@ class ImagegalleryController extends Controller
      */
     public function show(imagegallery $imagegallery)
     {
-        //
+        $data = DB::table('imagegalleries')->get();
+            // $collection = Blog::where('id',$id)->first();
+        return view('gallery.image' , compact('data'));
     }
 
     /**
