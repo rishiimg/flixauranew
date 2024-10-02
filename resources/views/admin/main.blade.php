@@ -333,7 +333,7 @@
                         data-hs-theme-appearance="dark">
                 </a>
 
-                <!-- End Logo -->   
+                <!-- End Logo -->
 
                 <!-- Navbar Vertical Toggle -->
                 <button type="button" class="js-navbar-vertical-aside-toggle-invoker navbar-aside-toggler">
@@ -358,182 +358,202 @@
                                 </a>
                             </div>
                             @hasrole('admin')
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuClient" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuClient"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuClient">
-                                    <i class="bi bi-images nav-icon"></i>
-                                    <span class="nav-link-title">Client Manager</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuClient" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuClient"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuClient">
+                                        <i class="bi bi-images nav-icon"></i>
+                                        <span class="nav-link-title">Client Manager</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuClient" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link" href="{{ route('client.createclientslider') }}">Add
-                                        Slider</a>
-                                    <a class="nav-link " href="{{ route('client.viewclientslider') }}">View
-                                        Slider</a>
+                                    <div id="navbarVerticalMenuClient" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('client.createclientslider') }}">Add
+                                            Slider</a>
+                                        <a class="nav-link " href="{{ route('client.viewclientslider') }}">View
+                                            Slider</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuhero" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuhero"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuhero">
-                                    <i class="bi bi-dot nav-icon"></i>
-                                    <span class="nav-link-title">Hero Section</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuhero" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuhero"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuhero">
+                                        <i class="bi bi-dot nav-icon"></i>
+                                        <span class="nav-link-title">Hero Section</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuhero" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link" href="{{ route('hero.index') }}">Add
-                                    text    </a>
-                                    <a class="nav-link " href="{{ route('hero.view') }}">View
-                                        text</a>
+                                    <div id="navbarVerticalMenuhero" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('hero.index') }}">Add
+                                            text </a>
+                                        <a class="nav-link " href="{{ route('hero.view') }}">View
+                                            text</a>
+                                    </div>
+
                                 </div>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenugallery" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenugallery"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenugallery">
+                                        <i class="bi bi-dot nav-icon"></i>
+                                        <span class="nav-link-title">Gallery Section</span>
+                                    </a>
 
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuCarrier" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuCarrier"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuCarrier">
-                                    <i class="bi bi-file-person nav-icon"></i>
-                                    <span class="nav-link-title">Carrier Manager</span>
-                                </a>
-
-                                <div id="navbarVerticalMenuCarrier" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link " href="{{ route('carrier.view') }}">View
-                                        Carrier</a>
+                                    <div id="navbarVerticalMenugallery" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('image.index') }}">Add
+                                            image </a>
+                                        <a class="nav-link " href="{{ route('hero.view') }}">View
+                                            image</a>
+                                        <a class="nav-link" href="{{ route('video.index') }}">Add
+                                            video </a>
+                                        <a class="nav-link " href="{{ route('hero.view') }}">View
+                                            video</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuPortfolio" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuPortfolio"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuPortfolio">
-                                    <i class="bi bi-camera-fill nav-icon"></i>
-                                    <span class="nav-link-title">Portfolio Manager</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuCarrier" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuCarrier"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuCarrier">
+                                        <i class="bi bi-file-person nav-icon"></i>
+                                        <span class="nav-link-title">Carrier Manager</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuPortfolio" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link" href="{{ route('category.createpcategory') }}">Add
-                                        Category</a>
-                                    <a class="nav-link " href="{{ route('category.viewpcategory') }}">View
-                                        Category</a>
-                                    <a class="nav-link" href="{{ route('portfolio.createportfolio') }}">Add
-                                        Portfolio</a>
-                                    <a class="nav-link " href="{{ route('portfolio.viewportfolio') }}">View
-                                        Portfolio</a>
+                                    <div id="navbarVerticalMenuCarrier" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link " href="{{ route('carrier.view') }}">View
+                                            Carrier</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuPhotoCate" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuPhotoCate"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuPhotoCate">
-                                    <i class="bi-diagram-3-fill nav-icon"></i>
-                                    <span class="nav-link-title">Photographer Category Manager</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuPortfolio" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuPortfolio"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuPortfolio">
+                                        <i class="bi bi-camera-fill nav-icon"></i>
+                                        <span class="nav-link-title">Portfolio Manager</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuPhotoCate" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link" href="{{ route('category.createpphotocategory') }}">Add
-                                        Category</a>
-                                    <a class="nav-link " href="{{ route('category.viewpphotocategory') }}">View
-                                        Category</a>
+                                    <div id="navbarVerticalMenuPortfolio" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('category.createpcategory') }}">Add
+                                            Category</a>
+                                        <a class="nav-link " href="{{ route('category.viewpcategory') }}">View
+                                            Category</a>
+                                        <a class="nav-link" href="{{ route('portfolio.createportfolio') }}">Add
+                                            Portfolio</a>
+                                        <a class="nav-link " href="{{ route('portfolio.viewportfolio') }}">View
+                                            Portfolio</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuBlogCategory" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuBlogCategory"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenBlogCategory">
-                                    <i class="bi-diagram-2-fill nav-icon"></i>
-                                    <span class="nav-link-title">Blog Category Manager</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuPhotoCate" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuPhotoCate"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuPhotoCate">
+                                        <i class="bi-diagram-3-fill nav-icon"></i>
+                                        <span class="nav-link-title">Photographer Category Manager</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuBlogCategory" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link" href="{{ route('blogcategory.index') }}">Add
-                                        Category</a>
-                                    <a class="nav-link " href="{{ route('blogcategory.view') }}">View
-                                        Category</a>
+                                    <div id="navbarVerticalMenuPhotoCate" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('category.createpphotocategory') }}">Add
+                                            Category</a>
+                                        <a class="nav-link " href="{{ route('category.viewpphotocategory') }}">View
+                                            Category</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuBlog" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuBlog"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuBlog">
-                                    <i class="bi-bootstrap-fill nav-icon"></i>
-                                    <span class="nav-link-title">Blog Manager</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuBlogCategory" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuBlogCategory"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenBlogCategory">
+                                        <i class="bi-diagram-2-fill nav-icon"></i>
+                                        <span class="nav-link-title">Blog Category Manager</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuBlog" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link" href="{{ route('blog.index') }}">Add
-                                        Blog</a>
-                                    <a class="nav-link " href="{{ route('blog.view') }}">View
-                                        Blog</a>
+                                    <div id="navbarVerticalMenuBlogCategory" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('blogcategory.index') }}">Add
+                                            Category</a>
+                                        <a class="nav-link " href="{{ route('blogcategory.view') }}">View
+                                            Category</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuContact" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuContact"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuContact">
-                                    <i class="bi bi-envelope nav-icon"></i>
-                                    <span class="nav-link-title">Contact Manager</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuBlog" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuBlog"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuBlog">
+                                        <i class="bi-bootstrap-fill nav-icon"></i>
+                                        <span class="nav-link-title">Blog Manager</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuContact" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link" href="{{ route('contact.viewbooking') }}">Booking</a>
-                                    <a class="nav-link " href="{{ route('contact.viewcontact') }}">Contact Us</a>
+                                    <div id="navbarVerticalMenuBlog" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('blog.index') }}">Add
+                                            Blog</a>
+                                        <a class="nav-link " href="{{ route('blog.view') }}">View
+                                            Blog</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuCity" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuCity"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuCity">
-                                    <i class="bi bi-geo-alt-fill nav-icon"></i>
-                                    <span class="nav-link-title">City Manager</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuContact" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuContact"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuContact">
+                                        <i class="bi bi-envelope nav-icon"></i>
+                                        <span class="nav-link-title">Contact Manager</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuCity" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link" href="{{ route('city.add_city') }}">Add City</a>
-                                    <a class="nav-link " href="{{ route('city.view_city') }}">View City</a>
+                                    <div id="navbarVerticalMenuContact" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('contact.viewbooking') }}">Booking</a>
+                                        <a class="nav-link " href="{{ route('contact.viewcontact') }}">Contact Us</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuHome" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuHome"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuHome">
-                                    <i class="bi bi-laptop-fill nav-icon"></i>
-                                    <span class="nav-link-title">Home Page Manager</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuCity" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuCity"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuCity">
+                                        <i class="bi bi-geo-alt-fill nav-icon"></i>
+                                        <span class="nav-link-title">City Manager</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuHome" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link" href="{{ route('city.createexpertise') }}">Add Expertise</a>
-                                    <a class="nav-link " href="{{ route('city.viewexpertise') }}">View Expertise</a>
+                                    <div id="navbarVerticalMenuCity" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('city.add_city') }}">Add City</a>
+                                        <a class="nav-link " href="{{ route('city.view_city') }}">View City</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="nav-item">
-                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuPhotogrpher" role="button"
-                                    data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuPhotogrpher"
-                                    aria-expanded="false" aria-controls="navbarVerticalMenuPhotogrpher">
-                                    <i class="bi-people-fill nav-icon"></i>
-                                    <span class="nav-link-title">Photographer Manager</span>
-                                </a>
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuHome" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuHome"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuHome">
+                                        <i class="bi bi-laptop-fill nav-icon"></i>
+                                        <span class="nav-link-title">Home Page Manager</span>
+                                    </a>
 
-                                <div id="navbarVerticalMenuPhotogrpher" class="nav-collapse collapse hide"
-                                    data-bs-parent="#navbarVerticalMenu">
-                                    <a class="nav-link " href="{{ route('photographer.viewrequests') }}">View
-                                        Photographer Requests</a>
-                                    <a class="nav-link " href="{{ route('photographer.viewphotographers') }}">View
-                                        Photographers</a>
+                                    <div id="navbarVerticalMenuHome" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link" href="{{ route('city.createexpertise') }}">Add Expertise</a>
+                                        <a class="nav-link " href="{{ route('city.viewexpertise') }}">View Expertise</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <!-- End Collapse -->
-                        @endhasrole
-                        {{-- <div class="nav-item">
+                                <div class="nav-item">
+                                    <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuPhotogrpher" role="button"
+                                        data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuPhotogrpher"
+                                        aria-expanded="false" aria-controls="navbarVerticalMenuPhotogrpher">
+                                        <i class="bi-people-fill nav-icon"></i>
+                                        <span class="nav-link-title">Photographer Manager</span>
+                                    </a>
+
+                                    <div id="navbarVerticalMenuPhotogrpher" class="nav-collapse collapse hide"
+                                        data-bs-parent="#navbarVerticalMenu">
+                                        <a class="nav-link " href="{{ route('photographer.viewrequests') }}">View
+                                            Photographer Requests</a>
+                                        <a class="nav-link " href="{{ route('photographer.viewphotographers') }}">View
+                                            Photographers</a>
+                                    </div>
+                                </div>
+                                <!-- End Collapse -->
+                            @endhasrole
+                            {{-- <div class="nav-item">
                             <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuImagestock" role="button"
                                 data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuImagestock"
                                 aria-expanded="false" aria-controls="navbarVerticalMenuImagestock">
@@ -549,24 +569,25 @@
                                     Images</a>
                             </div>
                         </div> --}}
-                        <div class="nav-item">
-                            <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuPhotoortfolio" role="button"
-                                data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuPhotoortfolio"
-                                aria-expanded="false" aria-controls="navbarVerticalMenuPhotoortfolio">
-                                <i class="bi bi-camera-fill nav-icon"></i>
-                                <span class="nav-link-title">PhotoG Portfolio Manager</span>
-                            </a>
+                            <div class="nav-item">
+                                <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuPhotoortfolio"
+                                    role="button" data-bs-toggle="collapse"
+                                    data-bs-target="#navbarVerticalMenuPhotoortfolio" aria-expanded="false"
+                                    aria-controls="navbarVerticalMenuPhotoortfolio">
+                                    <i class="bi bi-camera-fill nav-icon"></i>
+                                    <span class="nav-link-title">PhotoG Portfolio Manager</span>
+                                </a>
 
-                            <div id="navbarVerticalMenuPhotoortfolio" class="nav-collapse collapse hide"
-                                data-bs-parent="#navbarVerticalMenu">
-                                <a class="nav-link" href="{{ route('createphotoportfolio') }}">Add
-                                    Portfolio</a>
-                                <a class="nav-link " href="{{ route('viewphotoportfolio') }}">View
-                                    Portfolio</a>
+                                <div id="navbarVerticalMenuPhotoortfolio" class="nav-collapse collapse hide"
+                                    data-bs-parent="#navbarVerticalMenu">
+                                    <a class="nav-link" href="{{ route('createphotoportfolio') }}">Add
+                                        Portfolio</a>
+                                    <a class="nav-link " href="{{ route('viewphotoportfolio') }}">View
+                                        Portfolio</a>
+                                </div>
                             </div>
-                        </div>
                         @endhasrole
-                        
+
                     </div>
 
                 </div>
@@ -898,12 +919,12 @@
 
     <!-- Builder Toggle -->
     @hasrole('admin')
-    <div id="builderOffcanvas" class="position-fixed bottom-0 end-0 me-5 mb-5" style="z-index: 3;"
-        data-bs-toggle="offcanvas" data-bs-target="#offcanvasBuilder" aria-controls="offcanvasBuilder">
-        <a class="btn btn-dark btn-lg" href="javascript:;">
-            <i class="bi-sliders fs-6 me-2"></i> Customize
-        </a>
-    </div>
+        <div id="builderOffcanvas" class="position-fixed bottom-0 end-0 me-5 mb-5" style="z-index: 3;"
+            data-bs-toggle="offcanvas" data-bs-target="#offcanvasBuilder" aria-controls="offcanvasBuilder">
+            <a class="btn btn-dark btn-lg" href="javascript:;">
+                <i class="bi-sliders fs-6 me-2"></i> Customize
+            </a>
+        </div>
     @endhasrole
     <!-- End Builder Toggle -->
 
@@ -1582,34 +1603,34 @@
             }
         }
     </script>
-<script src="{{ asset('public/assets/build/ckeditor.js') }}"></script>
-<script>
-    ClassicEditor
-        .create(document.querySelector('.editor'), {
+    <script src="{{ asset('public/assets/build/ckeditor.js') }}"></script>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('.editor'), {
 
-            licenseKey: '',
-
-
-
-
-        })
-        .then(editor => {
-            window.editor = editor;
+                licenseKey: '',
 
 
 
 
-        })
-        .catch(error => {
-            console.error('Oops, something went wrong!');
-            console.error(
-                'Please, report the following error on https://github.com/ckeditor/ckeditor5/issues with the build id and the error stack trace:'
+            })
+            .then(editor => {
+                window.editor = editor;
+
+
+
+
+            })
+            .catch(error => {
+                console.error('Oops, something went wrong!');
+                console.error(
+                    'Please, report the following error on https://github.com/ckeditor/ckeditor5/issues with the build id and the error stack trace:'
                 );
-            console.warn('Build id: enwcy1kiklss-aozra0pqpxdy');
-            console.error(error);
-            s
-        });
-</script>
+                console.warn('Build id: enwcy1kiklss-aozra0pqpxdy');
+                console.error(error);
+                s
+            });
+    </script>
 
 
     <!-- End Style Switcher JS -->
