@@ -115,7 +115,7 @@
             <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left "  href="{{route('website.blog') }}">Blog</a>
           </li>
           <li>
-            <!-- <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.contact_us')}}">Contact</a> -->
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.contact_us')}}">Contact</a>
           </li>
         </ul>
         <div class="hidden group-[]/nav:max-md:block">

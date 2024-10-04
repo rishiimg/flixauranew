@@ -328,6 +328,11 @@ class WebController extends Controller
         return view('frontend.gallery.index');
     }
 
+    public function ourTeam2(Request $request)
+    {
+        return view('frontend.contact-us.index');
+    }
+
     // public function blognew(Request $request)
     // {
     //     return view('frontend.blog.index');
