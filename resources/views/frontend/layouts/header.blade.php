@@ -81,7 +81,7 @@
             <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.about_us') }}">About</a>
           </li>
           <li class="group relative">
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="/our-services">Our Services</a>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="javascript:;">Our Services</a>
             <div class="md:bg-white md:rounded-lg md:shadow-md translate-y-[22px] opacity-0 invisible duration-300 left-0 absolute group-hover:opacity-100 group-hover:visible p-3 after:absolute after:-top-5 after:w-full after:h-10 after:bg-transparent w-52">
               <ul class="flex flex-col gap-3">
                 <li>
@@ -98,21 +98,21 @@
                 </li>
                 <li>
                   <a href="{{route('services.candid-photography') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Candid Photography</a>
-                </li>  
+                </li>
                 <li>
-                  <a  href="{{route('services.pre-wedding-photoshoot') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Pre-Wedding Photoshoot</a>
-                </li>  
-             
-             
+                  <a href="{{route('services.pre-wedding-photoshoot') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Pre-Wedding Photoshoot</a>
+                </li>
+
+
               </ul>
-            
+
             </div>
           </li>
           <li>
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left "  href="{{route('website.gallery') }}">Gallery</a>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.gallery') }}">Gallery</a>
           </li>
           <li>
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left "  href="{{route('website.blog') }}">Blog</a>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.blog') }}">Blog</a>
           </li>
           <li>
             <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.contact_us')}}">Contact</a>
@@ -163,86 +163,86 @@
           <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/">HOME</a>
         </li>
         <li>
-          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/about-us">About Us</a>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="{{route('website.about_us') }}">About Us</a>
         </li>
         <!-- <li>
           <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/our-services">Our Services</a>
         </li> -->
         <div class="relative flex flex-col gap-y-3">
-                <input class="peer/mm hidden" type="checkbox" name="mmMenu" id="mmCompany">
-                <label for="mmCompany" class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold">
-                Our Services
-                  <svg class="h-5 w-5 ml-auto flex-none text-gray-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd"></path>
-                  </svg>
-                </label>
-                <div class="w-full peer-checked/mm:block hidden">
-                  <div class="grid grid-cols-1 flex-wrap w-full gap-4">
-                    <div class="w-full text-sm xl:text-base *:flex *:items-center *:gap-x-3 *:py-1 *:relative">
-                      <div>
-                        <div class="flex-auto">
-                          <a href="javascript:;" class="block font-semibold  text-slate-950/70 px-2">
-                            Haldi
-                          </a>
-                        </div>
-                      </div>
-                      <div>
-                    
-                        <div class="flex-auto">
-                          <a href="https://www.imgglobalinfotech.com/testimonials.php" class="block font-semibold  text-slate-950/70 px-2">
-                          Mehendi
-
-                          </a>
-                        </div>
-                      </div>
-                      <div>
-                      
-                        <div class="flex-auto">
-                          <a href="https://www.flickr.com/photos/imgglobalinfotech" class="block font-semibold  text-slate-950/70 px-2">
-                          Engagement
-
-                          </a>
-                        </div>
-                      </div>
-                      <div >
-                  
-                        <div class="flex-auto">
-                          <a href="https://www.imgglobalinfotech.com/career.php" class="block font-semibold  text-slate-950/70 px-2">
-                          Wedding Photography
-
-                          </a>
-                        </div>
-                      </div>
-                      <div>
-                  
-                        <div class="flex-auto">
-                          <a href="https://www.imgglobalinfotech.com/casestudy.php" class="block font-semibold  text-slate-950/70 px-2">
-                          Candid Photography
-
-                          </a>
-                        </div>
-                      </div>
-                      <div class=" border-b ">
-                     
-                        <div class="flex-auto pb-3">
-                          <a href="https://www.imgglobalinfotech.com/disclaimer.php" class="block font-semibold  text-slate-950/70 px-2">
-                          Pre-Wedding Photoshoot
-                          </a>
-                        </div>
-                      </div>
-                   
-                    </div>
+          <input class="peer/mm hidden" type="checkbox" name="mmMenu" id="mmCompany">
+          <label for="mmCompany" class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold">
+            Our Services
+            <svg class="h-5 w-5 ml-auto flex-none text-gray-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd"></path>
+            </svg>
+          </label>
+          <div class="w-full peer-checked/mm:block hidden">
+            <div class="grid grid-cols-1 flex-wrap w-full gap-4">
+              <div class="w-full text-sm xl:text-base *:flex *:items-center *:gap-x-3 *:py-1 *:relative">
+                <div>
+                  <div class="flex-auto">
+                    <a href="{{route('services.haldi') }}" class="block font-semibold  text-slate-950/70 px-2">
+                      Haldi
+                    </a>
                   </div>
                 </div>
+                <div>
+
+                  <div class="flex-auto">
+                    <a href="{{route('services.mehendi') }}" class="block font-semibold  text-slate-950/70 px-2">
+                      Mehendi
+
+                    </a>
+                  </div>
+                </div>
+                <div>
+
+                  <div class="flex-auto">
+                    <a href="{{route('services.engagement') }}" class="block font-semibold  text-slate-950/70 px-2">
+                      Engagement
+
+                    </a>
+                  </div>
+                </div>
+                <div>
+
+                  <div class="flex-auto">
+                    <a href="{{route('services.wedding-photography') }}" class="block font-semibold  text-slate-950/70 px-2">
+                      Wedding Photography
+
+                    </a>
+                  </div>
+                </div>
+                <div>
+
+                  <div class="flex-auto">
+                    <a href="{{route('services.candid-photography') }}" class="block font-semibold  text-slate-950/70 px-2">
+                      Candid Photography
+
+                    </a>
+                  </div>
+                </div>
+                <div class=" border-b ">
+
+                  <div class="flex-auto pb-3">
+                    <a href="{{route('services.pre-wedding-photoshoot') }}" class="block font-semibold  text-slate-950/70 px-2">
+                      Pre-Wedding Photoshoot
+                    </a>
+                  </div>
+                </div>
+
               </div>
+            </div>
+          </div>
+        </div>
         <li>
-          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/gallery">Gallery</a>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="{{route('website.gallery') }}">Gallery</a>
         </li>
         <li>
-          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/blog">Blog</a>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="{{route('website.blog') }}">Blog</a>
         </li>
         <li>
-          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/contact">Contact Us</a>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="{{route('website.contact_us')}}">Contact Us</a>
         </li>
         <li>
           <button class="flex justify-between text-white items-center overflow-hidden group gap-4">
