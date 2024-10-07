@@ -2,7 +2,7 @@
   <div class="mt-auto max-2xl:max-w-7xl 2xl:px-24 3xl:px-36  px-6 lg:px-8 w-full py-6 lg:pt-20 mx-auto">
     <div class="grid grid-cols-3 sm:grid-cols-6 md:grid-cols-12 gap-6">
       <div class="col-span-3">
-        <a class="[filter:contrast(0)brightness(2)] flex-none inline-block 3xl:max-w-60 2xl:max-w-50 max-w-40 text-xl font-semibold text-white focus:outline-none focus:opacity-80" href="./index.html" aria-label="Brand">
+        <a class="[filter:contrast(0)brightness(2)] flex-none inline-block 3xl:max-w-60 2xl:max-w-50 max-w-40 text-xl font-semibold text-white focus:outline-none focus:opacity-80" href="/" aria-label="Brand">
           <img src="{{asset('/public/tailwind_frontend/logo1.png')}}" alt="logo" class="w-full h-full">
         </a>
         <div class="">
@@ -57,17 +57,17 @@
 
         <div class="mt-3 grid space-y-3">
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="./about.html">Home</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="/">Home</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="./project.html">About Us</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('website.about_us') }}">About Us</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="./careers.html">Blog</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('website.blog') }}">Blog</a>
            
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="./contact.html">Portfolio</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('website.contact_us')}}">Contact Us</a>
           </p>
         </div>
       </div>
@@ -77,25 +77,23 @@
 
         <div class="mt-3 grid space-y-3">
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="javascript:;">Haldi</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('services.haldi') }}">Haldi</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="javascript:;">Mehandi</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('services.mehendi') }}">Mehandi</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="javascript:;">Pre-Wedding Photoshoot</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('services.pre-wedding-photoshoot') }}">Pre-Wedding Photoshoot</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="javascript:;">Bridal Photoshoot</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('services.engagement') }}">Engagement Photoshoot</a>
+          </p>
+       
+          <p>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('services.candid-photography') }}">Candid Photography</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="javascript:;">Destination Wedding</a>
-          </p>
-          <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="javascript:;">Candid Photography</a>
-          </p>
-          <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="javascript:;">Wedding Photography</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('services.wedding-photography') }}">Wedding Photography</a>
           </p>
         </div>
       </div>
