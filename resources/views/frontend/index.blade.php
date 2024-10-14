@@ -83,38 +83,38 @@
 		<div class="w-max flex group/marquee gap-3 *:flex *:items-center *:gap-3 *:duration-700 *:[animation-duration:50s] *:animate-marquee-h lg:*:*:w-[1700px] ">
 			<div class="group-hover/marquee:[animationplay-state:paused]">
 
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
 
 			</div>
 
 			<div class="group-hover/marquee:[animationplay-state:paused]">
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
-				<div class="text-[#f3f4f6] text-[150px] sm:text-[190px] inline-block font-bold uppercase leading-[150px] ">
+				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
 					CandidShutters
 				</div>
 			</div>
@@ -157,8 +157,8 @@
 
 <!-- 3rd section  -->
 <section class="max-sm:px-6 py-10">
-	<div class="mx-auto max-w-7xl  sm:pb-10 pb-7">
-		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 pb-5">
+	<div class="mx-auto max-w-7xl lg:px-8 px-6 sm:pb-10 pb-7">
+		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 lg:pb-14 pb-5">
 			Gallery
 			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
 				Image
@@ -386,13 +386,13 @@
 <!-- {/* counter 5th */} -->
 
 <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full lg:py-20 sm:py-10 max-sm:pb-10">
-	<div class="grid grid-cols-2 md:grid-cols-5 gap-y-4 md:gap-4 items-center sm:mt-14 mt-5">
+	<div class="grid grid-cols-2 md:grid-cols-5 gap-y-4 md:gap-4 items-center lg:mt-14 mt-5">
 		<div class="col-span-3">
 			<div class="py-6">
 				<div class="text-[#ec9a96] text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-8">
 					Nurtured to perfection
 				</div>
-				<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 gap-y-10 md:gap-y-20">
+				<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 gap-y-7 md:gap-y-20">
 					<div class="">
 						<div class="font-semibold text-5xl text-center text-gray-300">
 							75+
@@ -454,18 +454,18 @@
 <!-- 6th section  -->
 <div class="bg-black/90 md:py-20 py-12">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6">
-		<div class="flex items-center justify-between">
-			<div class="text-white text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-8">
+		<div class="flex items-center justify-between pb-8">
+			<div class="text-white text-[32px] sm:text-[45px] md::text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] x">
 				Client Testimonial
 			</div>
 			<div class="flex items-center space-x-2 fill-gray-500">
 				<button id="prevButton">
-					<svg class="h-10 w-10 rounded-full border p-1 hover:border-amber-600 hover:fill-amber-600 dark:fill-white dark:hover:fill-amber-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+					<svg class="sm:h-10 sm:w-10 h-7 w-7 rounded-full border p-1 hover:border-amber-600 hover:fill-amber-600 dark:fill-white dark:hover:fill-amber-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
 						<path d="M13.293 6.293L7.58 12l5.7 5.7 1.41-1.42 -4.3-4.3 4.29-4.293Z"></path>
 					</svg>
 				</button>
 				<button id="nextButton">
-					<svg class="h-10 w-10 rounded-full border p-1 hover:border-amber-600 hover:fill-amber-600 dark:fill-white dark:hover:fill-amber-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+					<svg class="sm:h-10 sm:w-10 h-7 w-7 rounded-full border p-1 hover:border-amber-600 hover:fill-amber-600 dark:fill-white dark:hover:fill-amber-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
 						<path d="M10.7 17.707l5.7-5.71 -5.71-5.707L9.27 7.7l4.29 4.293 -4.3 4.29Z"></path>
 					</svg>
 				</button>
@@ -648,9 +648,9 @@
 <div class=" md:py-20 py-12">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6">
 	<div class="mx-auto max-w-7xl  pb-10">
-		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 ">
+		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 lg:pb-14 ">
 		Blog & Tips
-			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[70px] font-light">
+			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent lg:text-[120px] sm:text-[90px] text-[70px] font-light">
 			 From Us!
 			</div>
 		</div>
@@ -855,7 +855,7 @@
 
 		<div class="max-w-5xl max-sm:px-4 mx-auto">
 
-			<div class="mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
+			<div class="sm:mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
 				<div class="p-6 sm:p-12">
 					<div class="text-white text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-5">
 						Book Now

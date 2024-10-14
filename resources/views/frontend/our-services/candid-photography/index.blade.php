@@ -359,7 +359,7 @@ About Us
 
 		<div class="max-w-5xl max-sm:px-4 mx-auto">
 
-			<div class="mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
+			<div class="sm:mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
 				<div class="p-6 sm:p-12">
 					<div class="text-white text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-5">
 						Book Now
