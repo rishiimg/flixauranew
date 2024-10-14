@@ -78,7 +78,7 @@
 
 <!-- 2nd section  -->
 
-<section class="lg:py-20 py-12  overflow-hidden ">
+<section class="lg:py-20 sm:py-12 max-sm:pt-10 max-sm:pb-5  overflow-hidden ">
 	<div class="w-full lg:text-left relative z-[1] overflow-hidden md:gap-10 gap-8 flex flex-col">
 		<div class="w-max flex group/marquee gap-3 *:flex *:items-center *:gap-3 *:duration-700 *:[animation-duration:50s] *:animate-marquee-h lg:*:*:w-[1700px] ">
 			<div class="group-hover/marquee:[animationplay-state:paused]">
@@ -157,7 +157,7 @@
 
 <!-- 3rd section  -->
 <section class="max-sm:px-6 py-10">
-	<div class="mx-auto max-w-7xl lg:px-8 px-6 pb-10">
+	<div class="mx-auto max-w-7xl  sm:pb-10 pb-7">
 		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 pb-5">
 			Gallery
 			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
@@ -283,7 +283,7 @@
 
 <!-- 4th section  -->
 <div class="mx-auto max-w-7xl lg:px-8 px-6">
-	<div class="sm:text-5xl text-4xl relative  text-balance md:w-1/2 w-full font-bold text-slate-800 pb-14">
+	<div class="sm:text-5xl text-4xl relative  text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 pb-8">
 		Gallery
 		<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
 				Video
@@ -647,10 +647,10 @@
 <!-- 7th section start  -->
 <div class=" md:py-20 py-12">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6">
-	<div class="mx-auto max-w-7xl lg:px-8 px-6 pb-10">
-		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 pb-7">
+	<div class="mx-auto max-w-7xl  pb-10">
+		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 ">
 		Blog & Tips
-			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
+			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[70px] font-light">
 			 From Us!
 			</div>
 		</div>

@@ -217,6 +217,7 @@ Route::get('contact-us', [WebController::class, 'ourTeam2'])->name('website.cont
 
 Route::get('gallery', [WebController::class, 'ourTeam1'])->name('website.gallery');
 // Route::get('blog', [WebController::class, 'blognew'])->name('website.blog');
+Route::get('blog-details',[WebController::class, 'blogDetails'])->name('blog.details');
 
 
 // Route::get('contact-us', [WebController::class, 'contact_us'])->name('website.contact_us');
@@ -244,7 +245,6 @@ Route::get('services/engagement', [WebController::class, 'engagementindex'])->na
 Route::get('services/wedding-photography', [WebController::class, 'weddingphotographyindex'])->name('services.wedding-photography');
 Route::get('services/candid-photography', [WebController::class, 'candidphotographyindex'])->name('services.candid-photography');
 Route::get('services/pre-wedding-photoshoot', [WebController::class, 'preweddingphotoshootindex'])->name('services.pre-wedding-photoshoot');
-
 
 
 

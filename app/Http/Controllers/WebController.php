@@ -363,4 +363,7 @@ class WebController extends Controller
     public function preweddingphotoshootindex(){
         return view('frontend.our-services.pre-wedding-photoshoot.index');
     }
+    public function blogDetails(){
+        return view('frontend.blog.blog-details.index');
+    }
 }

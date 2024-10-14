@@ -2,7 +2,7 @@
   <div class="mt-auto max-2xl:max-w-7xl 2xl:px-24 3xl:px-36  px-6 lg:px-8 w-full py-6 lg:pt-20 mx-auto">
     <div class="grid grid-cols-3 sm:grid-cols-6 md:grid-cols-12 gap-6">
       <div class="col-span-3">
-        <a class="[filter:contrast(0)brightness(2)] flex-none inline-block 3xl:max-w-60 2xl:max-w-50 max-w-40 text-xl font-semibold text-white focus:outline-none focus:opacity-80" href="/" aria-label="Brand">
+        <a class="[filter:contrast(0)brightness(2)] flex-none inline-block 3xl:max-w-60 2xl:max-w-50 max-w-40 text-xl font-semibold text-white focus:outline-none focus:opacity-80" href="{{ url('/') }}" aria-label="Brand">
           <img src="{{asset('/public/tailwind_frontend/logo1.png')}}" alt="logo" class="w-full h-full">
         </a>
         <div class="">
@@ -57,7 +57,7 @@
 
         <div class="mt-3 grid space-y-3">
           <p>
-            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="/">Home</a>
+            <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{ url('/') }}">Home</a>
           </p>
           <p>
             <a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 text-base 2xl:text-lg 3xl:text-2xl" href="{{route('website.about_us') }}">About Us</a>
@@ -133,7 +133,7 @@
     </div>
 
     <div class="mt-6 sm:mt-12 flex justify-center items-center border-t border-gray-600">
-      <p class="text-sm  2xl:text-base 3xl:text-xl pt-6 text-gray-200 flex items-center">
+      <p class="text-xs  2xl:text-base 3xl:text-xl pt-6 text-gray-200 flex items-center">
         Copyright© Flixaura. All Rights Reserved | <a href="https://www.imgglobalinfotech.com/" target="_blank" class="credits m-0 text-white text-decoration-none">
           <img  src="https://www.flixaura.com/public/frontend_assets/img/logos/logo.png" class=" h-5 ms-2" alt="footer logo" data-bs-original-title="IMG Global Infotech" aria-label="IMG Global Infotech">
         </a>

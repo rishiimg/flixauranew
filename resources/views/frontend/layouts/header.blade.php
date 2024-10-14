@@ -4,7 +4,7 @@
       <div class="md:flex hidden">
         <ul class="flex items-center gap-3">
           <li>
-            <a class="size-5 text-white" href="/">
+            <a class="size-5 text-white" href="{{ url('/') }}">
               <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                 <path d="M14 13.5H16.5L17.5 9.5H14V7.5C14 6.47062 14 5.5 16 5.5H17.5V2.1401C17.1743 2.09685 15.943 2 14.6429 2C11.9284 2 10 3.65686 10 6.69971V9.5H7V13.5H10V22H14V13.5Z">
 
@@ -13,7 +13,7 @@
             </a>
           </li>
           <li>
-            <a class="size-5 text-white" href="/">
+            <a class="size-5 text-white" href="{{ url('/') }}">
               <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                 <path d="M492 109.5c-17.4 7.7-36 12.9-55.6 15.3 20-12 35.4-31 42.6-53.6-18.7 11.1-39.4 19.2-61.5 23.5C399.8 75.8 374.6 64 346.8 64c-53.5 0-96.8 43.4-96.8 96.9 0 7.6.8 15 2.5 22.1-80.5-4-151.9-42.6-199.6-101.3-8.3 14.3-13.1 31-13.1 48.7 0 33.6 17.2 63.3 43.2 80.7-16-.4-31-4.8-44-12.1v1.2c0 47 33.4 86.1 77.7 95-8.1 2.2-16.7 3.4-25.5 3.4-6.2 0-12.3-.6-18.2-1.8 12.3 38.5 48.1 66.5 90.5 67.3-33.1 26-74.9 41.5-120.3 41.5-7.8 0-15.5-.5-23.1-1.4C62.8 432 113.7 448 168.3 448 346.6 448 444 300.3 444 172.2c0-4.2-.1-8.4-.3-12.5C462.6 146 479 129 492 109.5z">
 
@@ -22,7 +22,7 @@
             </a>
           </li>
           <li>
-            <a class="size-5 text-white" href="/">
+            <a class="size-5 text-white" href="{{ url('/') }}">
               <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                 <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
 
@@ -31,7 +31,7 @@
             </a>
           </li>
           <li>
-            <a class="size-5 text-white" href="/">
+            <a class="size-5 text-white" href="{{ url('/') }}">
               <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                 <path d="M424 80H88a56.06 56.06 0 0 0-56 56v240a56.06 56.06 0 0 0 56 56h336a56.06 56.06 0 0 0 56-56V136a56.06 56.06 0 0 0-56-56zm-14.18 92.63-144 112a16 16 0 0 1-19.64 0l-144-112a16 16 0 1 1 19.64-25.26L256 251.73l134.18-104.36a16 16 0 0 1 19.64 25.26z">
 
@@ -42,7 +42,7 @@
         </ul>
       </div>
       <div class="flex items-center justify-center py-2">
-        <a href="/">
+        <a href="{{ url('/') }}">
           <img src="{{ asset('/public/tailwind_frontend/logo1.png') }}" alt="logp" width="100" height="100" class=" sm:size-16 size-12">
         </a>
       </div>
@@ -68,39 +68,39 @@
     </div>
     <div class="bootomheader pt-4 group-[]/nav:pt-0 flex items-center group-[]/nav:justify-between justify-center ">
       <div class="hidden group-[]/nav:flex items-center justify-center py-2 ">
-        <a href="/">
+        <a href="{{ url('/') }}">
           <img src="{{ asset('/public/tailwind_frontend/logo1.png') }}" alt="logp" width="100" height="100" class=" sm:size-16 size-12">
         </a>
       </div>
       <div class="flex items-center justify-center gap-8">
         <ul class="list-none md:flex hidden justify-center m-0 space-x-4">
           <li>
-            <a class="after:transform after:scale-x-100 after:origin-left text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="/">Home</a>
+            <a class="text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left {{ request()->is('/*') ? ' border-white border-b-[2px]' : '' }} " href="{{ url('/') }}">Home</a>
           </li>
           <li>
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.about_us') }}">About</a>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left {{ request()->is('about-us*') ? ' border-white border-b-[2px]' : '' }} " href="{{route('website.about_us') }}">About</a>
           </li>
           <li class="group relative">
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="javascript:;">Our Services</a>
+            <a class=" text-white py-1 text-base font-medium relative cursor-pointer after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  " href="">Our Services</a>
             <div class="md:bg-white md:rounded-lg md:shadow-md translate-y-[22px] opacity-0 invisible duration-300 left-0 absolute group-hover:opacity-100 group-hover:visible p-3 after:absolute after:-top-5 after:w-full after:h-10 after:bg-transparent w-52">
               <ul class="flex flex-col gap-3">
                 <li>
-                  <a href="{{route('services.haldi') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Haldi</a>
+                  <a href="{{route('services.haldi') }}" class="text-black text-base relative duration-300 hover:text-amber-700 w-full {{ request()->is('services/haldi*') ? ' !text-amber-700 font-semibold ' : '' }}">Haldi</a>
                 </li>
                 <li>
-                  <a href="{{route('services.mehendi') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Mehendi</a>
+                  <a href="{{route('services.mehendi') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/mehendi*') ? ' !text-amber-700 font-semibold ' : '' }}">Mehendi</a>
                 </li>
                 <li>
-                  <a href="{{route('services.engagement') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Engagement</a>
+                  <a href="{{route('services.engagement') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/engagement*') ? ' !text-amber-700 font-semibold ' : '' }}">Engagement</a>
                 </li>
                 <li>
-                  <a href="{{route('services.wedding-photography') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Wedding Photography</a>
+                  <a href="{{route('services.wedding-photography') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/wedding-photography*') ? ' !text-amber-700 font-semibold ' : '' }}">Wedding Photography</a>
                 </li>
                 <li>
-                  <a href="{{route('services.candid-photography') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Candid Photography</a>
+                  <a href="{{route('services.candid-photography') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/candid-photography*') ? ' !text-amber-700 font-semibold ' : '' }}">Candid Photography</a>
                 </li>
                 <li>
-                  <a href="{{route('services.pre-wedding-photoshoot') }}" class="text-black text-base relative duration-300 hover:text-amber-700 ">Pre-Wedding Photoshoot</a>
+                  <a href="{{route('services.pre-wedding-photoshoot') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/pre-wedding-photoshoot*') ? ' !text-amber-700 font-semibold ' : '' }}">Pre-Wedding Photoshoot</a>
                 </li>
 
 
@@ -109,13 +109,13 @@
             </div>
           </li>
           <li>
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.gallery') }}">Gallery</a>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left {{ request()->is('gallery*') ? ' border-white border-b-[2px]' : '' }} " href="{{route('website.gallery') }}">Gallery</a>
           </li>
           <li>
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.blog') }}">Blog</a>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left {{ request()->is('blog*') ? ' border-white border-b-[2px]' : '' }} " href="{{route('website.blog') }}">Blog</a>
           </li>
           <li>
-            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left " href="{{route('website.contact_us')}}">Contact</a>
+            <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left {{ request()->is('contact-us*') ? ' border-white border-b-[2px]' : '' }} " href="{{route('website.contact_us')}}">Contact</a>
           </li>
         </ul>
         <div class="hidden group-[]/nav:max-md:block">
@@ -145,7 +145,7 @@
   </div> -->
   <div class="flex flex-col overflow-hidden h-full w-full relative z-10 ms-auto">
     <div class="flex items-center justify-between p-3 bg-slate-950">
-      <a href="/">
+      <a href="{{ url('/') }}">
         <img src="{{ asset('/public/tailwind_frontend/logo.png') }}" alt="logp" width="100" height="100" class=" w-32">
       </a>
       <div>
@@ -160,7 +160,7 @@
     <div class="relative flex w-full p-3 flex-auto overflow-y-auto flex-col z-20 bg-white">
       <ul>
         <li>
-          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="/">HOME</a>
+          <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="{{ url('/') }}">HOME</a>
         </li>
         <li>
           <a class="flex items-center gap-2 border-b group relative px-2 py-1.5 w-full text-slate-950/70 hover:text-slate-950 text-sm font-semibold" href="{{route('website.about_us') }}">About Us</a>
