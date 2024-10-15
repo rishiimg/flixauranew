@@ -1,12 +1,12 @@
 <script>
-    window.addEventListener("scroll", function () {
-      var scroll = window.scrollY;
-      var navbar = document.querySelector("body");
-      if (scroll <= 120) {
-        navbar.classList.remove("group/nav");
-      } else {
-        navbar.classList.add("group/nav");
-      }
+    window.addEventListener("scroll", function() {
+        var scroll = window.scrollY;
+        var navbar = document.querySelector("body");
+        if (scroll <= 120) {
+            navbar.classList.remove("group/nav");
+        } else {
+            navbar.classList.add("group/nav");
+        }
     });
 </script>
 
@@ -28,25 +28,20 @@
 </script>
 
 
-<!-- Fancybox Initialization Script video -->
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        Fancybox.bind("[data-fancybox='video']", {
-            Carousel: {
-                infinite: false,
-            },
-        });
-    });
-</script>
 
 
 <!-- Fancybox Initialization Script gallery -->
 <script>
-    document.addEventListener('DOMContentLoaded', function () {
-        Fancybox.bind("[data-fancybox='gallery']", {
-            Carousel: {
-                infinite: false,
-            },
+    document.addEventListener('DOMContentLoaded', function() {
+        // Sab unique data-fancybox attributes ko find karo
+        const uniqueGalleries = [...new Set(Array.from(document.querySelectorAll('[data-fancybox]')).map(item => item.getAttribute('data-fancybox')))];
+
+        uniqueGalleries.forEach(function(gallery) {
+            Fancybox.bind(`[data-fancybox="${gallery}"]`, {
+                Carousel: {
+                    infinite: false,
+                },
+            });
         });
     });
 </script>
@@ -63,9 +58,18 @@
             prevEl: '.swiper-button-prev',
         },
         breakpoints: {
-            640: { slidesPerView: 2, spaceBetween: 10 },
-            768: { slidesPerView: 4, spaceBetween: 10 },
-            1024: { slidesPerView: 4, spaceBetween: 10 },
+            640: {
+                slidesPerView: 2,
+                spaceBetween: 10
+            },
+            768: {
+                slidesPerView: 4,
+                spaceBetween: 10
+            },
+            1024: {
+                slidesPerView: 4,
+                spaceBetween: 10
+            },
         },
     });
 </script>
@@ -73,8 +77,8 @@
 
 <!-- testimonals  -->
 
- <script>
-    document.addEventListener("DOMContentLoaded", function () {
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
         const swiper = new Swiper('.testimonialSwiper', {
             slidesPerView: 1,
             spaceBetween: 10,
@@ -84,11 +88,23 @@
                 disableOnInteraction: false,
             },
             breakpoints: {
-            640: { slidesPerView: 2, spaceBetween: 10 },
-            708: { slidesPerView: 3, spaceBetween: 10 },
-            868: { slidesPerView: 4, spaceBetween: 10 },
-            1024: { slidesPerView: 4, spaceBetween: 10 },
-        },
+                640: {
+                    slidesPerView: 2,
+                    spaceBetween: 10
+                },
+                708: {
+                    slidesPerView: 3,
+                    spaceBetween: 10
+                },
+                868: {
+                    slidesPerView: 4,
+                    spaceBetween: 10
+                },
+                1024: {
+                    slidesPerView: 4,
+                    spaceBetween: 10
+                },
+            },
         });
 
         document.getElementById('prevButton').addEventListener('click', () => {
@@ -99,27 +115,39 @@
             swiper.slideNext();
         });
     });
-</script> 
+</script>
 
 <!-- blog  -->
 
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
+    document.addEventListener("DOMContentLoaded", function() {
         const swiper = new Swiper('.blogSwiper', {
-            slidesPerView:1,
+            slidesPerView: 1,
             spaceBetween: 50,
-            loop:true, 
+            loop: true,
             // autoplay: {
             //     delay: 2500,
             //     disableOnInteraction: false,
             // },
             breakpoints: {
-            320: { slidesPerView: 1, spaceBetween: 10 },
+                320: {
+                    slidesPerView: 1,
+                    spaceBetween: 10
+                },
 
-            640: { slidesPerView: 2, spaceBetween: 10 },
-            768: { slidesPerView: 3, spaceBetween: 10 },
-            1024: { slidesPerView: 3, spaceBetween: 10 },
-        },
+                640: {
+                    slidesPerView: 2,
+                    spaceBetween: 10
+                },
+                768: {
+                    slidesPerView: 3,
+                    spaceBetween: 10
+                },
+                1024: {
+                    slidesPerView: 3,
+                    spaceBetween: 10
+                },
+            },
         });
 
         document.getElementById('prevButton').addEventListener('click', () => {
@@ -130,4 +158,4 @@
             swiper.slideNext();
         });
     });
-</script> 
+</script>

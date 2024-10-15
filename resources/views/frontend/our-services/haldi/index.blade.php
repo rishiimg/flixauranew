@@ -10,7 +10,7 @@ About Us
 
 <section class="h-[70vh] min-h-[400px] bg-no-repeat bg-cover bg-center bg-[url('{{asset('/public/tailwind_frontend/haldi.webp')}}')] relative before:absolute before:bg-black/50 before:inset-0 before:z-10 before:size-full">
   <div class="mx-auto max-w-7xl lg:px-8 px-6 h-full py-10 relative z-20">
-    <div class="text-white sm:text-7xl text-5xl flex items-end justify-center text-center h-full">Haldi Ceremony </div>
+    <div class="text-white md:text-7xl sm:text-5xl text-4xl flex items-end justify-center text-center h-full">Haldi Ceremony </div>
   </div>
 </section>
 
@@ -165,143 +165,253 @@ About Us
 <!-- 3rd section end  -->
 
 <!-- 4rd section  -->
-<section class="max-sm:px-6 py-10">
+<section class="max-sm:px-6 sm:py-10 max-sm:pb-10">
 
-  <div class="text-5xl relative  text-balance flex items-center justify-center text-center w-full font-bold text-slate-800 sm:pb-14 pb-10 mx-auto">Gallery<div class="absolute -top-7 [font-family:Yesteryear] text-center [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Image</div>
+  <div class="text-5xl relative  text-balance flex items-center justify-center text-center w-full font-bold text-slate-800 sm:pb-14 pb-10 mx-auto">Gallery<div class="absolute md:-top-12 -top-5 [font-family:Yesteryear] text-center [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Image</div>
   </div>
 
 
   <!-- Fancybox Integration -->
   <div id="gallery-wrapper" class="grid md:grid-cols-4 grid-cols-2">
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp">
+      <a data-fancybox="gallery13" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery13" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp"></a>
+				<a data-fancybox="gallery13" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp"></a>
+				<a data-fancybox="gallery13" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp"></a>
+				<a data-fancybox="gallery13" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp"></a>
+			</div>
     </div>
 
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp">
+      <a data-fancybox="gallery14" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery14" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp"></a>
+				<a data-fancybox="gallery14" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp"></a>
+				<a data-fancybox="gallery14" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp"></a>
+				<a data-fancybox="gallery14" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp">
+      <a data-fancybox="gallery15" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery15" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp"></a>
+				<a data-fancybox="gallery15" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp"></a>
+				<a data-fancybox="gallery15" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp"></a>
+				<a data-fancybox="gallery15" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp">
+      <a data-fancybox="gallery16" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery16" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+				<a data-fancybox="gallery16" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+				<a data-fancybox="gallery16" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+				<a data-fancybox="gallery16" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-153-600x600.webp">
+      <a data-fancybox="gallery17" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-153-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-153-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery17" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-153-600x600.webp"></a>
+				<a data-fancybox="gallery17" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-153-600x600.webp"></a>
+				<a data-fancybox="gallery17" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-153-600x600.webp"></a>
+				<a data-fancybox="gallery17" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-153-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-139-600x600.webp">
+      <a data-fancybox="gallery18" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-139-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-139-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery18" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-139-600x600.webp"></a>
+				<a data-fancybox="gallery18" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-139-600x600.webp"></a>
+				<a data-fancybox="gallery18" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-139-600x600.webp"></a>
+				<a data-fancybox="gallery18" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-139-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-152-600x600.webp">
+      <a data-fancybox="gallery19" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-152-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-152-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery19" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-152-600x600.webp"></a>
+				<a data-fancybox="gallery19" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-152-600x600.webp"></a>
+				<a data-fancybox="gallery19" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-152-600x600.webp"></a>
+				<a data-fancybox="gallery19" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-photo-shoot-152-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/8.jpg">
+      <a data-fancybox="gallery20" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/8.jpg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://www.kumkumphotosjaipur.com/images/gallery/wedding/8.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery20" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/8.jpg"></a>
+				<a data-fancybox="gallery20" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/8.jpg"></a>
+				<a data-fancybox="gallery20" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/8.jpg"></a>
+				<a data-fancybox="gallery20" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/8.jpg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/11.jpg">
+      <a data-fancybox="gallery21" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/11.jpg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://www.kumkumphotosjaipur.com/images/gallery/wedding/11.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery21" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/11.jpg"></a>
+				<a data-fancybox="gallery21" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/11.jpg"></a>
+				<a data-fancybox="gallery21" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/11.jpg"></a>
+				<a data-fancybox="gallery21" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/11.jpg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/12.jpg">
+      <a data-fancybox="gallery22" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/12.jpg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://www.kumkumphotosjaipur.com/images/gallery/wedding/12.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      
+      <div class="hidden">
+				<a data-fancybox="gallery22" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/12.jpg"></a>
+				<a data-fancybox="gallery22" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/12.jpg"></a>
+				<a data-fancybox="gallery22" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/12.jpg"></a>
+				<a data-fancybox="gallery22" href="https://www.kumkumphotosjaipur.com/images/gallery/wedding/12.jpg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp">
+      <a data-fancybox="gallery23" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      
+      <div class="hidden">
+				<a data-fancybox="gallery23" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+				<a data-fancybox="gallery23" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+				<a data-fancybox="gallery23" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+				<a data-fancybox="gallery23" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp">
+      <a data-fancybox="gallery24" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery24" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp"></a>
+				<a data-fancybox="gallery24" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp"></a>
+				<a data-fancybox="gallery24" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp"></a>
+				<a data-fancybox="gallery24" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp">
+      <a data-fancybox="gallery25" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery25" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp"></a>
+				<a data-fancybox="gallery25" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp"></a>
+				<a data-fancybox="gallery25" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp"></a>
+				<a data-fancybox="gallery25" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp"></a>
+			</div>
     </div>
 
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp">
+      <a data-fancybox="gallery26" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery26" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp"></a>
+				<a data-fancybox="gallery26" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp"></a>
+				<a data-fancybox="gallery26" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp"></a>
+				<a data-fancybox="gallery26" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-19-600x600.webp"></a>
+			</div>
+
+     
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp">
+      <a data-fancybox="gallery27" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery27" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp"></a>
+				<a data-fancybox="gallery27" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp"></a>
+				<a data-fancybox="gallery27" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp"></a>
+				<a data-fancybox="gallery27" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-2-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp">
+      <a data-fancybox="gallery28" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery28" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+				<a data-fancybox="gallery28" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+				<a data-fancybox="gallery28" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+				<a data-fancybox="gallery28" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+			</div>
     </div>
 
     <!-- Add similar sections for other gallery images -->

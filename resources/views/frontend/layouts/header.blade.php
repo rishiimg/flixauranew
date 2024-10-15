@@ -73,7 +73,7 @@
         </a>
       </div>
       <div class="flex items-center justify-center gap-8">
-        <ul class="list-none md:flex hidden justify-center m-0 space-x-4">
+        <ul class="list-none md:flex hidden justify-center items-center m-0 space-x-4">
           <li>
             <a class="text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left {{ request()->is('/*') ? ' border-white border-b-[2px]' : '' }} " href="{{ url('/') }}">Home</a>
           </li>
@@ -81,7 +81,7 @@
             <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left {{ request()->is('about-us*') ? ' border-white border-b-[2px]' : '' }} " href="{{route('website.about_us') }}">About</a>
           </li>
           <li class="group relative">
-            <a class=" text-white py-1 text-base font-medium relative cursor-pointer after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  " href="">Our Services</a>
+            <div class=" text-white py-1 text-base font-medium relative cursor-pointer after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  " >Our Services</div>
             <div class="md:bg-white md:rounded-lg md:shadow-md translate-y-[22px] opacity-0 invisible duration-300 left-0 absolute group-hover:opacity-100 group-hover:visible p-3 after:absolute after:-top-5 after:w-full after:h-10 after:bg-transparent w-52">
               <ul class="flex flex-col gap-3">
                 <li>
