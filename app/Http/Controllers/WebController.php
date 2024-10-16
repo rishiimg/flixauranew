@@ -79,7 +79,8 @@ class WebController extends Controller
     {
         if (Auth::check()) {
             return redirect()->route('dashboard');
-        } else {
+        } 
+        else {
             return view('frontend.photographer.login');
         }
     }
@@ -160,7 +161,7 @@ class WebController extends Controller
     public function categories()
     {
         $data = DB::table('portfoliocategory')->where('status', 1)->orderBy('id', 'DESC')->get();
-        return view('frontend.categories.index', compact('data'));
+        return view('frontend.service.index', compact('data'));
     }
     public function single_category($slug)
     {
@@ -271,7 +272,7 @@ class WebController extends Controller
         if (empty($blog)) {
             return redirect()->back();
         } else {
-            return view('frontend.blog.blogm.index', compact('blog'));
+            return view('frontend.blog.index', compact('blog'));
         }
     }
 
@@ -319,8 +320,19 @@ class WebController extends Controller
 
     public function ourTeam(Request $request)
     {
-        return view('frontend.our-team.index');
+        return view('frontend.about.index');
     }
+
+
+    public function ourTeam1(Request $request)
+    {
+        return view('frontend.gallery.index');
+    }
+
+    // public function blognew(Request $request)
+    // {
+    //     return view('frontend.blog.index');
+    // }
 
     public function babyShoot(Request $request)
     {
@@ -328,5 +340,23 @@ class WebController extends Controller
         $category = DB::table('portfoliocategory')->get();
         $babyshoot = DB::table('portfolio')->where('category_id',7)->where('type','image')->orderBy('id','DESC')->get();
         return view('frontend.baby-shoot.index',compact('cities','category','babyshoot'));
+    }
+    public function haldiindex(){
+        return view('frontend.our-services.haldi.index');
+    }
+    public function mehendiindex(){
+        return view('frontend.our-services.mehendi.index');
+    }
+    public function engagementindex(){
+        return view('frontend.our-services.engagement.index');
+    }
+    public function weddingphotographyindex(){
+        return view('frontend.our-services.wedding-photography.index');
+    }
+    public function candidphotographyindex(){
+        return view('frontend.our-services.candid-photography.index');
+    }
+    public function preweddingphotoshootindex(){
+        return view('frontend.our-services.pre-wedding-photoshoot.index');
     }
 }

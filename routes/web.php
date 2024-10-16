@@ -17,6 +17,9 @@ use App\Http\Controllers\PhotographerportfolioController;
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\BlogCategoryController;
 use App\Http\Controllers\ClientController;
+use App\Http\Controllers\ContactusController;
+use App\Http\Controllers\HerosectionController;
+use App\Http\Controllers\ImagegalleryController;
 
 /*
 |--------------------------------------------------------------------------
@@ -179,9 +182,33 @@ Route::group(['prefix' => 'my-admin'], function () {
         Route::any('edit-blog/{id}',[BlogController::class, 'edit'])->name('blog.edit');
         Route::any('delete-blog/{id}',[BlogController::class, 'delete'])->name('blog.delete');
 
+        
+        /*
+       |--------------------------------------------------------------------------
+       | image gallery Section
+       |--------------------------------------------------------------------------
+       */
+        Route::any('contact-us', [ContactusController::class, 'index'])->name('contact.submit');
+        /*
+        /*
+       |--------------------------------------------------------------------------
+       | image gallery Section
+       |--------------------------------------------------------------------------
+       */
+        Route::any('add-image', [ImagegalleryController::class, 'index'])->name('image.index');
+        Route::any('view-image', [ImagegalleryController::class, 'show'])->name('image.view');
+        Route::any('add-video', [ImagegalleryController::class, 'videoindex'])->name('video.index');
+        // Route::any('view-txt', [ImagegalleryController::class, 'heroview'])->name('hero.view');
+        /*
+       |--------------------------------------------------------------------------
+       | HEro  Section
+       |--------------------------------------------------------------------------
 
-
+        */
+        Route::any('add-txt', [HerosectionController::class, 'herotext'])->name('hero.index');
+        Route::any('view-txt', [HerosectionController::class, 'heroview'])->name('hero.view');
          /*
+
         |--------------------------------------------------------------------------
         | Client Manager
         |--------------------------------------------------------------------------
@@ -212,6 +239,10 @@ Route::group(['prefix' => 'my-admin'], function () {
 Route::get('/', [WebController::class, 'index'])->name('website.webhomepage');
 Route::get('/book-now', [WebController::class, 'book_now'])->name('website.book_now');
 Route::get('about-us', [WebController::class, 'ourTeam'])->name('website.about_us');
+Route::get('gallery', [WebController::class, 'ourTeam1'])->name('website.gallery');
+// Route::get('blog', [WebController::class, 'blognew'])->name('website.blog');
+
+
 Route::get('contact-us', [WebController::class, 'contact_us'])->name('website.contact_us');
 Route::any('contactus', [WebController::class, 'contactus'])->name('website.contactus');
 Route::any('contactsendmail', [WebController::class, 'contactsendmail'])->name('website.contactsendmail');
@@ -230,7 +261,19 @@ Route::any('/career', [WebController::class, 'career'])->name('website.career');
 Route::post('/careersubmit', [WebController::class, 'careersubmit'])->name('website.career.submit');
 Route::get('/blogs/category/{category}', [WebController::class, 'blogs'])->name('website.blogscategory');
 Route::get('/blog/{slug}', [WebController::class, 'singleBlog'])->name('website.singleBlog');
-// Route::get('/our-team', [WebController::class, 'ourTeam'])->name('website.ourTeam');
+
+Route::get('services/haldi', [WebController::class, 'haldiindex'])->name('services.haldi');
+Route::get('services/mehendi', [WebController::class, 'mehendiindex'])->name('services.mehendi');
+Route::get('services/engagement', [WebController::class, 'engagementindex'])->name('services.engagement');
+Route::get('services/wedding-photography', [WebController::class, 'weddingphotographyindex'])->name('services.wedding-photography');
+Route::get('services/candid-photography', [WebController::class, 'candidphotographyindex'])->name('services.candid-photography');
+Route::get('services/pre-wedding-photoshoot', [WebController::class, 'preweddingphotoshootindex'])->name('services.pre-wedding-photoshoot');
+
+
+
+
+
+
 Route::get('/thankyou', function () {
     return view('frontend.thankyoupage.index');
 })->name('thankyou-page');

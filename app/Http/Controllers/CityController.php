@@ -12,7 +12,6 @@ class CityController extends Controller
     {
         if ($request->isMethod('post')) {
             $input = $request->all();
-            // dd($input);
             unset($input['_token']);
             $find = DB::table('city')->where('city_name', $input['city_name'])->first();
             if (empty($find)) {

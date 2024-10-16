@@ -1,171 +1,84 @@
-<?php
-$r1 = Route::getCurrentRoute()->getAction();
-$r2 = Route::currentRouteAction();
-$r3 = Route::currentRouteName();
-
-$r4 = explode('@', $r2);
-
-$get_url = URL::current();
-$arr = explode('?', $get_url, 2);
-//$page_url = substr_replace($get_url, "", -1);
-$urlpart = explode('/', $get_url);
-$countroute = count($urlpart);
-$actual_link = explode('?', URL::current(), 2)[0] . '/';
-// var_dump(asset('/') . 'blog/' == $actual_link);
-// var_dump(asset('/'), $actual_link);die;
-?>
-
-<!--
-0 ,00000, .000000   .000000 0     .0000. 0000b,    0    0       0 db   0 d0000 .0000. 00000 d000b d000b  0    0
-0 0  0  0 0  ,,,,   0  ,,,, 0     0    0 0 ___)   0 0   0       0 0 0  0 0     0    0   0   0     0      0    0
-0 0  0  0 0     0   0     0 0     0    0 0    )  0   0  0       0 0  0 0 0"""" 0    0   0   0"""" 0      0""""0
-0 0  0  0 "000000   "000000 00000 '0000' 0000d' 0"""""0 d0000   0 0   db 0     '0000'   0   d000b d000b  0    0
--->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap" rel="stylesheet">
 
 
 
-
-@include('frontend.layouts.script_root')
-@include('frontend.layouts.meta')
-
-<!-- Font Google -->
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700&display=swap"
-    rel="stylesheet">
-
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"
-    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.16.6/dist/sweetalert2.all.min.js"></script>
-    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/sweetalert2@10.10.1/dist/sweetalert2.min.css'>
-<!-- Bootstrap == -->
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/bootstrap.min.css">
-
-<!-- IMG Icons == -->
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/imgIcons.min.css">
-<link rel="icon" type="image/x-icon" href="{{ asset('public/settings/favicon.png') }}" />
-
-<!-- BijarniaDream == -->
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/bijarniadream.min.css">
-
-<!-- StyleSheet == -->
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/imgFontStyle.min.css">
-
-<!-- intl== -->
-
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/intl-tel-input/intlTelInput.css">
-
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/gallery/css/justifiedGallery.css">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 
 
-
-<!--====================== IMG Global Infotech / 11 pages ======================-->
-
-<?php if (asset('/') == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/index.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Yesteryear&display=swap" rel="stylesheet">
 
 
-<?php } else if (asset('/') . 'index.php' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/index.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'contact-us/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/contact.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'book-now/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/booknow.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'portfolio-categories/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/categories.min.css">
-<!-- <link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css"> -->
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Playwrite+DE+Grund:wght@100..400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Yesteryear&display=swap" rel="stylesheet">
 
 
-<?php } else if ((asset('/') . 'portfolio/' == $actual_link) || $urlpart[$countroute-2] == 'portfolio') { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/glightbox/dist/css/glightbox.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/single-category.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-<!-- <link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css"> -->
+<link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        animation: {
+          'fixed-nav': 'fixedNav 0.6s',
+          'fade-in-up': 'fade-in-up 0.4s cubic-bezier(0.5, 0.84, 0, 1.23) both',
+          'marquee-h': 'marqueeHorizontal 20s linear infinite',
+        },
+        keyframes: {
+
+          fixedNav: {
+            '0%': {
+              opacity: '0',
+              transform: 'translateY(-60px)'
+            },
+            '100%': {
+              opacity: '1',
+              transform: 'translateY(0px)'
+            },
+          },
 
 
-<?php }  else if ((asset('/') . 'photographer/' == $actual_link) || $urlpart[$countroute-2] == 'photographer') { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/glightbox/dist/css/glightbox.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/single-category.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-<!-- <link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css"> -->
+          'fade-in-up': {
+            '0%': {
+              opacity: 0,
+              filter: 'blur(40px)',
+              transform: 'translateY(200px) scale(2)',
+            },
+            '100%': {
+              opacity: 1,
+              filter: 'blur(0px)',
+              transform: 'translateY(0) scale(1)',
+            },
+          },
+          marqueeHorizontal: {
+            '0%': {
+              transform: 'translateZ(0)',
+              visibility: 'visible',
+            },
+            '100%': {
+              transform: 'translate3d(-100%,0,0)'
+            },
+          },
+        }
+      },
+      fontFamily: {
+        'body': ['Roboto'],
+      }
+    }
+  }
+</script>
 
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" 
+/>
 
-<?php } else if ((asset('/') . 'simple-category/' == $actual_link) || $urlpart[$countroute-2] == 'simple-category') { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/glightbox/dist/css/glightbox.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/single-category.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'about-us/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/glightbox/dist/css/glightbox.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/about-us.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-
-<?php } else if (asset('/') . 'wedding-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'pre-wedding-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-
-<?php } else if (asset('/') . 'post-wedding-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'engagement-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'travel-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-
-<?php } else if (asset('/') . 'family-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'personal-portraits-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-
-<?php } else if (asset('/') . 'kid-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-
-<?php } else if (asset('/') . 'new-born-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'meternity-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'birthday-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'couple-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-
-<?php } else if (asset('/') . 'hotel-photography/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-<?php } else if (asset('/') . 'login/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-<?php } else if (asset('/') . 'register/' == $actual_link) { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-<?php } else if (asset('/') . 'our-team/' == $actual_link)   { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-<?php } else if (asset('/') . 'baby-shoot/' == $actual_link)   { ?>
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/owl/owl.carousel.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/glightbox/dist/css/glightbox.min.css">
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/booknow.min.css">
-<?php } else if (asset('/') . 'our-partner/' == $actual_link)   { ?>
-    
-
-<?php } ?>
-
-<!-- custom styles (optional) -->
-<link rel="stylesheet" href="{{ asset('/public') }}/frontend_assets/plugins/do-not-edit/css/style.min.css" />
-
-@stack('stylesheet-link')
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+/>

@@ -38,7 +38,6 @@ class HomeController extends Controller
     {
         if ($request->isMethod('post')) {
             $input = $request->all();
-            // dd($input);
 
             unset($input['_token']);
             if (count($request->file('image')) != 3) {
@@ -46,12 +45,11 @@ class HomeController extends Controller
             }
             if ($request->file('image')) {
                 $images = $request->file('image');
-                // dd($images);
+                
                 DB::table('expertise')->where('category_id',$input['category_id'])->delete();
                 foreach ($images as $value) {
                     $image =  Storage::disk('public_folder')->putFile('expertiseimage', $value, 'public');
                     $input['image'] = $image;
-                    // dd($input);
                     DB::table('expertise')->insert($input);
                 }
                 return redirect()->back()->with('success', 'Image upload successfully');

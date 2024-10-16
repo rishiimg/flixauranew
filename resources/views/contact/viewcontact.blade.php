@@ -127,7 +127,7 @@
                             <th>Mobile</th>
                             <th>Email</th>
                             <th>Subject</th>
-                            <th class="table-column-ps-0">Message</th
+                            <th class="table-column-ps-0">Message</th>
                             
                         </tr>
                     </thead>
