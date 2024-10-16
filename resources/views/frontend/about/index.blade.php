@@ -31,7 +31,7 @@ About Us
 <!-- 2nd section  -->
 
 
-<section class="sm:py-20 py-16 relative overflow-hidden">
+<section class="lg:py-20 md:py-16 max-sm:pt-16 max-sm:pb-10 relative overflow-hidden">
   <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full relative z-10">
 
     <div class="grid grid-cols-12 items-center sm:gap-y-10 gap-y-5 lg:gap-8 group">
@@ -51,7 +51,7 @@ About Us
       </div>
       <div data-aos="fade-left" class="col-span-12 lg:col-span-6 ">
         <div class="size-full">
-          <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-slate-800 lg:pb-14 max-lg:mt-20">
+          <div class="sm:text-5xl text-3xl relative  text-balance  w-full font-bold text-slate-800 lg:pb-14 max-lg:mt-20">
             Welcome to FLIXAURA Wedding Photography !
             <div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">AboutUs</div>
           </div>
@@ -128,7 +128,7 @@ About Us
 
 		<div class="max-w-5xl max-sm:px-4 mx-auto">
 
-			<div class="mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
+			<div class="sm:mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
 				<div class="p-6 sm:p-12">
 					<div class="text-white text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-5">
 						Book Now

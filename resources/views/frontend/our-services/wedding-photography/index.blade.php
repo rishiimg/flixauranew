@@ -10,7 +10,7 @@ About Us
 
 <section class="h-[70vh] min-h-[400px] bg-no-repeat bg-cover bg-center bg-[url('https://weddingphotographybysf.com/wp-content/uploads/2024/07/67-scaled.jpg')] relative before:absolute before:bg-black/50 before:inset-0 before:z-10 before:size-full">
   <div class="mx-auto max-w-7xl lg:px-8 px-6 h-full py-10 relative z-20">
-    <div class="text-white sm:text-7xl text-5xl flex items-end justify-center text-center h-full">WEDDING PHOTOGRAPHY </div>
+    <div class="text-white md:text-7xl sm:text-5xl text-4xl flex items-end justify-center text-center h-full">WEDDING PHOTOGRAPHY </div>
   </div>
 </section>
 
@@ -165,143 +165,244 @@ About Us
 <!-- 3rd section end  -->
 
 <!-- 4rd section  -->
-<section class="max-sm:px-6 py-10">
+<section class="max-sm:px-6 sm:py-10 max-sm:pb-10">
 
-  <div class="text-5xl relative  text-balance flex items-center justify-center text-center w-full font-bold text-slate-800 sm:pb-14 pb-10 mx-auto">Gallery<div class="absolute -top-7 [font-family:Yesteryear] text-center [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Image</div>
+  <div class="text-5xl relative  text-balance flex items-center justify-center text-center w-full font-bold text-slate-800 sm:pb-14 pb-10 mx-auto">Gallery<div class="absolute md:-top-12 -top-5 [font-family:Yesteryear] text-center [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Image</div>
   </div>
 
 
   <!-- Fancybox Integration -->
   <div id="gallery-wrapper" class="grid md:grid-cols-4 grid-cols-2">
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg">
+      <a data-fancybox="gallery61" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery61" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg"></a>
+				<a data-fancybox="gallery61" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg"></a>
+				<a data-fancybox="gallery61" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg"></a>
+				<a data-fancybox="gallery61" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg"></a>
+			</div>
     </div>
 
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg">
+      <a data-fancybox="gallery62" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery62" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+				<a data-fancybox="gallery62" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+				<a data-fancybox="gallery62" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+				<a data-fancybox="gallery62" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg">
+      <a data-fancybox="gallery63" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery63" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg"></a>
+				<a data-fancybox="gallery63" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg"></a>
+				<a data-fancybox="gallery63" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg"></a>
+				<a data-fancybox="gallery63" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C9B662A0-4C23-426B-B693-FB80E185D0D3.jpeg">
+      <a data-fancybox="gallery64" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C9B662A0-4C23-426B-B693-FB80E185D0D3.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C9B662A0-4C23-426B-B693-FB80E185D0D3.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery64" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C9B662A0-4C23-426B-B693-FB80E185D0D3.jpeg"></a>
+				<a data-fancybox="gallery64" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C9B662A0-4C23-426B-B693-FB80E185D0D3.jpeg"></a>
+				<a data-fancybox="gallery64" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C9B662A0-4C23-426B-B693-FB80E185D0D3.jpeg"></a>
+				<a data-fancybox="gallery64" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C9B662A0-4C23-426B-B693-FB80E185D0D3.jpeg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/DC8D6803-F48C-4F93-A3AB-CF98AF2FC1F4.jpeg">
+      <a data-fancybox="gallery65" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/DC8D6803-F48C-4F93-A3AB-CF98AF2FC1F4.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/DC8D6803-F48C-4F93-A3AB-CF98AF2FC1F4.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      
+      <div class="hidden">
+				<a data-fancybox="gallery65" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/DC8D6803-F48C-4F93-A3AB-CF98AF2FC1F4.jpeg"></a>
+				<a data-fancybox="gallery65" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/DC8D6803-F48C-4F93-A3AB-CF98AF2FC1F4.jpeg"></a>
+				<a data-fancybox="gallery65" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/DC8D6803-F48C-4F93-A3AB-CF98AF2FC1F4.jpeg"></a>
+				<a data-fancybox="gallery65" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/DC8D6803-F48C-4F93-A3AB-CF98AF2FC1F4.jpeg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/67-scaled.jpg">
+      <a data-fancybox="gallery66" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/67-scaled.jpg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/07/67-scaled.jpg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery66" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/67-scaled.jpg"></a>
+				<a data-fancybox="gallery66" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/67-scaled.jpg"></a>
+				<a data-fancybox="gallery66" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/67-scaled.jpg"></a>
+				<a data-fancybox="gallery66" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/67-scaled.jpg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photos-30-600x600.webp">
+      <a data-fancybox="gallery67" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photos-30-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photos-30-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery67" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photos-30-600x600.webp"></a>
+				<a data-fancybox="gallery67" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photos-30-600x600.webp"></a>
+				<a data-fancybox="gallery67" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photos-30-600x600.webp"></a>
+				<a data-fancybox="gallery67" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photos-30-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photography-63-600x600.webp">
+      <a data-fancybox="gallery68" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photography-63-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photography-63-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+
+      <div class="hidden">
+				<a data-fancybox="gallery68" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photography-63-600x600.webp"></a>
+				<a data-fancybox="gallery68" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photography-63-600x600.webp"></a>
+				<a data-fancybox="gallery68" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photography-63-600x600.webp"></a>
+				<a data-fancybox="gallery68" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photography-63-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photoshoot-11-600x600.webp">
+      <a data-fancybox="gallery69" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photoshoot-11-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photoshoot-11-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery69" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photoshoot-11-600x600.webp"></a>
+				<a data-fancybox="gallery69" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photoshoot-11-600x600.webp"></a>
+				<a data-fancybox="gallery69" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photoshoot-11-600x600.webp"></a>
+				<a data-fancybox="gallery69" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/wedding-photoshoot-11-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/marriage-photoshoot-25-600x600.webp">
+      <a data-fancybox="gallery70" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/marriage-photoshoot-25-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/marriage-photoshoot-25-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery70" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/marriage-photoshoot-25-600x600.webp"></a>
+				<a data-fancybox="gallery70" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/marriage-photoshoot-25-600x600.webp"></a>
+				<a data-fancybox="gallery70" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/marriage-photoshoot-25-600x600.webp"></a>
+				<a data-fancybox="gallery70" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/marriage-photoshoot-25-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp">
+      <a data-fancybox="gallery71" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery71" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+				<a data-fancybox="gallery71" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+				<a data-fancybox="gallery71" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+				<a data-fancybox="gallery71" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp">
+      <a data-fancybox="gallery72" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery72" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp"></a>
+				<a data-fancybox="gallery72" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp"></a>
+				<a data-fancybox="gallery72" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp"></a>
+				<a data-fancybox="gallery72" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-7-600x600.webp"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg">
+      <a data-fancybox="gallery73" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery73" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg"></a>
+				<a data-fancybox="gallery73" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg"></a>
+				<a data-fancybox="gallery73" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg"></a>
+				<a data-fancybox="gallery73" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/8704AFE1-B476-4498-A679-68F43538B8CD.jpeg"></a>
+			</div>
     </div>
 
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg">
+      <a data-fancybox="gallery74" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery74" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+				<a data-fancybox="gallery74" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+				<a data-fancybox="gallery74" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+				<a data-fancybox="gallery74" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg">
+      <a data-fancybox="gallery75" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery75" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg"></a>
+				<a data-fancybox="gallery75" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg"></a>
+				<a data-fancybox="gallery75" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg"></a>
+				<a data-fancybox="gallery75" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C29A776C-9CA5-410A-A2A8-FC895346BFA1.jpeg"></a>
+			</div>
     </div>
     <div>
-      <a data-fancybox="gallery" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp">
+      <a data-fancybox="gallery76" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp">
         <div class="relative overflow-hidden shadow-2xl group">
           <img width="400" height="400" src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
           <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
         </div>
       </a>
+      <div class="hidden">
+				<a data-fancybox="gallery76" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+				<a data-fancybox="gallery76" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+				<a data-fancybox="gallery76" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+				<a data-fancybox="gallery76" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+			</div>
     </div>
 
     <!-- Add similar sections for other gallery images -->
@@ -357,7 +458,7 @@ About Us
 
 		<div class="max-w-5xl max-sm:px-4 mx-auto">
 
-			<div class="mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
+			<div class="sm:mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
 				<div class="p-6 sm:p-12">
 					<div class="text-white text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-5">
 						Book Now

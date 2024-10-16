@@ -28,7 +28,7 @@ About Us
 
     <!-- 3rd section  -->
 <section class="max-sm:px-6 py-10 mt-10">
-	<div class="mx-auto max-w-7xl lg:px-8 px-6 pb-10">
+	<div class="mx-auto max-w-7xl sm:pb-10 pb-5">
   <div class="sm:text-5xl text-4xl relative  text-balance flex items-center justify-center  w-full font-bold text-slate-800 sm:pb-14 pb-5 mx-auto">
     Explore Our Visual Collection
     <div class="absolute sm:-top-7 -top-3 max-sm:left-0 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Gallery</div>
@@ -38,101 +38,173 @@ About Us
 	<!-- Fancybox Integration -->
 	<div id="gallery-wrapper" class="grid md:grid-cols-4 grid-cols-2">
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}">
+			<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery2.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
+				<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
+				<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
+				<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
+			</div>
 		</div>
 
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}">
+			<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery3.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
+				<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
+				<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
+				<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}">
+			<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery4.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
+				<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
+				<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
+				<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}">
+			<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery5.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
+				<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
+				<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
+				<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}">
+			<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery6.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
+				<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
+				<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
+				<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}">
+			<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery7.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}"></a>
+				<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}"></a>
+				<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}"></a>
+				<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}">
+			<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery8.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}"></a>
+				<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}"></a>
+				<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}"></a>
+				<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}">
+			<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery2.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
+				<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
+				<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
+				<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}">
+			<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery3.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
+				<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
+				<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
+				<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}">
+			<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery4.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
+				<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
+				<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
+				<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}">
+			<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery5.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
+				<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
+				<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
+				<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
+			</div>
 		</div>
 		<div>
-			<a data-fancybox="gallery" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}">
+			<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}">
 				<div class="relative overflow-hidden shadow-2xl group">
 					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery6.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
 					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 				</div>
 			</a>
+			<div class="hidden">
+				<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
+				<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
+				<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
+				<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
+			</div>
 		</div>
 
 
@@ -156,7 +228,7 @@ About Us
 
 		<div class="max-w-5xl max-sm:px-4 mx-auto">
 
-			<div class="mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
+			<div class="sm:mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
 				<div class="p-6 sm:p-12">
 					<div class="text-white text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-5">
 						Book Now

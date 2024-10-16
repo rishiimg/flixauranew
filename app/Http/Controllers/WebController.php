@@ -329,6 +329,11 @@ class WebController extends Controller
         return view('frontend.gallery.index');
     }
 
+    public function ourTeam2(Request $request)
+    {
+        return view('frontend.contact-us.index');
+    }
+
     // public function blognew(Request $request)
     // {
     //     return view('frontend.blog.index');
@@ -358,5 +363,8 @@ class WebController extends Controller
     }
     public function preweddingphotoshootindex(){
         return view('frontend.our-services.pre-wedding-photoshoot.index');
+    }
+    public function blogDetails(){
+        return view('frontend.blog.blog-details.index');
     }
 }
