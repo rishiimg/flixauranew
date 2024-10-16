@@ -138,18 +138,18 @@
 						Artistic Story Telling Celebrating YOU!
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm">
-					Welcome to our FLIXAURA <strong>wedding photography in jaipur</strong>  ! We are passionate about Candid photography, pre wedding photoshoot, wedding videography & editing work too. We always together create beautiful memories by our work, capturing the best moments and emotions of your special day. Wedding Diaries By FLIXAURA  focuses on Couple Pre Wedding Photoshoot, <strong>Indian Wedding Videography</strong> , Cinematic Wedding Shoot, Advertising and Events. 
+						Welcome to our FLIXAURA <strong>wedding photography in jaipur</strong> ! We are passionate about Candid photography, pre wedding photoshoot, wedding videography & editing work too. We always together create beautiful memories by our work, capturing the best moments and emotions of your special day. Wedding Diaries By FLIXAURA focuses on Couple Pre Wedding Photoshoot, <strong>Indian Wedding Videography</strong> , Cinematic Wedding Shoot, Advertising and Events.
 
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm py-4">
-					We have been in the industry for more than 5 Years and we try every possible aspect to make sure that our clients get their lifetime memories. We value every customer and try to offer them 100% Satisfaction by delivering them best Quality Photographs and Videos as they expect. 
+						We have been in the industry for more than 5 Years and we try every possible aspect to make sure that our clients get their lifetime memories. We value every customer and try to offer them 100% Satisfaction by delivering them best Quality Photographs and Videos as they expect.
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm">
-					We use the best camera for <strong>wedding videography</strong>  and light equipment to ensure the highest quality. Our approach combines candid moments with beautifully styled portraits, ensuring every precious memory is preserved. Let us help you cherish your beautiful moments for years to come!
+						We use the best camera for <strong>wedding videography</strong> and light equipment to ensure the highest quality. Our approach combines candid moments with beautifully styled portraits, ensuring every precious memory is preserved. Let us help you cherish your beautiful moments for years to come!
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 </section>
 
 <!-- 2nd section  end-->
@@ -358,8 +358,8 @@
 	<div class="sm:text-5xl text-4xl relative  text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 pb-8">
 		Gallery
 		<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
-				Video
-			</div>
+			Video
+		</div>
 	</div>
 
 	<!-- Swiper -->
@@ -368,73 +368,74 @@
 			<!-- Slide 1 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/X1lTCG8VKhA">
-				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-					<iframe class="h-full w-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-				</a>
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+						</div>
+					</a>
 				</div>
 			</div>
 			<!-- Slide 2 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
-				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-					<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-				</a>
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+						</div>
+					</a>
 				</div>
 			</div>
 			<!-- Slide 3 -->
-			<div class="swiper-slide">
+				<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ysZEG4bSqvE">
-				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-					<iframe class="h-full w-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-				</a>	
-				
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+						</div>
+					</a>
 				</div>
 			</div>
 			<!-- Slide 1 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/X1lTCG8VKhA">
-				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-					<iframe class="h-full w-full" src="https://www.youtube.com/embed/X1lTCG8VKhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-				</a>
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+						</div>
+					</a>
 				</div>
 			</div>
 			<!-- Slide 2 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
-				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-					<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-				</a>
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+						</div>
+					</a>
 				</div>
 			</div>
 			<!-- Slide 3 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-				<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ysZEG4bSqvE">
-				<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-					<iframe class="h-full w-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-				</a>	
-				
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ysZEG4bSqvE">
+						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+						</div>
+					</a>
+
 				</div>
 			</div>
 			<!-- Add more slides as needed -->
@@ -719,14 +720,14 @@
 <!-- 7th section start  -->
 <div class=" md:py-20 py-12">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6">
-	<div class="mx-auto max-w-7xl  pb-10">
-		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 lg:pb-14 ">
-		Blog & Tips
-			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent lg:text-[120px] sm:text-[90px] text-[70px] font-light">
-			 From Us!
+		<div class="mx-auto max-w-7xl  pb-10">
+			<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 lg:pb-14 ">
+				Blog & Tips
+				<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent lg:text-[120px] sm:text-[90px] text-[70px] font-light">
+					From Us!
+				</div>
 			</div>
 		</div>
-	</div>
 
 		<!-- Swiper -->
 		<div class="swiper-container blogSwiper swiper">
@@ -1005,6 +1006,99 @@
 <!-- 8th section end  -->
 
 
+
+<section>
+	<div class="categories-button select-none !z-[999999] cursor-pointer fixed right-0 top-1/2 -translate-y-1/2 sm:w-16 w-12 h-[200px] whitespace-nowrap bg-black text-white"
+		onclick="toggleCategories()">
+		<span id="categoryLabel" class="open absolute top-1/2 left-1/2 text-[14px] font-bold tracking-[0.1em] uppercase transform -rotate-90 -translate-x-1/2 -translate-y-1/2 after:w-4 after:h-[1px] after:inline-block after:align-middle after:mx-2.5 after:absolute after:bg-white after:top-1/2 before:w-4 before:h-[1px] before:inline-block before:align-middle before:mx-2.5 before:absolute before:bg-white before:bottom-1/2 before:-left-9">
+			Categories
+		</span>
+	</div>
+
+	<div id="categorySidebar" class="h-full fixed inset-0 size-full md:hiden duration-300 z-[9999] translate-x-full">
+		<div class="absolute inset-0 bg-gray-800/50 px-4 h-full size-full" onclick="toggleCategories()"></div>
+		<div class="flex flex-col overflow-hidden w-full relative z-10 ms-auto">
+			<div class="relative flex w-full flex-auto overflow-y-auto flex-col z-20 bg-white">
+				<!-- Swiper -->
+				<div class="swiper category h-dvh w-full mySwiper h-dvh w-full [&_.swiper-pagination]:z-50 [&_.swiper-button-prev:after]:size-8 [&_.swiper-button-prev:after]:text-lg [&_.swiper-button-prev:after]:bg-white [&_.swiper-button-prev:after]:flex [&_.swiper-button-prev:after]:items-center [&_.swiper-button-prev:after]:justify-center [&_.swiper-button-prev:after]:rounded-full [&_.swiper-button-prev:after]:text-slate-900 [&_.swiper-button-prev:after]:font-bold [&_.swiper-button-prev:after]:flex-shrink-0  [&_.swiper-button-next]:left-[9px] [&_.swiper-button-next]:top-[57%]  [&_.swiper-button-next:after]:size-8 [&_.swiper-button-next:after]:text-lg [&_.swiper-button-next:after]:bg-white [&_.swiper-button-next:after]:flex [&_.swiper-button-next:after]:items-center [&_.swiper-button-next:after]:justify-center [&_.swiper-button-next:after]:rounded-full [&_.swiper-button-next:after]:text-slate-900 [&_.swiper-button-next:after]:font-bold [&_.swiper-button-next:after]:flex-shrink-0">
+					<div class="swiper-wrapper">
+						<!-- Swiper Slide 1 -->
+						<div class="swiper-slide h-full">
+							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+
+								<Image width={500} height={1000} src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp" alt="haldi" class="h-full object-cover w-full" />
+								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Haldi</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="swiper-slide h-full">
+							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+
+								<Image width={500} height={1000} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg" alt="Mehendis" class="h-full object-cover w-full" />
+								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Mehendi</p>
+								</div>
+							</div>
+						</div>
+						<!-- Swiper Slide 2 -->
+						<div class="swiper-slide h-full">
+							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+
+								<Image width={500} height={1000} src="https://plus.unsplash.com/premium_photo-1682090789715-a1acbfe72404?q=80&w=1452&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="h-full object-cover w-full" />
+								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Engagement</p>
+								</div>
+							</div>
+						</div>
+
+						<!-- Swiper Slide 3 -->
+						<div class="swiper-slide h-full">
+							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+
+								<Image width={500} height={1000} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/33AE68FC-DAFA-446C-93B1-5FD9427B78C4.jpeg" alt="" class="h-full object-cover w-full" />
+								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Wedding Photography</p>
+								</div>
+							</div>
+						</div>
+
+						<!-- Swiper Slide 4 -->
+						<div class="swiper-slide h-full">
+							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+
+								<Image width={500} height={1000} src="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK02021-600x600.jpg" alt="" class="h-full object-cover w-full" />
+								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Candid Photography</p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide h-full">
+							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+
+								<Image width={500} height={1000} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg" alt="" class="h-full object-cover w-full" />
+								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Pre-Wedding</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Navigation buttons -->
+					<div id="nextButton" class="swiper-button-next"></div>
+					<div id="prevButton" class="swiper-button-prev"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
 
 @endsection
