@@ -28,9 +28,9 @@ class ImagegalleryController extends Controller
           );
             return redirect()->route('image.index')->with('success', 'Successfully Added !');
         } 
-        else {
-            return view('gallery.addimage');
-        }
+                else {
+                    return view('gallery.addimage');
+                }
     }
 
     /**

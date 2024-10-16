@@ -23,15 +23,8 @@ class ContactusController extends Controller
             ]);
     
     
-            ContactUs::create([
-                'name' => $request->name,
-                'email' => $request->email,
-                'phone' => $request->phone,
-                'city' => $request->city,
-                'service' => $request->service,
-                'budget' => $request->budget,
-                'message' => $request->message,
-            ]);
+            ContactUs::create($request->validated());
+
     
             return back()->with('success', 'Thank you for contacting us!');
     }
