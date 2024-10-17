@@ -23,6 +23,10 @@
   tailwind.config = {
     theme: {
       extend: {
+        colors: {
+        'theme1': '#f36a22',
+        'theme2': '#0b9fdb',
+      },
         animation: {
           'fixed-nav': 'fixedNav 0.6s',
           'fade-in-up': 'fade-in-up 0.4s cubic-bezier(0.5, 0.84, 0, 1.23) both',
@@ -82,3 +86,5 @@
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
 />
+<!-- aos  -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">

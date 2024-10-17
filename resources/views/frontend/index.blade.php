@@ -20,14 +20,15 @@
 
 						<div class="text-white relative z-20">
 							<div class="text-lg relative  font-light uppercase tracking-wide mb-4 group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.3s]">
-								<div class="text-5xl lg:text-[120px] sm:text-[80px] font-thin text-white/10 absolute inset-0 -top-10 lg:-left-14 -left-5  [font-family:'Caveat'] group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:0s]">
+								<div class=" text-5xl lg:text-[110px] sm:text-[80px] font-thin text-white/10 absolute inset-0 -top-10 lg:-left-14 -left-5  [font-family:'Caveat'] group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:0s]">
 									Wedding Photography!
 								</div>
 								Welcome to Wedding Photography!
 							</div>
-							<div class="text-3xl sm:text-5xl lg:text-7xl font-bold leading-tight group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.6s]">
-								Memories Made Beautiful:
-								<br class="md:block !hidden" />
+							<div class="text-3xl sm:text-5xl lg:text-6xl font-medium leading-tight group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.6s]">
+								<span class="text-theme1 font-bold">Memories Made Beautiful</span>	
+									
+									<br class="md:block !hidden" />
 								Your Unforgettable Wedding Day
 							</div>
 							<button class="flex justify-between text-white sm:text-lg text-sm uppercase items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.9s]">
@@ -53,11 +54,17 @@
 								</div>
 								Welcome to Wedding Photography!
 							</div>
-							<div class="text-3xl sm:text-5xl lg:text-7xl font-bold leading-tight group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.6s]">
+							<!-- <div class="text-3xl sm:text-5xl lg:text-7xl font-bold leading-tight group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.6s]">
 
 								Relive Your Unforgettable Wedding
 								<br class="md:block !hidden" />
 								Day through Captivating Images
+							</div> -->
+							<div class="text-3xl sm:text-5xl lg:text-6xl font-medium leading-tight group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.6s]">
+								<span class="text-theme1 font-bold">Relive Your Unforgettable Wedding</span>	
+									
+									<br class="md:block !hidden" />
+									Day through Captivating Images
 							</div>
 							<button class="flex justify-between text-white sm:text-lg text-sm uppercase items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.9s]">
 								<span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> explore my portfolio</span>
@@ -78,8 +85,8 @@
 
 <!-- 2nd section  -->
 
-<section class="lg:py-20 sm:py-12 max-sm:pt-10 max-sm:pb-5  overflow-hidden ">
-	<div class="w-full lg:text-left relative z-[1] overflow-hidden md:gap-10 gap-8 flex flex-col">
+<section class="lg:py-20 sm:py-12 max-sm:pt-10 max-sm:pb-5  overflow-hidden " >
+	<div class="w-full lg:text-left relative z-[1] overflow-hidden md:gap-10 gap-8 flex flex-col" >
 		<div class="w-max flex group/marquee gap-3 *:flex *:items-center *:gap-3 *:duration-700 *:[animation-duration:50s] *:animate-marquee-h lg:*:*:w-[1700px] ">
 			<div class="group-hover/marquee:[animationplay-state:paused]">
 
@@ -132,9 +139,9 @@
 			</div>
 			<div class="col-auto">
 				<div class="size-full">
-					<div class="text-[#ec9a96] text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] relative z-10 md:-ms-28 -mt-9">
+					<div class="text-theme1 text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] relative z-10 md:-ms-28 -mt-9">
 						CandidShutters</div>
-					<div class="text-[#686e78] text-lg sm:text-2xl font-workSans text-pretty pb-4">
+					<div class="text-theme2 text-lg sm:text-2xl font-workSans text-pretty pb-4">
 						Artistic Story Telling Celebrating YOU!
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm">
@@ -158,9 +165,9 @@
 <!-- 3rd section  -->
 <section class="max-sm:px-6 py-10">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6 sm:pb-10 pb-7">
-		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 lg:pb-14 pb-5">
+		<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-theme1 lg:pb-14 pb-5">
 			Gallery
-			<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
+			<div class="absolute -z-10 sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
 				Image
 			</div>
 		</div>
@@ -343,11 +350,18 @@
 
 	</div>
 
-	<div class="mx-auto max-w-7xl lg:px-8 px-6 flex items-center justify-center">
-		<button class="flex justify-between text-slate-950 items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 sm:text-lg text-base">
+	<div class="mx-auto max-w-7xl lg:px-8 px-6 flex items-center justify-center mt-8">
+		<!-- <button class="flex justify-between text-slate-950 items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 sm:text-lg text-base">
 			<span class="group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-slate-950"></span>
 			<span class="group-hover/btn:-translate-x-7 duration-300"> Visit Gallery</span>
-		</button>
+		</button> -->
+		<a href="{{route('website.gallery')}}" class="relative px-5 py-2 font-medium text-white group">
+          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-[#0b9fdb] group-hover:bg-[#0b9fdb] group-hover:skew-x-12"></span>
+          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform skew-x-12 bg-[#f36a22] group-hover:bg-[#f36a22] group-hover:-skew-x-12"></span>
+          <span class="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-[#0b9fdb] -rotate-12"></span>
+          <span class="absolute bottom-0 right-0 hidden w-10 h-20 transition-all duration-100 ease-out transform translate-x-10 translate-y-8 bg-[#f36a22] -rotate-12"></span>
+          <span class="relative">Visit Gallery</span>
+        </a>
 	</div>
 </section>
 <!-- 3rd section end -->
@@ -355,9 +369,9 @@
 
 <!-- 4th section  -->
 <div class="mx-auto max-w-7xl lg:px-8 px-6">
-	<div class="sm:text-5xl text-4xl relative  text-balance md:w-1/2 w-full font-bold text-slate-800 sm:pb-14 pb-8">
+	<div class="sm:text-5xl text-4xl relative  text-balance md:w-1/2 w-full font-bold text-theme1 sm:pb-14 pb-8">
 		Gallery
-		<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
+		<div class="absolute -z-10 sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">
 			Video
 		</div>
 	</div>
@@ -445,11 +459,18 @@
 		<div class="swiper-button-prev"></div>
 	</div>
 
-	<div class="mx-auto max-w-7xl lg:px-8 px-6 flex items-center justify-center">
-		<button class="flex justify-between text-slate-950 items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 sm:text-lg text-base">
+	<div class="mx-auto max-w-7xl lg:px-8 px-6 flex items-center justify-center mt-8">
+		<!-- <button class="flex justify-between text-slate-950 items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 sm:text-lg text-base">
 			<span class="group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-slate-950"></span>
 			<span class="group-hover/btn:-translate-x-7 duration-300">Visit Our YouTube Channel</span>
-		</button>
+		</button> -->
+		<a href="{{route('website.gallery')}}" class="relative px-5 py-2 font-medium text-white group">
+          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-[#0b9fdb] group-hover:bg-[#0b9fdb] group-hover:skew-x-12"></span>
+          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform skew-x-12 bg-[#f36a22] group-hover:bg-[#f36a22] group-hover:-skew-x-12"></span>
+          <span class="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-[#0b9fdb] -rotate-12"></span>
+          <span class="absolute bottom-0 right-0 hidden w-10 h-20 transition-all duration-100 ease-out transform translate-x-10 translate-y-8 bg-[#f36a22] -rotate-12"></span>
+          <span class="relative">Visit Our YouTube Channel</span>
+        </a>
 	</div>
 </div>
 
@@ -462,7 +483,7 @@
 	<div class="grid grid-cols-2 md:grid-cols-5 gap-y-4 md:gap-4 items-center lg:mt-14 mt-5">
 		<div class="col-span-3">
 			<div class="py-6">
-				<div class="text-[#ec9a96] text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-8">
+				<div class="text-theme1 text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-8">
 					Nurtured to perfection
 				</div>
 				<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 gap-y-7 md:gap-y-20">
@@ -525,7 +546,7 @@
 <!-- 5th section end  -->
 
 <!-- 6th section  -->
-<div class="bg-black/90 md:py-20 py-12">
+<div class="bg-gray-900 md:py-20 py-12">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6">
 		<div class="flex items-center justify-between pb-8">
 			<div class="text-white text-[32px] sm:text-[45px] md::text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] x">
@@ -721,9 +742,9 @@
 <div class=" md:py-20 py-12">
 	<div class="mx-auto max-w-7xl lg:px-8 px-6">
 		<div class="mx-auto max-w-7xl  pb-10">
-			<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-slate-800 lg:pb-14 ">
+			<div class="sm:text-5xl text-4xl relative text-balance md:w-1/2 w-full font-bold text-theme1 lg:pb-14 ">
 				Blog & Tips
-				<div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent lg:text-[120px] sm:text-[90px] text-[70px] font-light">
+				<div class="absolute -z-10 sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent lg:text-[120px] sm:text-[90px] text-[70px] font-light">
 					From Us!
 				</div>
 			</div>
