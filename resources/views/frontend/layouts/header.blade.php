@@ -1,8 +1,8 @@
-<div class="group-[]/nav:bg-black group-[]/nav:fixed group-[]/nav:animate-fixed-nav py-3 group-[]/nav:py-0 w-full z-50 bg-transparent absolute top-0 w-full">
+<div class="group-[]/nav:bg-gray-900 group-[]/nav:fixed group-[]/nav:animate-fixed-nav py-3 group-[]/nav:py-0 w-full z-50 bg-transparent absolute top-0 w-full">
   <header class="mx-auto max-w-7xl lg:px-8 px-6">
     <div class="topHeader flex items-center justify-between group-[]/nav:hidden">
       <div class="md:flex hidden">
-        <ul class="flex items-center gap-3">
+        <!-- <ul class="flex items-center gap-3">
           <li>
             <a class="size-5 text-white" href="{{ url('/') }}">
               <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -39,6 +39,44 @@
               </svg>
             </a>
           </li>
+        </ul> -->
+
+        <ul class="flex  ">
+          <li class="list-none">
+            <a href="#" class="relative size-7 bg-white text-center leading-[80px] text-[35px] mx-1 flex items-center justify-center rounded-md p-1 overflow-hidden border-2 border-white duration-300 group overflow-hidden border-2 border-white">
+              <svg class="z-50 flex items-center justify-center text-gray-800 transition-transform duration-300 group-hover:text-white group-hover:rotate-y-360" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+              </svg>
+
+              <span class="absolute top-full left-0 w-full h-full bg-rose-500 transition-all duration-300 group-hover:top-0"></span>
+            </a>
+          </li>
+          <li class="list-none">
+            <a href="#" class="relative size-7 bg-white text-center leading-[80px] text-[35px] mx-1 flex items-center justify-center rounded-md p-1.5 overflow-hidden border-2 border-white duration-300 group overflow-hidden border-2 border-white">
+              <svg class="z-50 flex items-center justify-center text-gray-800 transition-transform duration-300 group-hover:text-white group-hover:rotate-y-360" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
+                <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z">
+                </path>
+              </svg>
+              <span class="absolute top-full left-0 w-full h-full bg-blue-500 transition-all duration-300 group-hover:top-0"></span>
+            </a>
+          </li>
+          <li class="list-none">
+            <a href="#" class="relative size-7 bg-white text-center leading-[80px] text-[35px] mx-1 flex items-center justify-center rounded-md p-1 overflow-hidden border-2 border-white duration-300 group overflow-hidden border-2 border-white">
+              <svg class="z-50 flex items-center justify-center text-gray-800 transition-transform duration-300 group-hover:text-white group-hover:rotate-y-360" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+              </svg>
+              <span class="absolute top-full left-0 w-full h-full bg-black transition-all duration-300 group-hover:top-0"></span>
+            </a>
+          </li>
+          <li class="list-none">
+            <a href="#" class="relative size-7 bg-white text-center leading-[80px] text-[35px] mx-1 flex items-center justify-center rounded-md p-1 overflow-hidden border-2 border-white duration-300 group overflow-hidden border-2 border-white">
+              <svg class="z-50 flex items-center justify-center text-gray-800 transition-transform duration-300 group-hover:text-white group-hover:rotate-y-360" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg">
+                <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z">
+                </path>
+              </svg>
+              <span class="absolute top-full left-0 w-full h-full bg-red-500 transition-all duration-300 group-hover:top-0"></span>
+            </a>
+          </li>
         </ul>
       </div>
       <div class="flex items-center justify-center py-2">
@@ -47,11 +85,23 @@
         </a>
       </div>
       <div class="flex items-center ">
-        <button class="md:flex hidden justify-between text-white items-center overflow-hidden group gap-4">
+        <!-- <button class="md:flex hidden justify-between text-white items-center overflow-hidden border-[#0b9fdb] border-2 px-5 py-2 rounded-md text-base font-semibold group gap-4">
           <span class="group-hover:-translate-x-7 duration-300 w-7 h-[2px] bg-white">
 
           </span> <span class="group-hover:-translate-x-7 duration-300"> Book a Now</span>
-        </button>
+        </button> -->
+
+        <!-- <button class="text-base font-semibold bg-[#0b9fdb] px-5 py-2 rounded-md text-white duration-300 hover:bg-[#f36a22] hover:textblack">
+        Book a Now
+        </button> -->
+        <a href="{{route('website.contact_us')}}" class="relative px-5 py-2 font-medium text-white group">
+          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-[#0b9fdb] group-hover:bg-[#0b9fdb] group-hover:skew-x-12"></span>
+          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform skew-x-12 bg-[#f36a22] group-hover:bg-[#f36a22] group-hover:-skew-x-12"></span>
+          <span class="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-[#0b9fdb] -rotate-12"></span>
+          <span class="absolute bottom-0 right-0 hidden w-10 h-20 transition-all duration-100 ease-out transform translate-x-10 translate-y-8 bg-[#f36a22] -rotate-12"></span>
+          <span class="relative">Book a Now</span>
+        </a>
+
         <div class="flex items-center gap-3">
           <div class="flex md:hidden">
             <label for="sideToggle" class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5">
@@ -81,26 +131,26 @@
             <a class=" text-white py-1 text-base font-medium relative after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left {{ request()->is('about-us*') ? ' border-white border-b-[2px]' : '' }} " href="{{route('website.about_us') }}">About</a>
           </li>
           <li class="group relative">
-            <div class=" text-white py-1 text-base font-medium relative cursor-pointer after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  " >Our Services</div>
-            <div class="md:bg-white md:rounded-lg md:shadow-md translate-y-[22px] opacity-0 invisible duration-300 left-0 absolute group-hover:opacity-100 group-hover:visible p-3 after:absolute after:-top-5 after:w-full after:h-10 after:bg-transparent w-52">
-              <ul class="flex flex-col gap-3">
-                <li>
-                  <a href="{{route('services.haldi') }}" class="text-black text-base relative duration-300 hover:text-amber-700 w-full {{ request()->is('services/haldi*') ? ' !text-amber-700 font-semibold ' : '' }}">Haldi</a>
+            <div class=" text-white py-1 text-base font-medium relative cursor-pointer after:absolute after:bg-white after:top-full  after:left-0 after:w-full after:h-[2px] after:transform after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  ">Our Services</div>
+            <div class="md:bg-white md:shadow-md translate-y-[15px] opacity-0 invisible duration-300 left-0 absolute group-hover:opacity-100 group-hover:visible  after:absolute after:-top-5 after:w-full after:h-10 after:bg-transparent w-56">
+              <ul class="flex flex-col gap3">
+                <li class="">
+                  <a href="{{route('services.haldi') }}" class="text-black text-base relative duration-300 after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  border-b border-slate-200  relative after:absolute after:bg-theme1 after:h-full after:w-1 after:left-0 after:top-0 font-normal text-nowrap  w-full {{ request()->is('services/haldi*') ? ' !text-amber-700 font-normal border-b border-theme1 px-3 py-2 flex  ' : 'px-3 py-2 flex' }}">Haldi</a>
                 </li>
-                <li>
-                  <a href="{{route('services.mehendi') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/mehendi*') ? ' !text-amber-700 font-semibold ' : '' }}">Mehendi</a>
+                <li class="">
+                  <a href="{{route('services.mehendi') }}" class="text-black text-base relative duration-300 after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  border-b border-slate-200  relative after:absolute after:bg-theme1 after:h-full after:w-1 after:left-0 after:top-0 font-normal text-nowrap  {{ request()->is('services/mehendi*') ? ' !text-amber-700 font-normal border-b border-theme1 px-3 py-2 flex font-medium' : 'px-3 py-2 flex' }}">Mehendi</a>
                 </li>
-                <li>
-                  <a href="{{route('services.engagement') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/engagement*') ? ' !text-amber-700 font-semibold ' : '' }}">Engagement</a>
+                <li class="">
+                  <a href="{{route('services.engagement') }}" class="text-black text-base relative duration-300 after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  border-b border-slate-200  relative after:absolute after:bg-theme1 after:h-full after:w-1 after:left-0 after:top-0 font-normal text-nowrap  {{ request()->is('services/engagement*') ? ' !text-amber-700 font-normal border-b border-theme1 px-3 py-2 flex font-medium' : 'px-3 py-2 flex' }}">Engagement</a>
                 </li>
-                <li>
-                  <a href="{{route('services.wedding-photography') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/wedding-photography*') ? ' !text-amber-700 font-semibold ' : '' }}">Wedding Photography</a>
+                <li class="">
+                  <a href="{{route('services.wedding-photography') }}" class="text-black text-base relative duration-300 after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  border-b border-slate-200  relative after:absolute after:bg-theme1 after:h-full after:w-1 after:left-0 after:top-0 font-normal text-nowrap  {{ request()->is('services/wedding-photography*') ? ' !text-amber-700 font-normal border-b border-theme1 px-3 py-2 flex font-medium' : 'px-3 py-2 flex' }}">Wedding Photography</a>
                 </li>
-                <li>
-                  <a href="{{route('services.candid-photography') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/candid-photography*') ? ' !text-amber-700 font-semibold ' : '' }}">Candid Photography</a>
+                <li class="">
+                  <a href="{{route('services.candid-photography') }}" class="text-black text-base relative duration-300 after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  border-b border-slate-200  relative after:absolute after:bg-theme1 after:h-full after:w-1 after:left-0 after:top-0 font-normal text-nowrap  {{ request()->is('services/candid-photography*') ? ' !text-amber-700 font-normal border-b border-theme1 px-3 py-2 flex font-medium' : 'px-3 py-2 flex' }}">Candid Photography</a>
                 </li>
-                <li>
-                  <a href="{{route('services.pre-wedding-photoshoot') }}" class="text-black text-base relative duration-300 hover:text-amber-700 {{ request()->is('services/pre-wedding-photoshoot*') ? ' !text-amber-700 font-semibold ' : '' }}">Pre-Wedding Photoshoot</a>
+                <li class="">
+                  <a href="{{route('services.pre-wedding-photoshoot') }}" class="text-black text-base relative duration-300 after:scale-x-0 after:transition-transform after:duration-300 after:ease-in-out after:origin-right hover:after:transform hover:after:scale-x-100 hover:after:origin-left  border-b border-slate-200  relative after:absolute after:bg-theme1 after:h-full after:w-1 after:left-0 after:top-0 font-normal text-nowrap  {{ request()->is('services/pre-wedding-photoshoot*') ? ' !text-amber-700 font-normal border-b border-theme1 px-3 py-2 flex font-medium' : 'px-3 py-2 flex' }}">Pre-Wedding Photoshoot</a>
                 </li>
 
 
