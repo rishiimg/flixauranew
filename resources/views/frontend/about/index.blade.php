@@ -105,7 +105,7 @@ About Us
         alt="`" />
     </div>
   </div>
-  <div class="grid md:grid-cols-2  mt-20 items-center md:gap-10 gap-5">
+  <div class="grid md:grid-cols-2 mt-20 items-center md:gap-10 gap-5">
     <div class='md:order-2'>
       <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-theme1 md:pb-14 mb-8">
         MISSION
