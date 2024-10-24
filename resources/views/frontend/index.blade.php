@@ -366,55 +366,21 @@
 	<div class="videoSwiper swiper swiper swiper-initialized swiper-horizontal swiper-backface-hidden h-full overflow-hidden [&_.swiper-button-next:after]:size-8 [&_.swiper-button-next:after]:text-lg [&_.swiper-button-next:after]:bg-white [&_.swiper-button-next:after]:flex [&_.swiper-button-next:after]:items-center [&_.swiper-button-next:after]:justify-center [&_.swiper-button-next:after]:rounded-full [&_.swiper-button-next:after]:text-slate-900 [&_.swiper-button-next:after]:font-bold [&_.swiper-button-next:after]:flex-shrink-0 [&_.swiper-button-prev:after]:size-8 [&_.swiper-button-prev:after]:text-lg [&_.swiper-button-prev:after]:bg-white [&_.swiper-button-prev:after]:flex [&_.swiper-button-prev:after]:items-center [&_.swiper-button-prev:after]:justify-center [&_.swiper-button-prev:after]:rounded-full [&_.swiper-button-prev:after]:text-slate-900 [&_.swiper-button-prev:after]:font-bold [&_.swiper-button-prev:after]:flex-shrink-0 [&_.swiper-button-prev]:max-sm:hidden [&_.swiper-button-next]:max-sm:hidden [&_.swiper-pagination-bullet]:text-white/80 [&_.swiper-pagination-bullet-active]:bg-white [&_.swiper-pagination-bullet]:size-2 [&_.swiper-pagination-bullet]:p-1 [&_.swiper-pagination-bullet]:rounded-full">
 		<div class="swiper-wrapper">
 			<!-- Slide 1 -->
-			<div class="swiper-slide">
-				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
-						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-						</div>
-					</a>
-				</div>
-			</div>
-			<!-- Slide 2 -->
-			<div class="swiper-slide">
-				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
-						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-						</div>
-					</a>
-				</div>
-			</div>
-			<!-- Slide 3 -->
+			@foreach($youtubeVideos as $video)
 				<div class="swiper-slide">
-				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
-						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
+						<a class="h-full flex w-full" data-fancybox="video" href="{{$video->link}}">
+							<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+								<iframe class="h-full w-full" src="{{$video->link}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-						</div>
-					</a>
+								<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+							</div>
+						</a>
+					</div>
 				</div>
-			</div>
-			<!-- Slide 1 -->
-			<div class="swiper-slide">
-				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
-						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-						</div>
-					</a>
-				</div>
-			</div>
+			@endforeach
 			<!-- Slide 2 -->
-			<div class="swiper-slide">
+			{{-- <div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
 					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
@@ -424,9 +390,45 @@
 						</div>
 					</a>
 				</div>
-			</div>
+			</div> --}}
 			<!-- Slide 3 -->
-			<div class="swiper-slide">
+				{{-- <div class="swiper-slide">
+				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+						</div>
+					</a>
+				</div>
+			</div> --}}
+			<!-- Slide 1 -->
+			{{-- <div class="swiper-slide">
+				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+						</div>
+					</a>
+				</div>
+			</div> --}}
+			<!-- Slide 2 -->
+			{{-- <div class="swiper-slide">
+				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+						</div>
+					</a>
+				</div>
+			</div> --}}
+			<!-- Slide 3 -->
+			{{-- <div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
 					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ysZEG4bSqvE">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
@@ -437,7 +439,7 @@
 					</a>
 
 				</div>
-			</div>
+			</div> --}}
 			<!-- Add more slides as needed -->
 		</div>
 		<!-- Add Pagination and Navigation Buttons -->
@@ -936,7 +938,7 @@
 					<div class=" text-sm md:text-base leading-7 text-white/80 text-balance text-center ">Planning your wedding or an event? Fill out the booking form, and we'll get in touch with you shortly.
 						If it's urgent, call us at +91-98870 34345.</div>
 
-					<form action="{{ route('contact.submit') }}"  method="POST" class="sm:mt-14 mt-10">
+					<form action="{{ route('contact.submit') }}"  method="POST" class="sm:mt-14 mt-10" id="contactfrontpage">
 						@csrf
 						<div class="grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4">
 							<div>
@@ -956,7 +958,7 @@
 							<div>
 								<label for="" class="text-base font-medium text-white"> Phone number </label>
 								<div class="mt-2.5 relative">
-									<input type="tel" name="number" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+									<input type="tel" name="phone" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-4 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
 								</div>
 							</div>
 

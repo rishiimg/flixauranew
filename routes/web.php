@@ -20,6 +20,8 @@ use App\Http\Controllers\ClientController;
 use App\Http\Controllers\ContactusController;
 use App\Http\Controllers\HerosectionController;
 use App\Http\Controllers\ImagegalleryController;
+use App\Http\Controllers\SocialController;
+use App\Http\Controllers\YoutubeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -40,6 +42,8 @@ Route::fallback(function () {
     return view('errors.404');
 });
 
+
+Route::post('contact-store', [ContactusController::class, 'store'])->name('contact.submit');
 
 
 /*--------------  ADMIN ROUTES STARTS -----------------*/
@@ -188,7 +192,7 @@ Route::group(['prefix' => 'my-admin'], function () {
        | image gallery Section
        |--------------------------------------------------------------------------
        */
-        Route::any('contact-us', [ContactusController::class, 'index'])->name('contact.submit');
+        Route::any('contact-us', [ContactusController::class, 'index']);
         /*
         /*
        |--------------------------------------------------------------------------
@@ -200,14 +204,44 @@ Route::group(['prefix' => 'my-admin'], function () {
         Route::any('add-video', [ImagegalleryController::class, 'videoindex'])->name('video.index');
         // Route::any('view-txt', [ImagegalleryController::class, 'heroview'])->name('hero.view');
         /*
-       |--------------------------------------------------------------------------
-       | HEro  Section
-       |--------------------------------------------------------------------------
+        |--------------------------------------------------------------------------
+        | HEro  Section
+        |--------------------------------------------------------------------------
 
         */
         Route::any('add-txt', [HerosectionController::class, 'herotext'])->name('hero.index');
         Route::any('view-txt', [HerosectionController::class, 'heroview'])->name('hero.view');
-         /*
+        /*
+
+        /*
+        |--------------------------------------------------------------------------
+        | Social Sections
+        |--------------------------------------------------------------------------
+
+        */
+        Route::get('socials/index', [SocialController::class, 'index'])->name('social.index');
+        Route::any('socials/create', [SocialController::class, 'create'])->name('social.create');
+        Route::any('socials', [SocialController::class, 'store'])->name('social.store');
+        Route::any('socials/{id}/edit', [SocialController::class, 'edit'])->name('social.edit');
+        Route::any('socials/{id}/update', [SocialController::class, 'update'])->name('social.update');
+        Route::any('socials/{id}/delete', [SocialController::class, 'destroy'])->name('social.delete');
+        /*
+
+
+        /*
+        |--------------------------------------------------------------------------
+        | Youtube Sections
+        |--------------------------------------------------------------------------
+
+        */
+        Route::get('youtubes/index', [YoutubeController::class, 'index'])->name('youtube.index');
+        Route::any('youtubes/create', [YoutubeController::class, 'create'])->name('youtube.create');
+        Route::any('youtubes', [YoutubeController::class, 'store'])->name('youtube.store');
+        Route::any('youtubes/{id}/edit', [YoutubeController::class, 'edit'])->name('youtube.edit');
+        Route::any('youtubes/{id}/update', [YoutubeController::class, 'update'])->name('youtube.update');
+        Route::any('youtubes/{id}/delete', [YoutubeController::class, 'destroy'])->name('youtube.delete');
+        /*
+        
 
         |--------------------------------------------------------------------------
         | Client Manager

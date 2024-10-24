@@ -79,8 +79,7 @@ class WebController extends Controller
     {
         if (Auth::check()) {
             return redirect()->route('dashboard');
-        } 
-        else {
+        } else {
             return view('frontend.photographer.login');
         }
     }
@@ -138,8 +137,9 @@ class WebController extends Controller
     {
         $expertise = DB::table('expertise')->join('portfoliocategory', 'expertise.category_id', '=', 'portfoliocategory.id')->select('expertise.*', 'portfoliocategory.name')->get()->groupby('category_id');
 
-        $clientslider = DB::table('clientslider')->orderBy('id','DESC')->get();
-        return view('frontend.index', compact('expertise', 'clientslider'));
+        $clientslider = DB::table('clientslider')->orderBy('id', 'DESC')->get();
+        $youtubeVideos = DB::table('youtubes')->orderBy('id', 'DESC')->get();
+        return view('frontend.index', compact('expertise', 'clientslider', 'youtubeVideos'));
     }
 
     public function book_now()
@@ -240,7 +240,7 @@ class WebController extends Controller
         $trimmed = str_replace('-', ' ', $slug);
         $categories = DB::table('photographercategory')->where('name', '!=', $trimmed)->where('status', 1)->get();
         $portfoliocategory = DB::table('photographercategory')->where('name', $trimmed)->where('status', 1)->first();
-        $data = DB::table('photographerportfolio')->join('users', 'users.id', '=', 'photographerportfolio.userid')->where('photographerportfolio.category_id', $portfoliocategory->id)->where('status', 1)->select('photographerportfolio.*', 'users.name as uname', 'users.image as uimage')->orderBy('photographerportfolio.id','DESC')->get();
+        $data = DB::table('photographerportfolio')->join('users', 'users.id', '=', 'photographerportfolio.userid')->where('photographerportfolio.category_id', $portfoliocategory->id)->where('status', 1)->select('photographerportfolio.*', 'users.name as uname', 'users.image as uimage')->orderBy('photographerportfolio.id', 'DESC')->get();
         return view('frontend.photographer.portfolio', compact('data', 'portfoliocategory', 'categories'));
     }
 
@@ -257,7 +257,7 @@ class WebController extends Controller
             $categoryd = DB::table('blogcategory')->inRandomOrder()->first();
             $category = $categoryd->slug;
         }
-        $blog = Blog::join('users', 'users.id', '=', 'blog.writer')->join('blogcategory', 'blogcategory.id', '=', 'blog.category_id')->where('blogcategory.slug', $category)->select('blog.*', 'users.name as username', 'users.image as userimage')->orderBy('blog.id','DESC')->get();
+        $blog = Blog::join('users', 'users.id', '=', 'blog.writer')->join('blogcategory', 'blogcategory.id', '=', 'blog.category_id')->where('blogcategory.slug', $category)->select('blog.*', 'users.name as username', 'users.image as userimage')->orderBy('blog.id', 'DESC')->get();
         $category = DB::table('blogcategory')->where('slug', $category)->first();
         if (empty($blog)) {
             return redirect()->back();
@@ -268,7 +268,7 @@ class WebController extends Controller
 
     public function blog(Request $request)
     {
-        $blog = Blog::join('users', 'users.id', '=', 'blog.writer')->join('blogcategory', 'blogcategory.id', '=', 'blog.category_id')->select('blog.*', 'users.name as username', 'users.image as userimage', 'blogcategory.title as catname', 'blogcategory.slug as catslug')->orderBy('blog.id','DESC')->get();
+        $blog = Blog::join('users', 'users.id', '=', 'blog.writer')->join('blogcategory', 'blogcategory.id', '=', 'blog.category_id')->select('blog.*', 'users.name as username', 'users.image as userimage', 'blogcategory.title as catname', 'blogcategory.slug as catslug')->orderBy('blog.id', 'DESC')->get();
         if (empty($blog)) {
             return redirect()->back();
         } else {
@@ -343,28 +343,35 @@ class WebController extends Controller
     {
         $cities = DB::table('city')->get();
         $category = DB::table('portfoliocategory')->get();
-        $babyshoot = DB::table('portfolio')->where('category_id',7)->where('type','image')->orderBy('id','DESC')->get();
-        return view('frontend.baby-shoot.index',compact('cities','category','babyshoot'));
+        $babyshoot = DB::table('portfolio')->where('category_id', 7)->where('type', 'image')->orderBy('id', 'DESC')->get();
+        return view('frontend.baby-shoot.index', compact('cities', 'category', 'babyshoot'));
     }
-    public function haldiindex(){
+    public function haldiindex()
+    {
         return view('frontend.our-services.haldi.index');
     }
-    public function mehendiindex(){
+    public function mehendiindex()
+    {
         return view('frontend.our-services.mehendi.index');
     }
-    public function engagementindex(){
+    public function engagementindex()
+    {
         return view('frontend.our-services.engagement.index');
     }
-    public function weddingphotographyindex(){
+    public function weddingphotographyindex()
+    {
         return view('frontend.our-services.wedding-photography.index');
     }
-    public function candidphotographyindex(){
+    public function candidphotographyindex()
+    {
         return view('frontend.our-services.candid-photography.index');
     }
-    public function preweddingphotoshootindex(){
+    public function preweddingphotoshootindex()
+    {
         return view('frontend.our-services.pre-wedding-photoshoot.index');
     }
-    public function blogDetails(){
+    public function blogDetails()
+    {
         return view('frontend.blog.blog-details.index');
     }
 }
