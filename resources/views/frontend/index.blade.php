@@ -87,42 +87,42 @@
 
 <section class="lg:py-20 sm:py-12 max-sm:pt-10 max-sm:pb-5  overflow-hidden " >
 	<div class="w-full lg:text-left relative z-[1] overflow-hidden md:gap-10 gap-8 flex flex-col" >
-		<div class="w-max flex group/marquee gap-3 *:flex *:items-center *:gap-3 *:duration-700 *:[animation-duration:50s] *:animate-marquee-h lg:*:*:w-[1700px] ">
+		<div class="w-max flex group/marquee gap-3 *:flex *:items-center *:gap-3 *:duration-700 *:[animation-duration:50s] *:animate-marquee-h lg:*:*:w-[1000px] ">
 			<div class="group-hover/marquee:[animationplay-state:paused]">
 
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 
 			</div>
 
 			<div class="group-hover/marquee:[animationplay-state:paused]">
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 				<div class="text-[#f3f4f6] text-[100px] sm:text-[150px] md:text-[190px] inline-block font-bold uppercase md:leading-[150px] leading-[100px] ">
-					CandidShutters
+					flixaura
 				</div>
 			</div>
 		</div>
@@ -140,7 +140,7 @@
 			<div class="col-auto">
 				<div class="size-full">
 					<div class="text-theme1 text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] relative z-10 md:-ms-28 -mt-9">
-						CandidShutters</div>
+						flixaura</div>
 					<div class="text-theme2 text-lg sm:text-2xl font-workSans text-pretty pb-4">
 						Artistic Story Telling Celebrating YOU!
 					</div>
@@ -366,6 +366,8 @@
 </section>
 <!-- 3rd section end -->
 
+ 
+
 
 <!-- 4th section  -->
 <div class="mx-auto max-w-7xl lg:px-8 px-6">
@@ -382,9 +384,9 @@
 			<!-- Slide 1 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/kfbxTkyMS0E?si=B2VF0tPssnZ2qk_40">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/kfbxTkyMS0E?si=B2VF0tPssnZ2qk_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -394,9 +396,9 @@
 			<!-- Slide 2 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/EnzAe2sohjc?si=ojIPgzgxSSMHdaeH">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/EnzAe2sohjc?si=ojIPgzgxSSMHdaeH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -406,9 +408,9 @@
 			<!-- Slide 3 -->
 				<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/jNhXDDyem98?si=w35O7LK_ZpXqBZI3">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/jNhXDDyem98?si=w35O7LK_ZpXqBZI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -418,9 +420,9 @@
 			<!-- Slide 1 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ZjjMhBcZRHo?si=6e3gKRwVMxqHWJEd">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/ZjjMhBcZRHo?si=6e3gKRwVMxqHWJEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -430,9 +432,9 @@
 			<!-- Slide 2 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/RW1Vvm_jbu0">
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/9ZArLgcufHM?si=427PSn09PtgFylyR">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/RW1Vvm_jbu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/9ZArLgcufHM?si=427PSn09PtgFylyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -442,9 +444,9 @@
 			<!-- Slide 3 -->
 			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
-					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ysZEG4bSqvE">
+					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/kfgHKXuyEQg?si=snxGmVs8Ws6AbKSk">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-							<iframe class="h-full w-full" src="https://www.youtube.com/embed/ysZEG4bSqvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/kfgHKXuyEQg?si=snxGmVs8Ws6AbKSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -464,7 +466,7 @@
 			<span class="group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-slate-950"></span>
 			<span class="group-hover/btn:-translate-x-7 duration-300">Visit Our YouTube Channel</span>
 		</button> -->
-		<a href="{{route('website.gallery')}}" class="relative px-5 py-2 font-medium text-white group">
+		<a href="https://www.youtube.com/@Flixaura_wed" class="relative px-5 py-2 font-medium text-white group">
           <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-[#0b9fdb] group-hover:bg-[#0b9fdb] group-hover:skew-x-12"></span>
           <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform skew-x-12 bg-[#f36a22] group-hover:bg-[#f36a22] group-hover:-skew-x-12"></span>
           <span class="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-[#0b9fdb] -rotate-12"></span>
