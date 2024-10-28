@@ -29,9 +29,9 @@ About Us
     <!-- 3rd section  -->
 <section class="max-sm:px-6 py-10 mt-10">
 	<div class="mx-auto max-w-7xl sm:pb-10 pb-5">
-  <div class="sm:text-5xl text-4xl relative  text-balance flex items-center justify-center  w-full font-bold text-slate-800 sm:pb-14 pb-5 mx-auto">
+  <div class="sm:text-5xl text-4xl relative  text-balance flex items-center justify-center  w-full font-bold text-theme1 z-20 sm:pb-14 pb-5 mx-auto">
     Explore Our Visual Collection
-    <div class="absolute sm:-top-7 -top-3 max-sm:left-0 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Gallery</div>
+    <div class="absolute sm:-top-7 -top-3 max-sm:left-0 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light -z-10">Gallery</div>
     </div>
 	</div>
 

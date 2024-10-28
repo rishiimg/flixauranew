@@ -39,9 +39,9 @@ About Us
       </div>
       <div data-aos="fade-left" class="col-span-12 lg:col-span-6 ">
         <div class="size-full">
-          <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-slate-800 lg:pb-14 max-lg:mt-20">
+          <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-theme1 relative z-20 lg:pb-14 max-lg:mt-20">
           Let’s Capture the
-            <div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light"> Fun!</div>
+            <div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light -z-10"> Fun!</div>
           </div>
 
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
@@ -167,7 +167,7 @@ About Us
 <!-- 4rd section  -->
 <section class="max-sm:px-6 sm:py-10 max-sm:pb-10">
 
-  <div class="text-5xl relative  text-balance flex items-center justify-center text-center w-full font-bold text-slate-800 sm:pb-14 pb-10 mx-auto">Gallery<div class="absolute md:-top-12 -top-5 [font-family:Yesteryear] text-center [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Image</div>
+  <div class="text-5xl relative  text-balance flex items-center justify-center text-center w-full font-bold text-theme1 relative z-20 sm:pb-14 pb-10 mx-auto">Gallery<div class="absolute md:-top-12 -top-5 [font-family:Yesteryear] text-center [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light -z-10">Image</div>
   </div>
 
 
@@ -425,7 +425,7 @@ About Us
 <!-- 5th section  -->
 
 <div class="max-w-7xl mx-auto px-6 lg:px-8 sm:py-16 py-10">
-  <div class="sm:text-5xl text-4xl relative  text-balance flex items-center justify-center  w-full font-bold text-slate-800 sm:pb-14 pb-5 mx-auto">Frequently Asked<div class="absolute -top-4 sm:-top-7 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">Questions</div>
+  <div class="sm:text-5xl text-4xl relative  text-balance flex items-center justify-center  w-full font-bold text-theme1 relative z-20 sm:pb-14 pb-5 mx-auto">Frequently Asked<div class="absolute -top-4 sm:-top-7 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light -z-10">Questions</div>
   </div>
   <div class="relative flex flex-col mt-5">
     <input class="peer/mm hidden" type="radio" checked name="QA" id="QA1">
