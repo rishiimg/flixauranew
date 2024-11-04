@@ -40,18 +40,24 @@ About Us
       <div data-aos="fade-left" class="col-span-12 lg:col-span-6 ">
         <div class="size-full">
           <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-theme1 z-20 lg:pb-14 max-lg:mt-20">
-          Pre wedding photography by
-            <div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light -z-10">Filxaura  </div>
+            Pre wedding photography by
+            <div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light -z-10">FLIXAURA </div>
           </div>
 
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-          Pre wedding photography is a beautiful way to celebrate your unique love story before the big day! At FILXAURA, we specialize in creating stunning images that reflect your personalities, style, preferences, and the essence of your relationship. 
+            Before the big day, pre-wedding photography is a lovely opportunity to commemorate
+            your special love story! Our specialty at FLIXAURA is producing gorgeous photos that
+            capture the soul of your relationship as well as your personalities, tastes, and sense of
+            style.
+
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-          Our focus is not just on clicking your photos together, we are here to turn your dream of Pre Wedding into reality. A <strong>pre-wedding shoot</strong>  allows you to become more comfortable with the camera and excitement as you embark on this new journey together.
+            Our goal is to make your pre-wedding vision a reality, not only to take pictures of you
+            two together. You can get more accustomed to the camera and feel more excited as you
+            start your new journey together with a pre-wedding photo shoot.
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-          At FILXAURA, we can’t wait to create beautiful memories that reflect your journey.
+            We at FLIXAURA are eager to produce stunning memories that capture your adventure.
           </div>
         </div>
       </div>
@@ -181,11 +187,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery93" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
-				<a data-fancybox="gallery93" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
-				<a data-fancybox="gallery93" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
-				<a data-fancybox="gallery93" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery93" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
+        <a data-fancybox="gallery93" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
+        <a data-fancybox="gallery93" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
+        <a data-fancybox="gallery93" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
+      </div>
     </div>
 
     <div>
@@ -196,11 +202,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery94" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp"></a>
-				<a data-fancybox="gallery94" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp"></a>
-				<a data-fancybox="gallery94" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp"></a>
-				<a data-fancybox="gallery94" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery94" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp"></a>
+        <a data-fancybox="gallery94" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp"></a>
+        <a data-fancybox="gallery94" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp"></a>
+        <a data-fancybox="gallery94" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-shoot-22-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery95" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp">
@@ -210,11 +216,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery95" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
-				<a data-fancybox="gallery95" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
-				<a data-fancybox="gallery95" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
-				<a data-fancybox="gallery95" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery95" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
+        <a data-fancybox="gallery95" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
+        <a data-fancybox="gallery95" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
+        <a data-fancybox="gallery95" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery96" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp">
@@ -224,11 +230,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery96" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp"></a>
-				<a data-fancybox="gallery96" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp"></a>
-				<a data-fancybox="gallery96" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp"></a>
-				<a data-fancybox="gallery96" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery96" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp"></a>
+        <a data-fancybox="gallery96" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp"></a>
+        <a data-fancybox="gallery96" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp"></a>
+        <a data-fancybox="gallery96" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-16-1-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery97" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp">
@@ -238,11 +244,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery97" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp"></a>
-				<a data-fancybox="gallery97" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp"></a>
-				<a data-fancybox="gallery97" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp"></a>
-				<a data-fancybox="gallery97" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery97" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp"></a>
+        <a data-fancybox="gallery97" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp"></a>
+        <a data-fancybox="gallery97" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp"></a>
+        <a data-fancybox="gallery97" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/Pre-Wedding-Dubai-Swini-Khara-9-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery98" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg">
@@ -252,11 +258,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery98" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg"></a>
-				<a data-fancybox="gallery98" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg"></a>
-				<a data-fancybox="gallery98" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg"></a>
-				<a data-fancybox="gallery98" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery98" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg"></a>
+        <a data-fancybox="gallery98" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg"></a>
+        <a data-fancybox="gallery98" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg"></a>
+        <a data-fancybox="gallery98" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery99" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg">
@@ -266,11 +272,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery99" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg"></a>
-				<a data-fancybox="gallery99" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg"></a>
-				<a data-fancybox="gallery99" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg"></a>
-				<a data-fancybox="gallery99" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery99" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg"></a>
+        <a data-fancybox="gallery99" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg"></a>
+        <a data-fancybox="gallery99" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg"></a>
+        <a data-fancybox="gallery99" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/587F1F39-AC54-449B-AE43-44E398D6C644.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery100" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg">
@@ -280,11 +286,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery100" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg"></a>
-				<a data-fancybox="gallery100" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg"></a>
-				<a data-fancybox="gallery100" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg"></a>
-				<a data-fancybox="gallery100" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery100" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg"></a>
+        <a data-fancybox="gallery100" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg"></a>
+        <a data-fancybox="gallery100" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg"></a>
+        <a data-fancybox="gallery100" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/3DEC932E-0707-4DEF-B769-06E045D9F8D2.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery101" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg">
@@ -294,11 +300,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery101" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg"></a>
-				<a data-fancybox="gallery101" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg"></a>
-				<a data-fancybox="gallery101" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg"></a>
-				<a data-fancybox="gallery101" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery101" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg"></a>
+        <a data-fancybox="gallery101" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg"></a>
+        <a data-fancybox="gallery101" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg"></a>
+        <a data-fancybox="gallery101" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/2186BBB1-00B2-4F4A-88E5-284F78328A55.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery102" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg">
@@ -308,11 +314,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery102" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg"></a>
-				<a data-fancybox="gallery102" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg"></a>
-				<a data-fancybox="gallery102" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg"></a>
-				<a data-fancybox="gallery102" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery102" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg"></a>
+        <a data-fancybox="gallery102" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg"></a>
+        <a data-fancybox="gallery102" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg"></a>
+        <a data-fancybox="gallery102" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F9B8C5EC-FA61-4A57-A470-89D390B5F76B.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery103" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg">
@@ -322,11 +328,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery103" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg"></a>
-				<a data-fancybox="gallery103" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg"></a>
-				<a data-fancybox="gallery103" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg"></a>
-				<a data-fancybox="gallery103" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery103" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg"></a>
+        <a data-fancybox="gallery103" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg"></a>
+        <a data-fancybox="gallery103" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg"></a>
+        <a data-fancybox="gallery103" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/D2D6154A-C560-4B06-BE2F-6A2DBBF1BA45.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery104" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg">
@@ -336,11 +342,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery104" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg"></a>
-				<a data-fancybox="gallery104" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg"></a>
-				<a data-fancybox="gallery104" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg"></a>
-				<a data-fancybox="gallery104" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery104" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg"></a>
+        <a data-fancybox="gallery104" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg"></a>
+        <a data-fancybox="gallery104" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg"></a>
+        <a data-fancybox="gallery104" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/4EBBC854-5362-40B6-8871-5C4A904F95FE.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery105" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp">
@@ -350,11 +356,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery105" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
-				<a data-fancybox="gallery105" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
-				<a data-fancybox="gallery105" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
-				<a data-fancybox="gallery105" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery105" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
+        <a data-fancybox="gallery105" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
+        <a data-fancybox="gallery105" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
+        <a data-fancybox="gallery105" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photos-9-600x600.webp"></a>
+      </div>
     </div>
 
     <div>
@@ -365,11 +371,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery106" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
-				<a data-fancybox="gallery106" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
-				<a data-fancybox="gallery106" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
-				<a data-fancybox="gallery106" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery106" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+        <a data-fancybox="gallery106" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+        <a data-fancybox="gallery106" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+        <a data-fancybox="gallery106" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/695C1E49-E7E8-4AB2-A091-B6062F7C7FC1.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery107" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp">
@@ -379,11 +385,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery107" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
-				<a data-fancybox="gallery107" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
-				<a data-fancybox="gallery107" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
-				<a data-fancybox="gallery107" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery107" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
+        <a data-fancybox="gallery107" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
+        <a data-fancybox="gallery107" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
+        <a data-fancybox="gallery107" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/pre-wedding-photoshoot-14-1-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery108" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp">
@@ -393,11 +399,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery108" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
-				<a data-fancybox="gallery108" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
-				<a data-fancybox="gallery108" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
-				<a data-fancybox="gallery108" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery108" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+        <a data-fancybox="gallery108" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+        <a data-fancybox="gallery108" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+        <a data-fancybox="gallery108" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photo-5-600x600.webp"></a>
+      </div>
     </div>
 
     <!-- Add similar sections for other gallery images -->
@@ -428,13 +434,13 @@ About Us
   <div class="relative flex flex-col mt-5">
     <input class="peer/mm hidden" type="radio" name="QA" id="QA3">
     <label for="QA3" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6">
-    When should we schedule our pre-wedding photo session? </label>
+      When should we schedule our pre-wedding photo session? </label>
     <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">Your wedding timeline, the location and your personal preferences will all influence when you should schedule your pre-wedding photo session. We recommend booking it at least several months prior to your wedding date. This will allow time for editing, and any unexpected circumstances. </div>
   </div>
 
   <div class="relative flex flex-col mt-5">
     <input class="peer/mm hidden" type="radio" name="QA" id="QA4">
-    <label for="QA4" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white rounded-t-4xl  py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6">  Where are the best locations for pre-wedding photos?</label>
+    <label for="QA4" class="flex items-center gap-x-[2px] bg-sky-500 sm:text-base text-sm capitalize font-medium relative z-10 text-white rounded-t-4xl  py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5 after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45 after:bg-contain after:peer-checked/mm:rotate-[-135deg]  peer-checked/mm:w-full peer-checked/mm:after:top-6"> Where are the best locations for pre-wedding photos?</label>
     <div class="w-fullshadow-md mt-[-43px] border border-solid border-white shadow-lg bg-white p-6 peer-checked/mm:block hidden text-gray-900 sm:text-base text-sm py-3 pt-12">You can choose from a wide range of locations for your pre-wedding photos, such as parks, beaches or urban settings. We also offer photography in historical landmarks and places that are meaningful to you both. We are flexible, and we can discuss the options that best suit your vision.</div>
   </div>
   <div class="relative flex flex-col mt-5">
@@ -448,84 +454,84 @@ About Us
 
 <!-- 6th section  -->
 <section class="h-full lg:py-20 py-12 bg-fixed bg-no-repeat bg-cover bg-center bg-[url('{{asset('/public/tailwind_frontend/contactform.webp')}}')]">
-	<div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl ">
+  <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl ">
 
 
-		<div class="max-w-5xl max-sm:px-4 mx-auto">
+    <div class="max-w-5xl max-sm:px-4 mx-auto">
 
-			<div class="sm:mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
-				<div class="p-6 sm:p-12">
-					<div class="text-white text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-5">
-						Book Now
-					</div>
-					<div class=" text-sm md:text-base leading-7 text-white/80 text-balance text-center ">Planning your wedding or an event? Fill out the booking form, and we'll get in touch with you shortly.
-						If it's urgent, call us at +91-98870 34345.</div>
+      <div class="sm:mt-6 overflow-hidden bg-white/20 shadow-xl rounded-xl">
+        <div class="p-6 sm:p-12">
+          <div class="text-white text-center text-[45px] sm:text-[70px] leading-[100%] font-normal [font-family:'Dancing_Script',cursive] pb-5">
+            Book Now
+          </div>
+          <div class=" text-sm md:text-base leading-7 text-white/80 text-balance text-center ">Planning your wedding or an event? Fill out the booking form, and we'll get in touch with you shortly.
+            If it's urgent, call us at +91-98870 34345.</div>
 
-					<form action="#" method="POST" class="sm:mt-14 mt-10">
-						<div class="grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4">
-							<div>
-								<label for="" class="text-base font-medium text-white"> Your name </label>
-								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Enter your full name" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
-								</div>
-							</div>
+          <form action="#" method="POST" class="sm:mt-14 mt-10">
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4">
+              <div>
+                <label for="" class="text-base font-medium text-white"> Your name </label>
+                <div class="mt-2.5 relative">
+                  <input type="text" name="" id="" placeholder="Enter your full name" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+                </div>
+              </div>
 
-							<div>
-								<label for="" class="text-base font-medium text-white"> Email address </label>
-								<div class="mt-2.5 relative">
-									<input type="email" name="" id="" placeholder="Enter your email" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
-								</div>
-							</div>
+              <div>
+                <label for="" class="text-base font-medium text-white"> Email address </label>
+                <div class="mt-2.5 relative">
+                  <input type="email" name="" id="" placeholder="Enter your email" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+                </div>
+              </div>
 
-							<div>
-								<label for="" class="text-base font-medium text-white"> Phone number </label>
-								<div class="mt-2.5 relative">
-									<input type="tel" name="" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
-								</div>
-							</div>
+              <div>
+                <label for="" class="text-base font-medium text-white"> Phone number </label>
+                <div class="mt-2.5 relative">
+                  <input type="tel" name="" id="" placeholder="Phone Number" class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+                </div>
+              </div>
 
-							<div>
-								<label for="" class="text-base font-medium text-white"> City</label>
-								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
-								</div>
-							</div>
-							<div>
-								<label for="" class="text-base font-medium text-white"> Service </label>
-								<div class="mt-2.5 relative">
-									<select id="countries" class="block w-full px-4 sm:py-3 py-2 text-black placeholder:text-gray-500 text-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900">
-										<option selected>Select a Service</option>
-										<option value="Wedding">Wedding</option>
-										<option value="Pre-Wedding">Pre-Wedding</option>
-										<option value="Both">Both</option>
-									</select>
-								</div>
-							</div>
-							<div>
-								<label for="" class="text-base font-medium text-white"> Budget </label>
-								<div class="mt-2.5 relative">
-									<input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
-								</div>
-							</div>
+              <div>
+                <label for="" class="text-base font-medium text-white"> City</label>
+                <div class="mt-2.5 relative">
+                  <input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+                </div>
+              </div>
+              <div>
+                <label for="" class="text-base font-medium text-white"> Service </label>
+                <div class="mt-2.5 relative">
+                  <select id="countries" class="block w-full px-4 sm:py-3 py-2 text-black placeholder:text-gray-500 text-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900">
+                    <option selected>Select a Service</option>
+                    <option value="Wedding">Wedding</option>
+                    <option value="Pre-Wedding">Pre-Wedding</option>
+                    <option value="Both">Both</option>
+                  </select>
+                </div>
+              </div>
+              <div>
+                <label for="" class="text-base font-medium text-white"> Budget </label>
+                <div class="mt-2.5 relative">
+                  <input type="text" name="" id="" placeholder="Type here..." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md focus:outline-none focus:border-slate-900 caret-slate-900" />
+                </div>
+              </div>
 
-							<div class="sm:col-span-2">
-								<label for="" class="text-base font-medium text-white"> Message </label>
-								<div class="mt-2.5 relative">
-									<textarea name="" id="" placeholder="Type Here ...." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md resize-y focus:outline-none focus:border-slate-900 caret-slate-900" rows="4"></textarea>
-								</div>
-							</div>
+              <div class="sm:col-span-2">
+                <label for="" class="text-base font-medium text-white"> Message </label>
+                <div class="mt-2.5 relative">
+                  <textarea name="" id="" placeholder="Type Here ...." class="block w-full px-4 sm:py-3 py-2 text-black placeholder-gray-500 transition-all duration-200 bg-white/80 border border-gray-200 rounded-md resize-y focus:outline-none focus:border-slate-900 caret-slate-900" rows="4"></textarea>
+                </div>
+              </div>
 
-							<div class="sm:col-span-2 text-center">
-								<button type="submit" class="inline-flex items-center justify-center w-auto px-4 py-2 mt-2 text-base font-semibold text-white transition-all duration-200 bg-slate-900 border border-transparent rounded-md focus:outline-none hover:bg-slate-800 focus:bg-slate-800">
-									Submit
-								</button>
-							</div>
-						</div>
-					</form>
-				</div>
-			</div>
-		</div>
-	</div>
+              <div class="sm:col-span-2 text-center">
+                <button type="submit" class="inline-flex items-center justify-center w-auto px-4 py-2 mt-2 text-base font-semibold text-white transition-all duration-200 bg-slate-900 border border-transparent rounded-md focus:outline-none hover:bg-slate-800 focus:bg-slate-800">
+                  Submit
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
 
 </section>
 <!-- 6th section end  -->

@@ -57,7 +57,15 @@ About Us
           </div>
 
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-            Welcome to FLIXAURA <strong>Wedding Photography</strong> , We specialize in capturing the magic, emotion, and unforgettable moments of your big day. With a passion for capturing genuine moments and heartfelt emotions, we create timeless images that reflect the unique beauty of each couple's love story. Our services offer high-quality <strong>wedding videography and photography</strong> , with options for both candid and traditional styles. We also provide <strong>wedding videography packages</strong> to suit your needs, whether it’s pre wedding shoot, cinematic video shoot, or full-day wedding coverage. Let us help you preserve cherished memories for generations to come.
+            Thank you for visiting FLIXAURA Wedding Photography. We are experts at preserving
+            the enchantment, passion, and priceless moments of your special day. We produce
+            classic photographs that capture the distinct beauty of every couple's love story
+            because we are passionate about capturing sincere moments and passionate feelings.
+            Our services include both candid and traditional wedding photography and videography
+            of the highest caliber. Whether you require full-day wedding coverage, a cinematic video
+            shot, or a pre-wedding shoot, we also provide wedding videography packages to meet
+            your needs. Allow us to assist you in keeping treasured memories alive for future
+            generations.
 
           </div>
         </div>
@@ -80,8 +88,18 @@ About Us
 
       <p
         class="sm:text-base text-sm mt-4 text-slate-600 text-balance text-ellipsis line-clamp4">
-        A wedding is such a special and intimate celebration, turning fleeting moments into timeless memories. We believe that every love story is unique, and our goal is to document yours in a way that reflects the emotions, joy, and beauty of the day.With a blend of artistic creativity and technical precision, we ensure that each moment is captured with care, leaving you with a collection of timeless memories to relive and share for generations to come. We aim to deliver <strong>wedding photographs</strong> that you’ll treasure for a lifetime. Our vision is to provide you with an unforgettable experience, where every smile, every tear, and every cherished moment is preserved in stunning imagery that allows you to relive your special day forever.
+        A wedding transforms short-lived moments into enduring memories, making it such a
+        unique and private occasion. Every love story is different, and we want to capture yours
+        in a way that captures the feelings, happiness, and beauty of the day.We make sure that
+        every occasion is meticulously documented using a combination of artistic imagination
+        and technological accuracy, giving you a collection of classic memories to cherish and
+        pass down to future generations.
+
       </p>
+      <p class="mt-4 sm:text-base text-sm mt-4 text-slate-600 text-balance text-ellipsis line-clamp4">Our goal is to provide you with wedding photos that you will cherish forever. Our goal is
+        to give you a once-in-a-lifetime experience where every tear, every smile, and every
+        treasured moment is captured in breathtaking pictures that let you relive your big day
+        indefinitely.</p>
       <!-- <button class="flex justify-between text-slate-950 uppercase items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 sn:text-base text-sm">
         <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-slate-950'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Explore
           Wedding Films</span>
@@ -114,7 +132,12 @@ About Us
       <p
         class="sm:text-base text-sm mt-4 text-slate-600 text-balance text-ellipsis line-clamp4">
 
-        Our mission is to provide <strong>wedding photography</strong> that captures the unique essence of each couple’s love story. We are dedicated to delivering stunning, high-quality images that reflect their unique personalities and the emotions of their special day. With a focus on creativity and storytelling, we strive to create a relaxed and enjoyable experience for our clients. We are dedicated to provide candid and <strong>cinematic photography</strong> that you can cherish for generations, ensuring that every smile, tear, and joyous moment is preserved in time.
+        Our goal is to offer wedding photography that embodies the distinct character of every
+        couple's tale of love. Our goal is to provide gorgeous, superior photos that capture their
+        distinct characteristics and the feelings of their big day. We want to give our clients a
+        laid-back and joyful experience by emphasizing creativity and narrative. Every grin, tear,
+        and happy moment will be captured in time thanks to our commitment to providing
+        candid and cinematic photography that you may treasure for centuries to come
       </p>
       <!-- <button class="flex justify-between text-slate-950 uppercase items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 sm:text-base text-sm">
         <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-slate-950'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Explore

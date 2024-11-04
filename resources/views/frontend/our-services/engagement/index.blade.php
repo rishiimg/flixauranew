@@ -40,18 +40,26 @@ About Us
       <div data-aos="fade-left" class="col-span-12 lg:col-span-6 ">
         <div class="size-full">
           <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-theme1 z-20 lg:pb-14 max-lg:mt-20">
-          Engagement Photography with
+            Engagement Photography with
             <div class="absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light -z-10"> FlixAura</div>
           </div>
 
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-          Love is always in the air—and so is the laughter! Your engagement ceremony marks the beginning of an exciting journey, and we’re here with our mesmerizing <strong>engagement photoshoot</strong>  to capture all the joyful, amusing, and heartwarming moments that make this celebration unforgettable.
+            There's always love and joy in the air! Your engagement ceremony is the start of an
+            exciting adventure, and we are here to capture all the happy, funny, and touching
+            moments that will make this celebration one to remember with our captivating
+            engagement picture shoot.
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-          We take the time to get to know you as a couple, which allows us to capture your true essence. Every photo tells a part of your story, and we’re dedicated to making it a beautiful one!
+            In order to capture your genuine essence, we take the time to get to know you as a
+            couple. Every picture conveys a piece of your narrative, and we're committed to making
+            it stunning!
+
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-          Let FILXAURA capture the heart of your celebration, authentically and beautifully with the unique <strong>engagement photography</strong>  ideas.
+            Allow FLIXAURA's distinctive engagement photography ideas to elegantly and truly
+            capture the essence of your celebration.
+
 
           </div>
         </div>
@@ -73,7 +81,7 @@ About Us
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
           <h2 class="text-2xl w-4/5 font-semibold text-white">
-          Romantic Garden Engagement
+            Romantic Garden Engagement
           </h2>
           <p class="text-white font-medium text-sm mt-1">#ENGAGEMENT</p>
           <p class="text-xs text-white mt-2 line-clamp-4">Picture a love story unfolding amidst lush gardens and blooming flowers. The Romantic Garden Engagement theme sets a magical atmosphere for capturing intimate moments with a soft, natural backdrop.</p>
@@ -97,7 +105,7 @@ About Us
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
           <h2 class="text-2xl w-4/5 font-semibold text-white">
 
-          City Lights Romance
+            City Lights Romance
           </h2>
           <p class="text-white font-medium text-sm mt-1">#ENGAGEMENT</p>
           <p class="text-xs text-white mt-2 line-clamp-4">Celebrate your engagement with the sparkling city skyline as your backdrop. The City Lights Romance theme captures your love amidst dazzling lights and urban chic vibes, perfect for an elegant and modern engagement..</p>
@@ -119,7 +127,7 @@ About Us
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
           <h2 class="text-2xl w-4/5 font-semibold text-white">
-          Rustic Charm
+            Rustic Charm
           </h2>
           <p class="text-white font-medium text-sm mt-1">#ENGAGEMENT</p>
           <p class="text-xs text-white mt-2 line-clamp-4">Rustic barn doors, wildflowers, and a cozy setting—all contribute to the natural beauty of this engagement theme. Perfect for couples looking for an outdoor, laid-back atmosphere, we capture the essence of your bond with warmth and simplicity.</p>
@@ -161,11 +169,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery45" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg"></a>
-				<a data-fancybox="gallery45" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg"></a>
-				<a data-fancybox="gallery45" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg"></a>
-				<a data-fancybox="gallery45" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery45" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg"></a>
+        <a data-fancybox="gallery45" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg"></a>
+        <a data-fancybox="gallery45" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg"></a>
+        <a data-fancybox="gallery45" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/00AB90B3-39D5-47B5-975E-E0D9EAD6891F.jpeg"></a>
+      </div>
     </div>
 
     <div>
@@ -176,11 +184,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery46" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
-				<a data-fancybox="gallery46" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
-				<a data-fancybox="gallery46" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
-				<a data-fancybox="gallery46" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery46" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
+        <a data-fancybox="gallery46" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
+        <a data-fancybox="gallery46" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
+        <a data-fancybox="gallery46" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery47" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg">
@@ -190,11 +198,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery47" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
-				<a data-fancybox="gallery47" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
-				<a data-fancybox="gallery47" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
-				<a data-fancybox="gallery47" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery47" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
+        <a data-fancybox="gallery47" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
+        <a data-fancybox="gallery47" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
+        <a data-fancybox="gallery47" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery48" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg">
@@ -204,11 +212,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery48" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
-				<a data-fancybox="gallery48" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
-				<a data-fancybox="gallery48" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
-				<a data-fancybox="gallery48" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery48" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
+        <a data-fancybox="gallery48" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
+        <a data-fancybox="gallery48" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
+        <a data-fancybox="gallery48" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery49" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg">
@@ -219,11 +227,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery49" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg"></a>
-				<a data-fancybox="gallery49" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg"></a>
-				<a data-fancybox="gallery49" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg"></a>
-				<a data-fancybox="gallery49" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery49" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg"></a>
+        <a data-fancybox="gallery49" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg"></a>
+        <a data-fancybox="gallery49" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg"></a>
+        <a data-fancybox="gallery49" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/6D9B46BD-554F-4C23-A018-336C475BB34B.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery50" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg">
@@ -234,11 +242,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery50" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg"></a>
-				<a data-fancybox="gallery50" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg"></a>
-				<a data-fancybox="gallery50" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg"></a>
-				<a data-fancybox="gallery50" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery50" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg"></a>
+        <a data-fancybox="gallery50" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg"></a>
+        <a data-fancybox="gallery50" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg"></a>
+        <a data-fancybox="gallery50" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery51" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg">
@@ -248,11 +256,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery51" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg"></a>
-				<a data-fancybox="gallery51" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg"></a>
-				<a data-fancybox="gallery51" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg"></a>
-				<a data-fancybox="gallery51" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery51" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg"></a>
+        <a data-fancybox="gallery51" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg"></a>
+        <a data-fancybox="gallery51" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg"></a>
+        <a data-fancybox="gallery51" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/B87D7067-96D7-4A17-9545-92219E813BC0.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery52" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg">
@@ -263,11 +271,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery52" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg"></a>
-				<a data-fancybox="gallery52" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg"></a>
-				<a data-fancybox="gallery52" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg"></a>
-				<a data-fancybox="gallery52" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery52" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg"></a>
+        <a data-fancybox="gallery52" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg"></a>
+        <a data-fancybox="gallery52" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg"></a>
+        <a data-fancybox="gallery52" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C23DAB9B-0EBB-4244-8DDF-88889E722E68.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery53" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp">
@@ -277,11 +285,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery53" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
-				<a data-fancybox="gallery53" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
-				<a data-fancybox="gallery53" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
-				<a data-fancybox="gallery53" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery53" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
+        <a data-fancybox="gallery53" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
+        <a data-fancybox="gallery53" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
+        <a data-fancybox="gallery53" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery54" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg">
@@ -291,11 +299,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery54" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg"></a>
-				<a data-fancybox="gallery54" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg"></a>
-				<a data-fancybox="gallery54" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg"></a>
-				<a data-fancybox="gallery54" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery54" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg"></a>
+        <a data-fancybox="gallery54" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg"></a>
+        <a data-fancybox="gallery54" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg"></a>
+        <a data-fancybox="gallery54" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/E4E56A12-6DA1-4593-A36D-111D5F9D51DE.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery55" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg">
@@ -305,11 +313,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery55" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg"></a>
-				<a data-fancybox="gallery55" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg"></a>
-				<a data-fancybox="gallery55" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg"></a>
-				<a data-fancybox="gallery55" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery55" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg"></a>
+        <a data-fancybox="gallery55" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg"></a>
+        <a data-fancybox="gallery55" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg"></a>
+        <a data-fancybox="gallery55" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/169CA6D6-E618-431F-B9BE-D81579A89D92.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery56" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg">
@@ -320,11 +328,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery56" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg"></a>
-				<a data-fancybox="gallery56" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg"></a>
-				<a data-fancybox="gallery56" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg"></a>
-				<a data-fancybox="gallery56" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery56" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg"></a>
+        <a data-fancybox="gallery56" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg"></a>
+        <a data-fancybox="gallery56" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg"></a>
+        <a data-fancybox="gallery56" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/1ACBB05A-9764-4F9E-BC50-4EB1D4C24A1C.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery57" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg">
@@ -335,11 +343,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery57" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg"></a>
-				<a data-fancybox="gallery57" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg"></a>
-				<a data-fancybox="gallery57" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg"></a>
-				<a data-fancybox="gallery57" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery57" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg"></a>
+        <a data-fancybox="gallery57" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg"></a>
+        <a data-fancybox="gallery57" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg"></a>
+        <a data-fancybox="gallery57" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/C93F4159-D76F-4FEB-90D0-E96AD697BAE9.jpeg"></a>
+      </div>
     </div>
 
     <div>
@@ -351,11 +359,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery58" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
-				<a data-fancybox="gallery58" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
-				<a data-fancybox="gallery58" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
-				<a data-fancybox="gallery58" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery58" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
+        <a data-fancybox="gallery58" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
+        <a data-fancybox="gallery58" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
+        <a data-fancybox="gallery58" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/14F90732-A971-4EF8-9B7E-2A901F930F4A.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery59" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg">
@@ -366,11 +374,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery59" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
-				<a data-fancybox="gallery59" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
-				<a data-fancybox="gallery59" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
-				<a data-fancybox="gallery59" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery59" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
+        <a data-fancybox="gallery59" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
+        <a data-fancybox="gallery59" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
+        <a data-fancybox="gallery59" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/F19CC39E-4FA2-43EA-9CE6-8F23B7B4662B.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery60" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg">
@@ -380,11 +388,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery60" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
-				<a data-fancybox="gallery60" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
-				<a data-fancybox="gallery60" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
-				<a data-fancybox="gallery60" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery60" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
+        <a data-fancybox="gallery60" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
+        <a data-fancybox="gallery60" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
+        <a data-fancybox="gallery60" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/7E086A20-2591-4783-9DDD-3041D524C42F.jpeg"></a>
+      </div>
     </div>
 
     <!-- Add similar sections for other gallery images -->

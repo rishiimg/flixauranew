@@ -26,14 +26,14 @@
 								Welcome to Wedding Photography!
 							</div>
 							<div class="text-3xl sm:text-5xl lg:text-6xl font-medium leading-tight group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.6s]">
-								<span class="text-theme1 font-bold">Memories Made Beautiful</span>	
-									
-									<br class="md:block !hidden" />
+								<span class="text-theme1 font-bold">Memories Made Beautiful</span>
+
+								<br class="md:block !hidden" />
 								Your Unforgettable Wedding Day
 							</div>
-							<button class="flex justify-between text-white sm:text-lg text-sm uppercase items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.9s]">
+							<a href="{{route('website.about_us')}}" class="inline-flex justify-between text-white sm:text-lg text-sm uppercase items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.9s]">
 								<span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> explore my portfolio</span>
-							</button>
+							</a>
 						</div>
 					</div>
 				</div>
@@ -61,10 +61,10 @@
 								Day through Captivating Images
 							</div> -->
 							<div class="text-3xl sm:text-5xl lg:text-6xl font-medium leading-tight group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.6s]">
-								<span class="text-theme1 font-bold">Relive Your Unforgettable Wedding</span>	
-									
-									<br class="md:block !hidden" />
-									Day through Captivating Images
+								<span class="text-theme1 font-bold">Relive Your Unforgettable Wedding</span>
+
+								<br class="md:block !hidden" />
+								Day through Captivating Images
 							</div>
 							<button class="flex justify-between text-white sm:text-lg text-sm uppercase items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.9s]">
 								<span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> explore my portfolio</span>
@@ -85,8 +85,8 @@
 
 <!-- 2nd section  -->
 
-<section class="lg:py-20 sm:py-12 max-sm:pt-10 max-sm:pb-5  overflow-hidden " >
-	<div class="w-full lg:text-left relative z-[1] overflow-hidden md:gap-10 gap-8 flex flex-col" >
+<section class="lg:py-20 sm:py-12 max-sm:pt-10 max-sm:pb-5  overflow-hidden ">
+	<div class="w-full lg:text-left relative z-[1] overflow-hidden md:gap-10 gap-8 flex flex-col">
 		<div class="w-max flex group/marquee gap-3 *:flex *:items-center *:gap-3 *:duration-700 *:[animation-duration:50s] *:animate-marquee-h lg:*:*:w-[1000px] ">
 			<div class="group-hover/marquee:[animationplay-state:paused]">
 
@@ -145,14 +145,27 @@
 						Artistic Story Telling Celebrating YOU!
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm">
-						Welcome to our FLIXAURA <strong>wedding photography in jaipur</strong> ! We are passionate about Candid photography, pre wedding photoshoot, wedding videography & editing work too. We always together create beautiful memories by our work, capturing the best moments and emotions of your special day. Wedding Diaries By FLIXAURA focuses on Couple Pre Wedding Photoshoot, <strong>Indian Wedding Videography</strong> , Cinematic Wedding Shoot, Advertising and Events.
+						Greetings from FLIXAURA, our Jaipur wedding photography service! We have a strong
+						interest in candid photography, pre-wedding portraits, wedding videos, and editing. By
+						capturing the greatest moments and feelings of your special day, we always work
+						together to create wonderful memories. Advertising, events, cinematic wedding shoots,
+						Indian wedding videos, and couple pre-wedding photo shoots are the main topics of
+						Wedding Diaries By FLIXAURA.
+
 
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm py-4">
-						We have been in the industry for more than 5 Years and we try every possible aspect to make sure that our clients get their lifetime memories. We value every customer and try to offer them 100% Satisfaction by delivering them best Quality Photographs and Videos as they expect.
+						We have over 5 years of experience in the field, and we make every effort to ensure that
+						our clients create lifelong memories. We cherish each client and work hard to meet their
+						needs by providing them with the highest caliber of images and videos.
+
 					</div>
 					<div class="font-workSans text-pretty max-sm:text-sm">
-						We use the best camera for <strong>wedding videography</strong> and light equipment to ensure the highest quality. Our approach combines candid moments with beautifully styled portraits, ensuring every precious memory is preserved. Let us help you cherish your beautiful moments for years to come!
+						To guarantee the best quality, we employ the best camera and lighting equipment for
+						wedding videos. Our method ensures that every priceless experience is captured by
+						fusing unscripted situations with exquisitely styled photos. Allow us to assist you in
+						preserving your lovely moments for years to come!
+
 					</div>
 				</div>
 			</div>
@@ -356,17 +369,17 @@
 			<span class="group-hover/btn:-translate-x-7 duration-300"> Visit Gallery</span>
 		</button> -->
 		<a href="{{route('website.gallery')}}" class="relative px-5 py-2 font-medium text-white group">
-          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-[#0b9fdb] group-hover:bg-[#0b9fdb] group-hover:skew-x-12"></span>
-          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform skew-x-12 bg-[#f36a22] group-hover:bg-[#f36a22] group-hover:-skew-x-12"></span>
-          <span class="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-[#0b9fdb] -rotate-12"></span>
-          <span class="absolute bottom-0 right-0 hidden w-10 h-20 transition-all duration-100 ease-out transform translate-x-10 translate-y-8 bg-[#f36a22] -rotate-12"></span>
-          <span class="relative">Visit Gallery</span>
-        </a>
+			<span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-[#0b9fdb] group-hover:bg-[#0b9fdb] group-hover:skew-x-12"></span>
+			<span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform skew-x-12 bg-[#f36a22] group-hover:bg-[#f36a22] group-hover:-skew-x-12"></span>
+			<span class="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-[#0b9fdb] -rotate-12"></span>
+			<span class="absolute bottom-0 right-0 hidden w-10 h-20 transition-all duration-100 ease-out transform translate-x-10 translate-y-8 bg-[#f36a22] -rotate-12"></span>
+			<span class="relative">Visit Gallery</span>
+		</a>
 	</div>
 </section>
 <!-- 3rd section end -->
 
- 
+
 
 
 <!-- 4th section  -->
@@ -386,7 +399,7 @@
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
 					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/kfbxTkyMS0E?si=B2VF0tPssnZ2qk_40">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/kfbxTkyMS0E?si=B2VF0tPssnZ2qk_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/kfbxTkyMS0E?si=B2VF0tPssnZ2qk_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -398,7 +411,7 @@
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
 					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/EnzAe2sohjc?si=ojIPgzgxSSMHdaeH">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/EnzAe2sohjc?si=ojIPgzgxSSMHdaeH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/EnzAe2sohjc?si=ojIPgzgxSSMHdaeH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -406,11 +419,11 @@
 				</div>
 			</div>
 			<!-- Slide 3 -->
-				<div class="swiper-slide">
+			<div class="swiper-slide">
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
 					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/jNhXDDyem98?si=w35O7LK_ZpXqBZI3">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/jNhXDDyem98?si=w35O7LK_ZpXqBZI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/jNhXDDyem98?si=w35O7LK_ZpXqBZI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -422,7 +435,7 @@
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
 					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/ZjjMhBcZRHo?si=6e3gKRwVMxqHWJEd">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/ZjjMhBcZRHo?si=6e3gKRwVMxqHWJEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/ZjjMhBcZRHo?si=6e3gKRwVMxqHWJEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -434,7 +447,7 @@
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
 					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/9ZArLgcufHM?si=427PSn09PtgFylyR">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/9ZArLgcufHM?si=427PSn09PtgFylyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/9ZArLgcufHM?si=427PSn09PtgFylyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -446,7 +459,7 @@
 				<div class="relative aspect-video w-full bg-gray-300 rounded-lg overflow-hidden">
 					<a class="h-full flex w-full" data-fancybox="video" href="https://www.youtube.com/embed/kfgHKXuyEQg?si=snxGmVs8Ws6AbKSk">
 						<div class="relative overflow-hidden shadow-2xl group w-full h-full">
-						<iframe  class="h-full w-full" src="https://www.youtube.com/embed/kfgHKXuyEQg?si=snxGmVs8Ws6AbKSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+							<iframe class="h-full w-full" src="https://www.youtube.com/embed/kfgHKXuyEQg?si=snxGmVs8Ws6AbKSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 							<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
 						</div>
@@ -467,12 +480,12 @@
 			<span class="group-hover/btn:-translate-x-7 duration-300">Visit Our YouTube Channel</span>
 		</button> -->
 		<a href="https://www.youtube.com/@Flixaura_wed" class="relative px-5 py-2 font-medium text-white group">
-          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-[#0b9fdb] group-hover:bg-[#0b9fdb] group-hover:skew-x-12"></span>
-          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform skew-x-12 bg-[#f36a22] group-hover:bg-[#f36a22] group-hover:-skew-x-12"></span>
-          <span class="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-[#0b9fdb] -rotate-12"></span>
-          <span class="absolute bottom-0 right-0 hidden w-10 h-20 transition-all duration-100 ease-out transform translate-x-10 translate-y-8 bg-[#f36a22] -rotate-12"></span>
-          <span class="relative">Visit Our YouTube Channel</span>
-        </a>
+			<span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-[#0b9fdb] group-hover:bg-[#0b9fdb] group-hover:skew-x-12"></span>
+			<span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform skew-x-12 bg-[#f36a22] group-hover:bg-[#f36a22] group-hover:-skew-x-12"></span>
+			<span class="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-[#0b9fdb] -rotate-12"></span>
+			<span class="absolute bottom-0 right-0 hidden w-10 h-20 transition-all duration-100 ease-out transform translate-x-10 translate-y-8 bg-[#f36a22] -rotate-12"></span>
+			<span class="relative">Visit Our YouTube Channel</span>
+		</a>
 	</div>
 </div>
 
@@ -573,11 +586,127 @@
 			<div class="swiper-wrapper">
 				<div class="swiper-slide">
 					<div class="bg-gray-100 rounded-lg rounded-br-none p-5 relative">
+						<div class="relative z-10">
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">Wonderful work by Flixaura and team. I appreciate his work.They made us feel comfortable from the very beginning. They are very professional and patient capturing each and every details. Photos were gorgeous!</div>
+							<div class="md:flex items-center mt-5 gap-3">
+								<div class="size-12 rounded-full overflow-hidden">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/review1.png')}}" alt="akki-art-and-craft" />
+								</div>
+								<div class="">
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Ritik Parikh</div>
+									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
+
+								</div>
+							</div>
+							<div class="bg-slate-950/20 text-white font-bold text-2xl size-20 rounded-full flex justify-center items-start p-4 absolute -bottom-10 -right-10 -rotate-45">
+								<span class="flex items-center justify-center size-8">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/googleIcon.svg')}}" alt="akki-art-and-craft" />
+
+								</span>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<div class="swiper-slide">
+					<div class="bg-gray-100 rounded-lg rounded-br-none p-5 relative">
+						<div class="relative z-10">
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">Impressive photography with good imagination .The Flixaura Team duo! The most enthusiastic, supportive and unobtrusive photographers, who capture moments that we will look back on and treasure forever is SO incredibly special.</div>
+							<div class="md:flex items-center mt-5 gap-3">
+								<div class="size-12 rounded-full overflow-hidden">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/review2.png')}}" alt="akki-art-and-craft" />
+								</div>
+								<div class="">
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Vinay Sharma</div>
+									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
+								</div>
+							</div>
+							<div class="bg-slate-950/20 text-white font-bold text-2xl size-20 rounded-full flex justify-center items-start p-4 absolute -bottom-10 -right-10 -rotate-45">
+								<span class="flex items-center justify-center size-8">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/googleIcon.svg')}}" alt="akki-art-and-craft" />
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="bg-gray-100 rounded-lg rounded-br-none p-5 relative">
+						<div class="relative z-10">
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">Photography is a beautiful art and a photographer , a beautiful artist!
+
+								Whatever I say from the bottom of my heart, it will always be special for u guys , because u all are photographer; can find deepest meaning , emotion and beauty out of just a plain sentence.
+
+								Keep up the great work💪
+								Kuddos to u all😊😊
+								‘You have a beautiful art of not only capturing smiles but souls!’</div>
+							<div class="md:flex items-center mt-5 gap-3">
+								<div class="size-12 rounded-full overflow-hidden">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/review3.png')}}" alt="akki-art-and-craft" />
+								</div>
+								<div class="">
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Ankita Dadheech</div>
+									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
+								</div>
+							</div>
+							<div class="bg-slate-950/20 text-white font-bold text-2xl size-20 rounded-full flex justify-center items-start p-4 absolute -bottom-10 -right-10 -rotate-45">
+								<span class="flex items-center justify-center size-8">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/googleIcon.svg')}}" alt="akki-art-and-craft" />
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="bg-gray-100 rounded-lg rounded-br-none p-5 relative">
+						<div class="relative z-10">
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">Flixaura is the one of the best photographic company in Jaipur I have ever seen, the team’s hard works and creativity is another level , it feels they have enormous passion for create each and every wedding something more special.</div>
+							<div class="md:flex items-center mt-5 gap-3">
+								<div class="size-12 rounded-full overflow-hidden">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/review4.png')}}" alt="akki-art-and-craft" />
+								</div>
+								<div class="">
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Nishchal Verma</div>
+									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
+								</div>
+							</div>
+							<div class="bg-slate-950/20 text-white font-bold text-2xl size-20 rounded-full flex justify-center items-start p-4 absolute -bottom-10 -right-10 -rotate-45">
+								<span class="flex items-center justify-center size-8">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/googleIcon.svg')}}" alt="akki-art-and-craft" />
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="bg-gray-100 rounded-lg rounded-br-none p-5 relative">
+						<div class="relative z-10">
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">I could have never asked for a better photographer and I am so thankful that my  special day was captured so beautifully by Flixaura.You captured the moments so perfectly..Very very overjoyed with the output of your hard work and cooperation.</div>
+							<div class="md:flex items-center mt-5 gap-3">
+								<div class="size-12 rounded-full overflow-hidden">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/review5.png')}}" alt="akki-art-and-craft" />
+								</div>
+								<div class="">
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Navdeep Chokan</div>
+									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
+								</div>
+							</div>
+							<div class="bg-slate-950/20 text-white font-bold text-2xl size-20 rounded-full flex justify-center items-start p-4 absolute -bottom-10 -right-10 -rotate-45">
+								<span class="flex items-center justify-center size-8">
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/googleIcon.svg')}}" alt="akki-art-and-craft" />
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- <div class="swiper-slide">
+					<div class="bg-gray-100 rounded-lg rounded-br-none p-5 relative">
 						<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" class="text-gray-300 size-20 absolute left-2 top-2 " xmlns="http://www.w3.org/2000/svg">
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
 									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
@@ -604,7 +733,7 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
 									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
@@ -631,7 +760,7 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
 									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
@@ -658,7 +787,7 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
 									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
@@ -685,7 +814,7 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 line-clamp-6 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
 									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
@@ -705,34 +834,7 @@
 
 						</div>
 					</div>
-				</div>
-				<div class="swiper-slide">
-					<div class="bg-gray-100 rounded-lg rounded-br-none p-5 relative">
-						<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" class="text-gray-300 size-20 absolute left-2 top-2 " xmlns="http://www.w3.org/2000/svg">
-							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
-						</svg>
-						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
-							<div class="md:flex items-center mt-5 gap-3">
-								<div class="size-12 rounded-full overflow-hidden">
-									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
-								</div>
-								<div class="">
-									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Anu Rajput</div>
-									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
-
-								</div>
-							</div>
-							<div class="bg-slate-950/20 text-white font-bold text-2xl size-20 rounded-full flex justify-center items-start p-4 absolute -bottom-10 -right-10 -rotate-45">
-								<span class="flex items-center justify-center size-8">
-									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/googleIcon.svg')}}" alt="akki-art-and-craft" />
-
-								</span>
-							</div>
-
-						</div>
-					</div>
-				</div>
+				</div> -->
 
 			</div>
 		</div>
@@ -959,7 +1061,7 @@
 					<div class=" text-sm md:text-base leading-7 text-white/80 text-balance text-center ">Planning your wedding or an event? Fill out the booking form, and we'll get in touch with you shortly.
 						If it's urgent, call us at +91-98870 34345.</div>
 
-					<form action="{{ route('contact.submit') }}"  method="POST" class="sm:mt-14 mt-10">
+					<form action="{{ route('contact.submit') }}" method="POST" class="sm:mt-14 mt-10">
 						@csrf
 						<div class="grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4">
 							<div>
@@ -1048,70 +1150,82 @@
 					<div class="swiper-wrapper">
 						<!-- Swiper Slide 1 -->
 						<div class="swiper-slide h-full">
-							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
-								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+							<a href="{{route('services.haldi') }}">
 
-								<Image width={500} height={1000} src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp" alt="haldi" class="h-full object-cover w-full" />
-								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
-									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Haldi</p>
+								<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+									<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+
+									<Image width={500} height={1000} src="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-rasam-photography-2-600x600.webp" alt="haldi" class="h-full object-cover w-full" />
+									<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+										<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Haldi</p>
+									</div>
 								</div>
-							</div>
+							</a>
 						</div>
 
 						<div class="swiper-slide h-full">
-							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
-								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+							<a href="{{route('services.mehendi') }}">
+								<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+									<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
 
-								<Image width={500} height={1000} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg" alt="Mehendis" class="h-full object-cover w-full" />
-								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
-									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Mehendi</p>
+									<Image width={500} height={1000} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg" alt="Mehendis" class="h-full object-cover w-full" />
+									<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+										<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Mehendi</p>
+									</div>
 								</div>
-							</div>
+							</a>
 						</div>
 						<!-- Swiper Slide 2 -->
 						<div class="swiper-slide h-full">
-							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
-								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
-
-								<Image width={500} height={1000} src="https://plus.unsplash.com/premium_photo-1682090789715-a1acbfe72404?q=80&w=1452&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="h-full object-cover w-full" />
-								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
-									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Engagement</p>
+							<a href="{{route('services.engagement') }}">
+								<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+									<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+									<Image width={500} height={1000} src="https://plus.unsplash.com/premium_photo-1682090789715-a1acbfe72404?q=80&w=1452&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="h-full object-cover w-full" />
+									<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+										<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Engagement</p>
+									</div>
 								</div>
-							</div>
+							</a>
 						</div>
 
 						<!-- Swiper Slide 3 -->
 						<div class="swiper-slide h-full">
-							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
-								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
-
-								<Image width={500} height={1000} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/33AE68FC-DAFA-446C-93B1-5FD9427B78C4.jpeg" alt="" class="h-full object-cover w-full" />
-								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
-									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Wedding Photography</p>
+							<a href="{{route('services.wedding-photography') }}">
+								<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+									<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+									<Image width={500} height={1000} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/33AE68FC-DAFA-446C-93B1-5FD9427B78C4.jpeg" alt="" class="h-full object-cover w-full" />
+									<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+										<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Wedding Photography</p>
+									</div>
 								</div>
-							</div>
+							</a>
 						</div>
 
 						<!-- Swiper Slide 4 -->
 						<div class="swiper-slide h-full">
-							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
-								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+							<a href="{{route('services.candid-photography') }}">
+								<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+									<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
 
-								<Image width={500} height={1000} src="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK02021-600x600.jpg" alt="" class="h-full object-cover w-full" />
-								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
-									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Candid Photography</p>
+									<Image width={500} height={1000} src="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK02021-600x600.jpg" alt="" class="h-full object-cover w-full" />
+									<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+										<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Candid Photography</p>
+									</div>
 								</div>
-							</div>
+							</a>
 						</div>
 						<div class="swiper-slide h-full">
-							<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
-								<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+							<a href="{{route('services.pre-wedding-photoshoot') }}">
 
-								<Image width={500} height={1000} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg" alt="" class="h-full object-cover w-full" />
-								<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
-									<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Pre-Wedding</p>
+								<div class="h-full *:size- *:object-cover group relative before:absolute before:inset-0 before:bg-black/30 before:hover:backdrop-blur-sm before:duration-300 ">
+									<p class="absolute text-7xl inset-6 !size-full text-white opacity-0 group-hover:opacity-100 duration-300">+</p>
+
+									<Image width={500} height={1000} src="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/47C4EBBC-40E8-4CDF-894E-8D9ED90AA05D.jpeg" alt="" class="h-full object-cover w-full" />
+									<div class="absolute !w-full !h-max p-4 left-0 bottom-6">
+										<p class="text-white md:text-4xl text-3xl font-semibold relative z-[999] relative">Pre-Wedding</p>
+									</div>
 								</div>
-							</div>
+							</a>
 						</div>
 					</div>
 

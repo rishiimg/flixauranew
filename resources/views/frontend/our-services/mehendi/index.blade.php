@@ -45,14 +45,21 @@ About Us
           </div>
 
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-            Welcome to the enchanting world of Mehndi, where artistry, culture, and joy come together in a vibrant celebration! At FILXAURA, we specialize in <strong>mehandi photoshoot</strong> , from the intricate henna designs adorning your hands to the beautiful decor, we focus on capturing the little details that make your Mehndi unique.
+            Greetings from the magical realm of Mehndi, where joy, culture, and artistry all combine
+            to create a colorful festival! From the elaborate henna patterns on your hands to the
+            exquisite décor, we at FLIXAURA specialize in mehandi photoshoots. We pay close
+            attention to the small elements that make your mehndi exceptional.
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
-            The Mehndi ceremony is more than just a ritual, it’s a colorful gathering of friends and family filled with laughter, intricate designs, and heartfelt moments. Our dedicated <strong>wedding photographers</strong> are passionate about preserving the essence of this special day, ensuring every detail is captured in stunning visuals.
+            More than just a custom, the Mehndi ceremony is a vibrant get-together of loved ones
+            that is full of poignant moments, elaborate designs, and laughing. Our committed
+            wedding photographers make sure that every aspect is caught in breathtaking images
+            since they are passionate about capturing the spirit of this momentous day.
           </div>
           <div data-aos="zoom-out-up" class="sm:text-base text-sm mt-4 text-slate-600 text-balance ">
 
-            Get ready to celebrate in style! Let the henna dry in peace… FILXAURA will be there to capture the magic!
+            Prepare for a lavish celebration! Allow the henna to dry peacefully. The magic will be
+            captured by FLIXAURA!
 
           </div>
         </div>
@@ -162,11 +169,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery29" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
-				<a data-fancybox="gallery29" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
-				<a data-fancybox="gallery29" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
-				<a data-fancybox="gallery29" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery29" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
+        <a data-fancybox="gallery29" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
+        <a data-fancybox="gallery29" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
+        <a data-fancybox="gallery29" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
+      </div>
     </div>
 
     <div>
@@ -177,11 +184,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery30" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
-				<a data-fancybox="gallery30" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
-				<a data-fancybox="gallery30" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
-				<a data-fancybox="gallery30" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery30" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
+        <a data-fancybox="gallery30" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
+        <a data-fancybox="gallery30" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
+        <a data-fancybox="gallery30" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery31" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg">
@@ -192,11 +199,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery31" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
-				<a data-fancybox="gallery31" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
-				<a data-fancybox="gallery31" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
-				<a data-fancybox="gallery31" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery31" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
+        <a data-fancybox="gallery31" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
+        <a data-fancybox="gallery31" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
+        <a data-fancybox="gallery31" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery32" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg">
@@ -207,11 +214,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery32" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
-				<a data-fancybox="gallery32" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
-				<a data-fancybox="gallery32" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
-				<a data-fancybox="gallery32" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
-			</div>
+        <a data-fancybox="gallery32" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
+        <a data-fancybox="gallery32" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
+        <a data-fancybox="gallery32" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
+        <a data-fancybox="gallery32" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery33" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg">
@@ -222,11 +229,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery33" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg"></a>
-				<a data-fancybox="gallery33" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg"></a>
-				<a data-fancybox="gallery33" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg"></a>
-				<a data-fancybox="gallery33" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg"></a>
-			</div>
+        <a data-fancybox="gallery33" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg"></a>
+        <a data-fancybox="gallery33" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg"></a>
+        <a data-fancybox="gallery33" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg"></a>
+        <a data-fancybox="gallery33" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08339-600x600.jpg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery34" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp">
@@ -237,11 +244,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery34" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp"></a>
-				<a data-fancybox="gallery34" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp"></a>
-				<a data-fancybox="gallery34" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp"></a>
-				<a data-fancybox="gallery34" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery34" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp"></a>
+        <a data-fancybox="gallery34" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp"></a>
+        <a data-fancybox="gallery34" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp"></a>
+        <a data-fancybox="gallery34" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0865-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery35" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp">
@@ -252,11 +259,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery35" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp"></a>
-				<a data-fancybox="gallery35" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp"></a>
-				<a data-fancybox="gallery35" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp"></a>
-				<a data-fancybox="gallery35" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery35" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp"></a>
+        <a data-fancybox="gallery35" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp"></a>
+        <a data-fancybox="gallery35" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp"></a>
+        <a data-fancybox="gallery35" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0862-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery36" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp">
@@ -267,11 +274,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery36" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp"></a>
-				<a data-fancybox="gallery36" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp"></a>
-				<a data-fancybox="gallery36" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp"></a>
-				<a data-fancybox="gallery36" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery36" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp"></a>
+        <a data-fancybox="gallery36" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp"></a>
+        <a data-fancybox="gallery36" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp"></a>
+        <a data-fancybox="gallery36" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0869-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery37" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp">
@@ -281,11 +288,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery37" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
-				<a data-fancybox="gallery37" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
-				<a data-fancybox="gallery37" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
-				<a data-fancybox="gallery37" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery37" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
+        <a data-fancybox="gallery37" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
+        <a data-fancybox="gallery37" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
+        <a data-fancybox="gallery37" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0848-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery38" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp">
@@ -296,11 +303,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery38" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp"></a>
-				<a data-fancybox="gallery38" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp"></a>
-				<a data-fancybox="gallery38" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp"></a>
-				<a data-fancybox="gallery38" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery38" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp"></a>
+        <a data-fancybox="gallery38" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp"></a>
+        <a data-fancybox="gallery38" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp"></a>
+        <a data-fancybox="gallery38" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/0857-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery39" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp">
@@ -311,11 +318,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery39" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
-				<a data-fancybox="gallery39" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
-				<a data-fancybox="gallery39" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
-				<a data-fancybox="gallery39" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
-			</div>
+        <a data-fancybox="gallery39" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+        <a data-fancybox="gallery39" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+        <a data-fancybox="gallery39" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+        <a data-fancybox="gallery39" href="https://weddingphotographybysf.com/wp-content/uploads/2024/09/haldi-ceremony-photo-8-600x600.webp"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery40" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg">
@@ -326,11 +333,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery40" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg"></a>
-				<a data-fancybox="gallery40" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg"></a>
-				<a data-fancybox="gallery40" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg"></a>
-				<a data-fancybox="gallery40" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery40" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg"></a>
+        <a data-fancybox="gallery40" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg"></a>
+        <a data-fancybox="gallery40" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg"></a>
+        <a data-fancybox="gallery40" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/53D6794A-D345-4499-8CF5-ECCA44AFE777.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery41" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg">
@@ -340,11 +347,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery41" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
-				<a data-fancybox="gallery41" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
-				<a data-fancybox="gallery41" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
-				<a data-fancybox="gallery41" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery41" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
+        <a data-fancybox="gallery41" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
+        <a data-fancybox="gallery41" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
+        <a data-fancybox="gallery41" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/EAA8B48B-25B2-4ACA-B450-16262A27B8CD.jpeg"></a>
+      </div>
     </div>
 
     <div>
@@ -356,11 +363,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery42" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
-				<a data-fancybox="gallery42" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
-				<a data-fancybox="gallery42" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
-				<a data-fancybox="gallery42" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery42" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
+        <a data-fancybox="gallery42" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
+        <a data-fancybox="gallery42" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
+        <a data-fancybox="gallery42" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/9AE5E67A-B4F9-497C-9CC0-F023A7519C45.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery43" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg">
@@ -371,11 +378,11 @@ About Us
       </a>
 
       <div class="hidden">
-				<a data-fancybox="gallery43" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
-				<a data-fancybox="gallery43" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
-				<a data-fancybox="gallery43" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
-				<a data-fancybox="gallery43" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
-			</div>
+        <a data-fancybox="gallery43" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
+        <a data-fancybox="gallery43" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
+        <a data-fancybox="gallery43" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
+        <a data-fancybox="gallery43" href="https://weddingimage.betterhalf.ai/watermark_assets/ideabook/18B8EA33-65E9-4F05-BD5D-C489C7922090.jpeg"></a>
+      </div>
     </div>
     <div>
       <a data-fancybox="gallery44" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg">
@@ -385,11 +392,11 @@ About Us
         </div>
       </a>
       <div class="hidden">
-				<a data-fancybox="gallery44" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
-				<a data-fancybox="gallery44" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
-				<a data-fancybox="gallery44" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
-				<a data-fancybox="gallery44" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
-			</div>
+        <a data-fancybox="gallery44" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
+        <a data-fancybox="gallery44" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
+        <a data-fancybox="gallery44" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
+        <a data-fancybox="gallery44" href="https://weddingphotographybysf.com/wp-content/uploads/2024/07/MYK08736-600x600.jpg"></a>
+      </div>
     </div>
 
     <!-- Add similar sections for other gallery images -->
