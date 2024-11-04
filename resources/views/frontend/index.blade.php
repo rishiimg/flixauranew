@@ -1,5 +1,17 @@
 @extends('frontend.layouts.app')
 @section('title')
+Wedding Photography: Capture Your Love Story Perfectly
+@endsection
+
+@section('description')
+Capture your love story with our expert wedding and pre-wedding
+photography and videography services. Create timeless memories that last a lifetime.
+@endsection
+
+@section('keywords')
+wedding photography, wedding photoshoot, wedding videography,
+marriage photography and videography, pre-wedding photoshoot, wedding photography
+in Jaipur, Indian Wedding Videography, wedding videography
 @endsection
 
 @section('mainsection')
@@ -168,180 +180,25 @@
 
 	<!-- Fancybox Integration -->
 	<div id="gallery-wrapper" class="grid md:grid-cols-4 grid-cols-2">
-		<div>
-			<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery2.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 1" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
-				<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
-				<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
-				<a data-fancybox="gallery1" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
-			</div>
-		</div>
-
-		<div>
-			<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery3.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
-				<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
-				<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
-				<a data-fancybox="gallery2" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery4.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
-				<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
-				<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
-				<a data-fancybox="gallery3" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery5.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
-				<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
-				<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
-				<a data-fancybox="gallery4" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery6.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
-				<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
-				<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
-				<a data-fancybox="gallery5" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery7.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}"></a>
-				<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}"></a>
-				<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}"></a>
-				<a data-fancybox="gallery6" href="{{asset('/public/tailwind_frontend/gallery7.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery8.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}"></a>
-				<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}"></a>
-				<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}"></a>
-				<a data-fancybox="gallery7" href="{{asset('/public/tailwind_frontend/gallery8.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery2.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
-				<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
-				<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
-				<a data-fancybox="gallery8" href="{{asset('/public/tailwind_frontend/gallery2.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery3.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
-				<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
-				<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
-				<a data-fancybox="gallery9" href="{{asset('/public/tailwind_frontend/gallery3.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery4.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
-				<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
-				<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
-				<a data-fancybox="gallery10" href="{{asset('/public/tailwind_frontend/gallery4.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery5.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
-				<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
-				<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
-				<a data-fancybox="gallery11" href="{{asset('/public/tailwind_frontend/gallery5.webp')}}"></a>
-			</div>
-		</div>
-		<div>
-			<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}">
-				<div class="relative overflow-hidden shadow-2xl group">
-					<img width="400" height="400" src="{{asset('/public/tailwind_frontend/gallery6.webp')}}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image 2" />
-					<div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
-				</div>
-			</a>
-			<div class="hidden">
-				<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
-				<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
-				<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
-				<a data-fancybox="gallery12" href="{{asset('/public/tailwind_frontend/gallery6.webp')}}"></a>
-			</div>
-		</div>
-
-
-		<!-- Add similar sections for other gallery images -->
-
-	</div>
+    @foreach($imagegalleries as $images)
+                @php
+                    $imageArray = explode('|', $images->image);
+                @endphp
+        <div>
+            <a data-fancybox="gallery{{$images->id}}" href="{{ asset('public/gallery')."/".$imageArray[0] }}">
+                <div class="relative overflow-hidden shadow-2xl group">
+                    <img width="400" height="400" src="{{ asset('public/gallery')."/".$imageArray[0] }}" class="!h-56 object-cover group-hover:origin-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-500" alt="Gallery Image {{ $images->id }}" />
+                    <div class="absolute inset-0 group-hover:bg-black opacity-50 transition duration-500 z-0"></div>
+                </div>
+            </a>
+            <div class="hidden">
+                @foreach($imageArray as $image)
+                    <a data-fancybox="gallery{{$images->id}}" href="{{ asset('public/gallery')."/".$image }}"></a>
+                @endforeach
+            </div>
+        </div>
+    @endforeach
+</div>
 
 	<div class="mx-auto max-w-7xl lg:px-8 px-6 flex items-center justify-center">
 		<button class="flex justify-between text-slate-950 items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 sm:text-lg text-base">
@@ -556,13 +413,13 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 ">Simply the best! flixaura exceeded our expectations in every way. The photos are gorgeous, and we are so grateful for the memories they captured.</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
-									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/about-us2.jpeg')}}" alt="akki-art-and-craft" />
 								</div>
 								<div class="">
-									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Anu Rajput</div>
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Sam Decausta</div>
 									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
 
 								</div>
@@ -583,13 +440,13 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 ">Highly recommend! They were amazing throughout our wedding day. The photos are absolutely stunning and truly capture the essence of our love</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
-									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/person3.jpeg')}}" alt="akki-art-and-craft" />
 								</div>
 								<div class="">
-									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Anu Rajput</div>
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Aman Sharma</div>
 									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
 
 								</div>
@@ -610,13 +467,13 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 ">Simply the best! They exceeded our expectations in every way. The photos are gorgeous, and we are so grateful for the memories they captured.</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
-									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/person2.jpeg')}}" alt="akki-art-and-craft" />
 								</div>
 								<div class="">
-									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Anu Rajput</div>
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Tanmay Rajput</div>
 									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
 
 								</div>
@@ -637,13 +494,13 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 ">We can't stop looking at our wedding photos! they captured the day beautifully and was so great with our guests. A true professional! Good Work</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
-									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/person1.jpeg')}}" alt="akki-art-and-craft" />
 								</div>
 								<div class="">
-									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Anu Rajput</div>
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Shyam singh bhati </div>
 									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
 
 								</div>
@@ -664,13 +521,13 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 ">Fantastic experience! they were punctual, professional, and made us feel at ease. The final photos are breathtaking and tell our love story perfectly.</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
-									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/about-us.jpeg')}}" alt="akki-art-and-craft" />
 								</div>
 								<div class="">
-									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Anu Rajput</div>
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">pooja madan</div>
 									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
 
 								</div>
@@ -691,13 +548,13 @@
 							<path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path>
 						</svg>
 						<div class="relative z-10">
-							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The best company for website designing. my website looks stunning and designed in a committed timeline. Great work. Recommended for the website.</div>
+							<div class=" text-sm md:text-base leading-7 text-slate-600 ">The photos are stunning! they have a unique eye for capturing candid moments, and they were so fun to work with. We highly recommend them!</div>
 							<div class="md:flex items-center mt-5 gap-3">
 								<div class="size-12 rounded-full overflow-hidden">
-									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/user-1.jpg')}}" alt="akki-art-and-craft" />
+									<img width={100} height={100} class="size-full object-contain object-center" src="{{asset('/public/tailwind_frontend/varshabhati.jpeg')}}" alt="akki-art-and-craft" />
 								</div>
 								<div class="">
-									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Anu Rajput</div>
+									<div class="text-slate-950 text-base px-2 font-medium text-nowrap">Varsha Bhati</div>
 									<div class="text-slate-500 text-sm px-2  text-nowrap">2023-11-03</div>
 
 								</div>
@@ -734,6 +591,98 @@
 		<!-- Swiper -->
 		<div class="swiper-container blogSwiper swiper">
 			<div class="swiper-wrapper">
+				@foreach($blogs as $blog)
+				<div class="swiper-slide">
+					<a href="{{ route('blog.details',$blog->id) }}" class="group flex flex-col focus:outline-none">
+						<div class="aspect-[1/0.6] aspect-h-12 overflow-hidden bg-gray-100 rounded-2xl">
+							<img width="500" height="500" class="group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl size-full"
+								src="{{ asset('public/blog')."/".$blog->image }}"
+								alt="Blog Image" />
+						</div>
+
+						<div class="pt-4">
+							<h3 class="relative inline-block font-medium text-lg text-black before:absolute before:bottom-0.5 before:start-0 before:-z-[1] before:w-full before:h-1 before:bg-amber-500 before:transition before:origin-left before:scale-x-0 group-hover:before:scale-x-100">
+								{{$blog->title}}
+							</h3>
+							<p class="mt-1 text-gray-600">
+								{{ substr_replace(strip_tags($blog->description), "...", 40)}}
+							</p>
+
+							<div class="mt-3 flex flex-wrap gap-2">
+								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
+									Discovery
+								</span>
+								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
+									Brand Guidelines
+								</span>
+								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
+									Yoga
+								</span>
+							</div>
+						</div>
+					</a>
+				</div>
+				@endforeach
+				{{-- <div class="swiper-slide">
+					<a href="{{ url('/blog-details') }}" class="group flex flex-col focus:outline-none">
+						<div class="aspect-[1/0.6] aspect-h-12 overflow-hidden bg-gray-100 rounded-2xl">
+							<img width="500" height="500" class="group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl size-full"
+								src="https://images.unsplash.com/photo-1587271636175-90d58cdad458?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+								alt="Blog Image" />
+						</div>
+
+						<div class="pt-4">
+							<h3 class="relative inline-block font-medium text-lg text-black before:absolute before:bottom-0.5 before:start-0 before:-z-[1] before:w-full before:h-1 before:bg-amber-500 before:transition before:origin-left before:scale-x-0 group-hover:before:scale-x-100">
+								eYoga
+							</h3>
+							<p class="mt-1 text-gray-600">
+								A revamped and dynamic approach to yoga analytics
+							</p>
+
+							<div class="mt-3 flex flex-wrap gap-2">
+								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
+									Discovery
+								</span>
+								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
+									Brand Guidelines
+								</span>
+								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
+									Yoga
+								</span>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="swiper-slide">
+					<a href="{{ url('/blog-details') }}" class="group flex flex-col focus:outline-none">
+						<div class="aspect-[1/0.6] aspect-h-12 overflow-hidden bg-gray-100 rounded-2xl">
+							<img width="500" height="500" class="group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl size-full"
+								src="https://images.unsplash.com/photo-1587271449604-04bb40332709?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+								alt="Blog Image" />
+						</div>
+
+						<div class="pt-4">
+							<h3 class="relative inline-block font-medium text-lg text-black before:absolute before:bottom-0.5 before:start-0 before:-z-[1] before:w-full before:h-1 before:bg-amber-500 before:transition before:origin-left before:scale-x-0 group-hover:before:scale-x-100">
+								eYoga
+							</h3>
+							<p class="mt-1 text-gray-600">
+								A revamped and dynamic approach to yoga analytics
+							</p>
+
+							<div class="mt-3 flex flex-wrap gap-2">
+								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
+									Discovery
+								</span>
+								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
+									Brand Guidelines
+								</span>
+								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
+									Yoga
+								</span>
+							</div>
+						</div>
+					</a>
+				</div>
 				<div class="swiper-slide">
 					<a href="{{ url('/blog-details') }}" class="group flex flex-col focus:outline-none">
 						<div class="aspect-[1/0.6] aspect-h-12 overflow-hidden bg-gray-100 rounded-2xl">
@@ -823,97 +772,7 @@
 							</div>
 						</div>
 					</a>
-				</div>
-				<div class="swiper-slide">
-					<a href="{{ url('/blog-details') }}" class="group flex flex-col focus:outline-none">
-						<div class="aspect-[1/0.6] aspect-h-12 overflow-hidden bg-gray-100 rounded-2xl">
-							<img width="500" height="500" class="group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl size-full"
-								src="https://images.unsplash.com/photo-1641279676778-3c94588147fd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-								alt="Blog Image" />
-						</div>
-
-						<div class="pt-4">
-							<h3 class="relative inline-block font-medium text-lg text-black before:absolute before:bottom-0.5 before:start-0 before:-z-[1] before:w-full before:h-1 before:bg-amber-500 before:transition before:origin-left before:scale-x-0 group-hover:before:scale-x-100">
-								eYoga
-							</h3>
-							<p class="mt-1 text-gray-600">
-								A revamped and dynamic approach to yoga analytics
-							</p>
-
-							<div class="mt-3 flex flex-wrap gap-2">
-								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
-									Discovery
-								</span>
-								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
-									Brand Guidelines
-								</span>
-								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
-									Yoga
-								</span>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="swiper-slide">
-					<a href="{{ url('/blog-details') }}" class="group flex flex-col focus:outline-none">
-						<div class="aspect-[1/0.6] aspect-h-12 overflow-hidden bg-gray-100 rounded-2xl">
-							<img width="500" height="500" class="group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl size-full"
-								src="https://images.unsplash.com/photo-1587271636175-90d58cdad458?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-								alt="Blog Image" />
-						</div>
-
-						<div class="pt-4">
-							<h3 class="relative inline-block font-medium text-lg text-black before:absolute before:bottom-0.5 before:start-0 before:-z-[1] before:w-full before:h-1 before:bg-amber-500 before:transition before:origin-left before:scale-x-0 group-hover:before:scale-x-100">
-								eYoga
-							</h3>
-							<p class="mt-1 text-gray-600">
-								A revamped and dynamic approach to yoga analytics
-							</p>
-
-							<div class="mt-3 flex flex-wrap gap-2">
-								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
-									Discovery
-								</span>
-								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
-									Brand Guidelines
-								</span>
-								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
-									Yoga
-								</span>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="swiper-slide">
-					<a href="{{ url('/blog-details') }}" class="group flex flex-col focus:outline-none">
-						<div class="aspect-[1/0.6] aspect-h-12 overflow-hidden bg-gray-100 rounded-2xl">
-							<img width="500" height="500" class="group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl size-full"
-								src="https://images.unsplash.com/photo-1587271449604-04bb40332709?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-								alt="Blog Image" />
-						</div>
-
-						<div class="pt-4">
-							<h3 class="relative inline-block font-medium text-lg text-black before:absolute before:bottom-0.5 before:start-0 before:-z-[1] before:w-full before:h-1 before:bg-amber-500 before:transition before:origin-left before:scale-x-0 group-hover:before:scale-x-100">
-								eYoga
-							</h3>
-							<p class="mt-1 text-gray-600">
-								A revamped and dynamic approach to yoga analytics
-							</p>
-
-							<div class="mt-3 flex flex-wrap gap-2">
-								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
-									Discovery
-								</span>
-								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
-									Brand Guidelines
-								</span>
-								<span class="py-1.5 px-3 bg-white text-gray-600 border border-gray-200 text-xs sm:text-sm rounded-xl">
-									Yoga
-								</span>
-							</div>
-						</div>
-					</a>
-				</div>
+				</div> --}}
 
 
 

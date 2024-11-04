@@ -139,7 +139,9 @@ class WebController extends Controller
 
         $clientslider = DB::table('clientslider')->orderBy('id', 'DESC')->get();
         $youtubeVideos = DB::table('youtubes')->orderBy('id', 'DESC')->get();
-        return view('frontend.index', compact('expertise', 'clientslider', 'youtubeVideos'));
+        $blogs = DB::table('blog')->orderBy('id', 'DESC')->get();
+        $imagegalleries = DB::table('imagegalleries')->get();
+        return view('frontend.index', compact('expertise', 'clientslider', 'youtubeVideos','imagegalleries', 'blogs'));
     }
 
     public function book_now()
@@ -370,8 +372,10 @@ class WebController extends Controller
     {
         return view('frontend.our-services.pre-wedding-photoshoot.index');
     }
-    public function blogDetails()
+    public function blogDetails($id)
     {
-        return view('frontend.blog.blog-details.index');
+        
+        $blog = DB::table('blog')->where('id', $id)->first();
+        return view('frontend.blog.blog-details.index',compact('blog'));
     }
 }

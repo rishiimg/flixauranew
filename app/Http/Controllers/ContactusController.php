@@ -47,21 +47,14 @@ class ContactUsController extends Controller
 
     public function edit($id)
     {
-        $contacts = Contactus::findOrFail($id);
-        return view('contacts.editsocial', compact('contacts'));
     }
 
     public function update(Request $request, $id)
     {
-        $contacts = Contactus::findOrFail($id);
-        $contacts->update($request->all());
-        return redirect()->back()->with('success', 'social links updated successfully.');
+
     }
 
     public function destroy($id)
     {
-        $contacts = Contactus::findOrFail($id);
-        $contacts->delete();
-        return redirect()->back()->with('success', 'socials deleted successfully.');
     }
 }

@@ -56,6 +56,7 @@
                             <th>FacebookUrl</th>
                             <th>TwitterUrl</th>
                             <th>emailurl</th>
+                            <th>YoutubeUrl</th>
                             <th class="text-center">Action</th>
                         </tr>
                     </thead>
@@ -67,6 +68,7 @@
                                 <td>{{ $social->facebookUrl }}</td>
                                 <td>{{ $social->twitterUrl }}</td>
                                 <td>{{ $social->emailUrl }}</td>
+                                <td>{{ $social->youtubeUrl }}</td>
                                 <td class="text-center">
                                     <a href="{{ route('social.edit', $social->id) }}" class="btn btn-primary">Edit</a>
                                     <a href="{{ route('social.delete', $social->id) }}" class="btn btn-danger">delete</a>

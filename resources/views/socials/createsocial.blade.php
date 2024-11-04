@@ -76,6 +76,20 @@
                                         @enderror
                                     </div>
                                 </div>
+
+
+                                <div class="col-6">
+                                    <div class="form-group mb-4">
+                                        <label>YoutubeUrl</label>
+                                        <input type="text" placeholder="Enter Twitter url " name="youtubeUrl"
+                                            class="form-control">
+                                        @error('youtubeUrl')
+                                            <span class="text-danger">{{ $message }}</span>
+                                        @enderror
+                                    </div>
+                                </div>
+
+
                             </div>
                             <button type="submit" class="btn btn-primary">Save</button>
                         </form>

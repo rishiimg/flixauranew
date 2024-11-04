@@ -93,6 +93,7 @@
                                         placeholder="" aria-label="" value="" required>
                                 </div>
                             </div>
+
                             <div class="mb-4 mb-lg-5">
                                 <label for="categoryImageLabel" class="form-label">Image <i
                                         class="bi-question-circle text-body ms-1" data-bs-toggle="tooltip"

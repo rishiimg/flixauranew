@@ -26,13 +26,13 @@ $(document).ready(function () {
         },
     });
 
-    //youtube form 
+    //youtube form
     $("#youtubeform").validate({
-        rules:{
+        rules: {
             tittle: {
                 required: true,
                 minlength: 3,
-                maxlength: 200
+                maxlength: 200,
             },
             status: {
                 required: true,
@@ -40,7 +40,7 @@ $(document).ready(function () {
             link: {
                 required: true,
                 minlength: 3,
-                maxlength: 200
+                maxlength: 200,
             },
         },
         messages: {
@@ -50,20 +50,20 @@ $(document).ready(function () {
                 minlength: "tittle field cannot be less than 3 characters",
             },
             status: "Please select status",
-            link : {
-                required : "link filed is required",
+            link: {
+                required: "link filed is required",
                 maxlenngth: "tittle field cannot be more than 200 characters",
                 minlength: "tittle field cannot be less than 3 characters",
             },
         },
         submitHandler: function (youtubeform) {
             form.submit();
-        }
-    })
+        },
+    });
 
-    //contact form 
+    //contact form
     $("#contactfrontpage").validate({
-        rules:{
+        rules: {
             name: {
                 required: true,
             },
@@ -85,7 +85,6 @@ $(document).ready(function () {
             message: {
                 required: true,
             },
-
         },
         messages: {
             name: {
@@ -93,10 +92,10 @@ $(document).ready(function () {
             },
             email: {
                 required: "email field is required",
-                email : "Enter valid email address",
+                email: "Enter valid email address",
             },
             phone: {
-                required : "phone filed is required",
+                required: "phone filed is required",
             },
             city: {
                 required: "City field is required",
@@ -104,7 +103,7 @@ $(document).ready(function () {
             service: {
                 required: "service field is required",
             },
-            budget:{
+            budget: {
                 required: "Budget field is required",
             },
             message: {
@@ -113,6 +112,25 @@ $(document).ready(function () {
         },
         submitHandler: function (youtubeform) {
             form.submit();
-        }
-    })
+        },
+    });
+
+    //image form
+    $("#imageform").validate({
+        rules: {
+            "image[]": {
+                required: true,
+                mimes: ["jpeg", "png", "jpg", "gif", "svg"],
+            },
+        },
+        messages: {
+            "image[]": {
+                required: "Image field is required",
+                mimes: "only support jpeg,png,jpg,gif,svg file format",
+            },
+        },
+        submitHandler: function (imageform) {
+            form.submit();
+        },
+    });
 });

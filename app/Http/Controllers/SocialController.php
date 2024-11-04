@@ -27,6 +27,7 @@ class SocialController extends Controller
       'facebookUrl' => ['required'],
       'twitterUrl' => ['required'],
       'emailUrl' => ['required'],
+      'youtubeUrl' => ['required'],
     ]);
     $count = Social::count();
     if ($count >= 1) {

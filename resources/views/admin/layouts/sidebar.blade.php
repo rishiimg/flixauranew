@@ -49,14 +49,14 @@ class="js-navbar-vertical-aside navbar navbar-vertical-aside navbar-vertical nav
                     </div>
                     @hasrole('admin')
                         <div class="nav-item">
-                            <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuClient" role="button"
+                            <a class="nav-link dropdown-toggle {{ request()->routeIs('Client.*') ? 'active' : '' }}" href="#navbarVerticalMenuClient" role="button"
                                 data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuClient"
-                                aria-expanded="false" aria-controls="navbarVerticalMenuClient">
+                                aria-expanded="{{ request()->routeIs('Client.*') ? 'true' : 'false' }}" aria-controls="navbarVerticalMenuClient">
                                 <i class="bi bi-images nav-icon"></i>
                                 <span class="nav-link-title">Client Manager</span>
                             </a>
 
-                            <div id="navbarVerticalMenuClient" class="nav-collapse collapse hide"
+                            <div id="navbarVerticalMenuClient" class="nav-collapse collapse {{ request()->routeIs('Client.*') ? 'show' : '' }}"
                                 data-bs-parent="#navbarVerticalMenu">
                                 <a class="nav-link" href="{{ route('client.createclientslider') }}">Add
                                     Slider</a>
@@ -67,14 +67,14 @@ class="js-navbar-vertical-aside navbar navbar-vertical-aside navbar-vertical nav
                         
                         <!--Hero Section-->
                         <div class="nav-item">
-                            <a class="nav-link dropdown-toggle" href="#navbarVerticalMenuhero" role="button"
+                            <a class="nav-link dropdown-toggle {{ request()->routeIs('hero.*') ? 'active' : '' }}" href="#navbarVerticalMenuhero" role="button"
                                 data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuhero"
-                                aria-expanded="false" aria-controls="navbarVerticalMenuhero">
+                                aria-expanded="{{ request()->routeIs('hero.*') ? 'true' : 'false' }}" aria-controls="navbarVerticalMenuhero">
                                 <i class="bi bi-dot nav-icon"></i>
                                 <span class="nav-link-title">Hero Section</span>
                             </a>
 
-                            <div id="navbarVerticalMenuhero" class="nav-collapse collapse hide"
+                            <div id="navbarVerticalMenuhero" class="nav-collapse collapse {{ request()->routeIs('hero.*') ? 'show' : '' }}"
                                 data-bs-parent="#navbarVerticalMenu">
                                 <a class="nav-link" href="{{ route('hero.index') }}">Add
                                     text </a>
@@ -86,14 +86,14 @@ class="js-navbar-vertical-aside navbar navbar-vertical-aside navbar-vertical nav
                         
                         <!--Gallery Section-->
                         <div class="nav-item">
-                            <a class="nav-link dropdown-toggle" href="#navbarVerticalMenugallery" role="button"
+                            <a class="nav-link dropdown-toggle {{ request()->routeIs('image.*') ? 'active' : '' }}" href="#navbarVerticalMenugallery" role="button"
                                 data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenugallery"
-                                aria-expanded="false" aria-controls="navbarVerticalMenugallery">
+                                aria-expanded="{{ request()->routeIs('image.*') ? 'true' : 'false' }}" aria-controls="navbarVerticalMenugallery">
                                 <i class="bi bi-dot nav-icon"></i>
                                 <span class="nav-link-title">Gallery Section</span>
                             </a>
 
-                            <div id="navbarVerticalMenugallery" class="nav-collapse collapse hide"
+                            <div id="navbarVerticalMenugallery" class="nav-collapse collapse {{ request()->routeIs('image.*') ? 'show' : '' }}"
                                 data-bs-parent="#navbarVerticalMenu">
                                 <a class="nav-link" href="{{ route('image.index') }}">Add
                                     image </a>

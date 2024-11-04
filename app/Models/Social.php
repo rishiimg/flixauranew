@@ -13,5 +13,6 @@ class Social extends Model
         'facebookUrl',
         'twitterUrl',
         'emailUrl',
+        'youtubeUrl'
     ];
 }

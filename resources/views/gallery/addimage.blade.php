@@ -32,7 +32,7 @@
                     <!-- End Header -->
 
                     <!-- Body -->
-                    <form method="POST" action="#" enctype="multipart/form-data">
+                    <form method="POST" action="#" id="imageform" enctype="multipart/form-data">
                         @csrf
                         <div class="card-body">
                             <!-- Form -->
@@ -41,9 +41,12 @@
                                 <label for="categoryImageLabel" class="form-label">Image <i
                                         class="bi-question-circle text-body ms-1" data-bs-toggle="tooltip"
                                         data-bs-placement="top" title="Image"></i></label>
-                                <input type="file" name="image[]" id="customFileEg1" class="form-control" multiple required>
+                                <input type="file" name="image[]" id="customFileEg1" class="form-control" multiple>
+                                @error('image')
+                                    <span class="text-danger">{{ $message }}</span>
+                                @enderror
                             </div>
-                          
+
                             <!-- End Form -->
                             <button type="submit" class="btn btn-primary">Save</button>
                         </div> 

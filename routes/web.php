@@ -201,6 +201,9 @@ Route::group(['prefix' => 'my-admin'], function () {
        */
         Route::any('add-image', [ImagegalleryController::class, 'index'])->name('image.index');
         Route::any('view-image', [ImagegalleryController::class, 'show'])->name('image.view');
+        Route::any('image/{id}/edit',[ImagegalleryController::class,'edit'])->name('image.edit');
+        Route::any('image/{id}/update',[ImagegalleryController::class,'update'])->name('image.update');
+        Route::any('image/{id}/delete',[ImagegalleryController::class,'destroy'])->name('image.delete');
         Route::any('add-video', [ImagegalleryController::class, 'videoindex'])->name('video.index');
         // Route::any('view-txt', [ImagegalleryController::class, 'heroview'])->name('hero.view');
         /*
@@ -278,7 +281,7 @@ Route::get('contact-us', [WebController::class, 'ourTeam2'])->name('website.cont
 
 Route::get('gallery', [WebController::class, 'ourTeam1'])->name('website.gallery');
 // Route::get('blog', [WebController::class, 'blognew'])->name('website.blog');
-Route::get('blog-details',[WebController::class, 'blogDetails'])->name('blog.details');
+Route::get('blog-details/{id}',[WebController::class, 'blogDetails'])->name('blog.details');
 
 
 // Route::get('contact-us', [WebController::class, 'contact_us'])->name('website.contact_us');
