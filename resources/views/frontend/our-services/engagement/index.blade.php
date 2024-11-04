@@ -1,6 +1,18 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Capturing Your Engagement Ceremony with a Beautiful Shoot
+@endsection
+
+@section('description')
+Celebrate your love with beautiful engagement ceremony
+photography. Our expert team specializes in creating memorable engagement
+photoshoots
+@endsection
+
+@section('keywords')
+Engagement, Engagement Ceremony, Engagement photography,
+engagement photoshoot, engagement photography, Engagement photography with
+flixaura, engagement videography
 @endsection
 @push('stylesheet-link')
 @endpush

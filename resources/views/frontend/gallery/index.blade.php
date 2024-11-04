@@ -1,7 +1,18 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Experience the Beauty of Flixaura's Visual Collection | Flixaura Gallery
 @endsection
+
+@section('description')
+Discover the captivating world of art at Flixaura Gallery. Explore our
+diverse visual collection and find inspiration in every piece.
+@endsection
+
+@section('keywords')
+Beauty of flixaura, gallery, flixaura gallery, visual collection, happy
+faces, happy clients
+@endsection
+
 @push('stylesheet-link')
 @endpush
 @section('mainsection')

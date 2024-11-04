@@ -1,7 +1,19 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Stunning Mehandi Ceremony Photography: the Traditional Ritual
 @endsection
+
+@section('description')
+Capture the beauty of your Mehandi ceremony with stunning
+photography. Explore our expert services for memorable mehendi photoshoots that last
+a lifetime.
+@endsection
+
+@section('keywords')
+mehandi ceremony photography, mehendi ceremony, mehendi
+photoshoot, wedding photographers, Mehandi photography with flixaura
+@endsection
+
 @push('stylesheet-link')
 @endpush
 @section('mainsection')

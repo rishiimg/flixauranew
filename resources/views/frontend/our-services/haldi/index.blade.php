@@ -1,7 +1,20 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Capturing the Magic of the Haldi Ceremony: Haldi Photoshoot
 @endsection
+
+@section('description')
+Celebrate your Haldi ceremony with beautiful photography. Our
+expert Haldi photoshoot services capture every moment in stunning detail for you to
+cherish.
+@endsection
+
+@section('keywords')
+haldi ceremony, Haldi ceremony photography, Haldi photoshoot,
+Haldi ceremony photoshoot, Holi-themed haldi, haldi ceremony photoshoot
+@endsection
+
+
 @push('stylesheet-link')
 @endpush
 @section('mainsection')

@@ -1,7 +1,20 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Capture Your Love with a Stunning Pre-Wedding Photoshoot
 @endsection
+
+@section('description')
+Discover the art of pre-wedding photoshoots and videography.
+Create lasting memories with our expert photography services tailored for your special
+moments.
+@endsection
+
+@section('keywords')
+Pre-Wedding Photoshoot, Pre-Wedding, pre-wedding shoot,
+pre-wedding photography, pre-wedding videography
+@endsection
+
+
 @push('stylesheet-link')
 @endpush
 @section('mainsection')

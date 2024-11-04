@@ -1,7 +1,19 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Capture Your Special Day: Professional Candid Photography
 @endsection
+
+@section('description')
+Experience the beauty of candid wedding photography with FlixAura. We
+specialize in capturing genuine emotions and unforgettable moments on your big day.
+@endsection
+
+@section('keywords')
+candid wedding photography, candid wedding photography by
+flixaura, candid photography, candid photoshoot, Wedding Photography By FILXAURA,
+candid pre-wedding shoot, best candid photography
+@endsection
+
 @push('stylesheet-link')
 @endpush
 @section('mainsection')

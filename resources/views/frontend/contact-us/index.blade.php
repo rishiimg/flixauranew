@@ -1,7 +1,19 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Unlock the Magic of Tarot Reading - Contact Us Today
 @endsection
+
+@section('description')
+Reach out to Flixaura for inquiries or support. Our dedicated team
+is here to assist you with any questions. Contact us today for prompt assistance.
+@endsection
+
+
+@section('keywords')
+contact-us, about-us, phone number, email id, company contact
+number
+@endsection
+
 @push('stylesheet-link')
 @endpush
 @section('mainsection')

@@ -1,7 +1,19 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Flixaura Wedding Photography - Capturing Your Special Day
 @endsection
+
+@section('description')
+Discover Flixaura Wedding Photography, where we capture your love
+story with stunning imagery. Explore our passion for creating timeless memories today.
+@endsection
+
+@section('keywords')
+about-us, flixaura about-us, wedding photography, wedding videography and
+photography, wedding videography packages, our vision, our mission, cinematic photography,
+book now
+@endsection
+
 @push('stylesheet-link')
 @endpush
 @section('mainsection')

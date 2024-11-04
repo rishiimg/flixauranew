@@ -1,7 +1,17 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Stay Up to Date on the Latest Blogs with Our Online Platform
 @endsection
+
+@section('description')
+Discover the latest insights and trends on Flixaura Blogs. Stay
+updated with fresh content that inspires and informs. Explore our newest posts today!
+@endsection
+
+@section('keywords')
+Latest blogs, trending blogs, flixaura blogs, information blogs
+@endsection
+
 @push('stylesheet-link')
 @endpush
 @section('mainsection')

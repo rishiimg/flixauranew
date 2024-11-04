@@ -1,7 +1,20 @@
 @extends('frontend.layouts.app')
 @section('title')
-About Us
+Capture Your Special Day: Professional Wedding Photography
 @endsection
+
+@section('description')
+Capture your special day with our expert wedding photography and
+videography services. Relive every moment with stunning visuals that tell your love
+story.
+@endsection
+
+@section('keywords')
+Professional Wedding Photography, wedding photography and
+videography services, wedding photography & videography, wedding photoshoot,
+marriage photoshoot, marriage videography
+@endsection
+
 @push('stylesheet-link')
 @endpush
 @section('mainsection')
