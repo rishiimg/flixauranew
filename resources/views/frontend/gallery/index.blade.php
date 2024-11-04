@@ -212,11 +212,15 @@ About Us
 
 	</div>
 
-	<div class="mx-auto max-w-7xl lg:px-8 px-6 flex items-center justify-center">
-		<button class="flex justify-between text-slate-950 items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 sm:text-lg text-base">
-			<span class="group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-slate-950"></span>
-			<span class="group-hover/btn:-translate-x-7 duration-300"> Visit Gallery</span>
-		</button>
+	<div class="mx-auto max-w-7xl lg:px-8 px-6 flex items-center justify-center mt-8">
+        <a href="{{route('website.contact_us')}}" class="relative px-5 py-2 font-medium text-white  mx-auto  group">
+          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-[#0b9fdb] group-hover:bg-[#0b9fdb] group-hover:skew-x-12"></span>
+          <span class="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform skew-x-12 bg-[#f36a22] group-hover:bg-[#f36a22] group-hover:-skew-x-12"></span>
+          <span class="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-[#0b9fdb] -rotate-12"></span>
+          <span class="absolute bottom-0 right-0 hidden w-10 h-20 transition-all duration-100 ease-out transform translate-x-10 translate-y-8 bg-[#f36a22] -rotate-12"></span>
+          <span class="relative">Explore
+            Wedding Films</span>
+        </a>
 	</div>
 </section>
 <!-- 3rd section end -->
