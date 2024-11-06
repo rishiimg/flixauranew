@@ -82,11 +82,16 @@ About Us
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
+          <h2 class="text-2xl font-semibold text-white">
             Go Eco-Friendly
+
           </h2>
           <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Planning a vibrant Haldi ceremony that's kind to the Earth? Look no further! Let's weave nature's magic into an unforgettable and sustainable celebration. Imagine a backdrop bursting with colour! Lush banana leaves adorned with vibrant marigolds (Genda Phool) create a stunning focal point. For an extra touch of texture and depth, incorporate upcycled sarees and colourful clothes into the decor, creating a one-of-a-kind and eco-conscious ambiance. Welcome your guests with a beautiful rangoli, a hand-crafted masterpiece that adds a touch of cultural charm and sets the stage for a joyous celebration.</p>
+          <p class="text-xs text-white mt-2 line-clamp-4">An eco-friendly Haldi ceremony photoshoot is a perfect way to freeze moments of joy
+            while staying connected to nature. Imagine the bride and groom surrounded by vibrant
+            turmeric hues, their faces glowing with happiness and the warmth of tradition, set
+            against a backdrop of lush greenery and biodegradable decor.
+          </p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -105,11 +110,14 @@ About Us
 
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
-            Haldi ceremony
+          <h2 class="text-2xl font-semibold text-white">
+            Haldi Ceremony
           </h2>
           <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">The vibrant pulse of Indian pre-wedding celebrations – Haldi and Sangeet! One explodes with a kaleidoscope of colors and playful joy, the other bursts with rhythmic beats and love-filled dance. But how do you freeze these unforgettable moments in stunning photos, without breaking the bank? Here's where Wedding Photography By SF steps in as your perfect partner!</p>
+          <p class="text-xs text-white mt-2 line-clamp-4">For the shoot, use sustainable props like hand-painted clay pots, wooden frames, and
+            upcycled fabric for drapes. The bride's attire could be simple yet elegant, incorporating
+            organic fabrics, while floral accessories—made from locally sourced, pesticide-free
+            flowers—can add a personal, eco-conscious touch.</p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -127,11 +135,14 @@ About Us
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
+          <h2 class="text-2xl font-semibold text-white">
             Haldi on your Terrace
           </h2>
           <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Craving a Haldi ceremony that's both heartfelt and intimate? Imagine saying "I do" surrounded by your closest loved ones, bathed in the warm glow of the sun! Transform your rooftop into a breathtaking oasis or utilize the charming ambiance of your bungalow for a truly unforgettable Haldi experience. Wedding Photography By SF will be there to capture every special moment, from the vibrant colors to the genuine emotions, against the backdrop of the beautiful natural light. Let the joy of your celebration overflow and soak up the sunshine as you embark on this exciting new chapter!</p>
+          <p class="text-xs text-white mt-2 line-clamp-4">Capture the essence of the moment with candid shots—friends and family laughing,
+            applying turmeric paste, or dancing joyfully around the couple. Opt for natural lighting to
+            enhance the soft, golden glow of the ceremony.
+          </p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -149,11 +160,17 @@ About Us
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
+          <h2 class="text-2xl font-semibold text-white">
             Holi Themed Haldi
+
           </h2>
           <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Imagine a celebration infused with the playful spirit of Holi. Ditch the ordinary and create an explosion of vibrancy with flower petals or colourful powders! This isn't just about the soon-to-be-wed couple - it's a chance for YOU and your loved ones to create unforgettable memories. Wedding Photography By SF will be there to capture the playful energy and transform it into stunning photographs that will bring the joy flooding back for years to come. Let your Haldi celebration be a vibrant reflection of your unique love story and adventurous spirit!</p>
+          <p class="text-xs text-white mt-2 line-clamp-4">A <strong>Holi-themed Haldi</strong>  ceremony blends the vibrancy of both festivals, with bright
+            splashes of color, playful powder, and a joyous atmosphere. Guests and the bride and
+            groom are covered in turmeric-infused hues, creating a lively, rainbow-filled celebration
+            of love and togetherness. It’s a fusion of tradition and fun, where the spirit of Holi meets
+            the sacred rituals of Haldi, making it an unforgettable pre-wedding event.
+          </p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>

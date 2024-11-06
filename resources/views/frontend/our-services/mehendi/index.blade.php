@@ -80,11 +80,15 @@ About Us
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
-            Fly High on Love – Kite Decor
+          <h2 class="text-2xl font-semibold text-white">
+            Mehndi Magic: A Dance of Henna & Heart
           </h2>
           <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Imagine a whimsical Mehndi adorned with colourful kites dancing in the breeze. This playful backdrop adds a touch of magic to your photos, while the kites themselves become interactive props for capturing candid moments of joy and laughter. Wedding Photography By SF will expertly capture these vibrant scenes, ensuring your Mehndi photos are bursting with personality and perfectly reflect the unique charm of your celebration.</p>
+          <p class="text-xs text-white mt-2 line-clamp-4"><strong>"Mehndi Magic: A Dance of Henna & Heart"</strong> captures the essence of a bride’s joyous
+            journey, where intricate henna designs symbolize love, tradition, and new beginnings.
+            The ceremony becomes a graceful dance of colors and emotions as family and friends
+            gather to celebrate with laughter and warmth. Each delicate swirl of henna tells a unique
+            story, marking the bride’s heart with timeless memories.</p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -103,12 +107,17 @@ About Us
 
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
+          <h2 class="text-2xl font-semibold text-white">
 
-            Go Boho with Dream Catchers
+            The Color of Love: A Mehndi Affair
           </h2>
           <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Embrace the free-spirited vibe with a boho mehndi! Imagine a colourful tapestry of dreamcatchers, macrame hangings, and vibrant floor cushions. Lush greenery and fairy lights add a touch of whimsy, creating a perfect backdrop for your mehndi ceremony. This aesthetic translates beautifully into photographs. The natural textures and diffused lighting from fairy lights allow your mehndi photographer to capture stunning, candid moments. Bold pops of colour from the decor add a unique charm to every frame.</p>
+          <p class="text-xs text-white mt-2 line-clamp-4"><strong>"The Color of Love: A Mehndi Affair"</strong> is a celebration of tradition, where the bride’s
+            hands are adorned with beautiful henna, each design symbolizing love and blessing.
+            Surrounded by laughter and joy, the ceremony blooms with vibrant colors, creating
+            lasting memories of warmth and togetherness. It’s a heartfelt prelude to the wedding,
+            where love is painted in every stroke.
+          </p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -126,12 +135,17 @@ About Us
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
+          <h2 class="text-2xl font-semibold text-white">
 
-            Saree but not Sorry!
+            Ink & Impressions: The Bride’s Mehndi Moment
           </h2>
           <p class="text-white font-medium text-sm mt-1">#PHOTOGRAPHY</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Elevate your mehndi with the magic of sarees! Drape colourful silks in rich jewel tones to create a captivating backdrop. Twirl vintage sarees into whimsical streamers or weave them into a stunning canopy. This burst of cultural flair adds a touch of timeless elegance and pops in photos, ensuring Sony Fashion Studio captures every detail and emotion of your mehndi celebration.</p>
+          <p class="text-xs text-white mt-2 line-clamp-4"><strong>"Ink & Impressions: The Bride’s Mehndi Moment"</strong> captures the intimate beauty of
+            the bride's journey, as her hands are adorned with intricate henna that speaks of love,
+            heritage, and new beginnings. Surrounded by close family and friends, each delicate
+            design leaves an imprint on her heart, marking the start of her wedding story. It’s a
+            timeless celebration of tradition, love, and artistry.
+          </p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>

@@ -31,7 +31,7 @@ About Us
 <!-- 2nd section  -->
 
 
-<section class="lg:py-20 md:py-16 max-sm:pt-16 max-sm:pb-10 relative overflow-hidden">
+<section class="lg:py-20 md:py-16 max-md:pt-16 max-sm:pb-10 relative overflow-hidden">
   <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full relative z-10">
 
     <div class="grid grid-cols-12 items-center sm:gap-y-10 gap-y-5 lg:gap-8 group">
@@ -51,7 +51,7 @@ About Us
       </div>
       <div data-aos="fade-left" class="col-span-12 lg:col-span-6 ">
         <div class="size-full">
-          <div class="sm:text-5xl text-3xl relative  text-balance  w-full font-bold text-theme1 lg:pb-14 max-lg:mt-20">
+          <div class="sm:text-5xl text-3xl relative  text-balance  w-full font-bold text-theme1 lg:pb-14 max-lg:mt-16">
             Welcome to FLIXAURA Wedding Photography !
             <div class="-z-10 absolute sm:-top-7 -top-3 [font-family:Yesteryear] [-webkit-text-stroke:_0.8px_#000] opacity-40 text-transparent md:text-[120px] sm:text-[90px] text-[80px] font-light">AboutUs</div>
           </div>
@@ -78,8 +78,8 @@ About Us
 <!-- 2nd end  -->
 <!-- 3rd section -->
 
-<div class="max-w-7xl mx-auto px-6 lg:px-8 md:py-20 py-10">
-  <div class="grid md:grid-cols-2  items-center md:gap-10 gap-5">
+<div class="max-w-7xl mx-auto px-6 lg:px-8 md:py-20 py-16">
+  <div class="grid md:grid-cols-2  items-center md:gap-10 gap-8">
     <div class="">
       <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-theme1 md:pb-14 mb-8">
         VISION
@@ -123,7 +123,7 @@ About Us
         alt="`" />
     </div>
   </div>
-  <div class="grid md:grid-cols-2 mt-20 items-center md:gap-10 gap-5">
+  <div class="grid md:grid-cols-2 mt-20 items-center md:gap-10 gap-8">
     <div class='md:order-2'>
       <div class="sm:text-5xl text-4xl relative  text-balance  w-full font-bold text-theme1 md:pb-14 mb-8">
         MISSION

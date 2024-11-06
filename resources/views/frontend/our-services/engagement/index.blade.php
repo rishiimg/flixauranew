@@ -75,16 +75,23 @@ About Us
 <div class="max-w-7xl mx-auto px-6 lg:px-8 sm:py-16 py-10">
 
   <div class="grid lg:grid-cols-3 sm:grid-cols-2   gap-5">
-    <div class="w-full group/main aspect-[1/1.1] :hover:scale-105 :duration-500 overflow-hidden  *:size-full *:object-cover relative after:absolute after:size-full after:bg-black/40 after:inset-0 after:hover:backdrop-blur-sm after:duration-500 	">
+    <div class="w-full group/main aspect-[1/1.1] *:hover:scale-105 *:duration-500 overflow-hidden  *:size-full *:object-cover relative after:absolute after:size-full after:bg-black/40 after:inset-0 after:hover:backdrop-blur-sm after:duration-500 	">
+
       <Image width={300} height={300} src="https://plus.unsplash.com/premium_photo-1682090789715-a1acbfe72404?q=80&w=1452&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
-        <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
-            Romantic Garden Engagement
+
+        <div class="translate-y-24 group-hover/main:-translate-y-0 duration-300">
+          <h2 class="text-2xl font-semibold text-white">
+
+            Garden of Hearts
+
           </h2>
           <p class="text-white font-medium text-sm mt-1">#ENGAGEMENT</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Picture a love story unfolding amidst lush gardens and blooming flowers. The Romantic Garden Engagement theme sets a magical atmosphere for capturing intimate moments with a soft, natural backdrop.</p>
+          <p class="text-xs text-white mt-2 line-clamp-4"><strong>"Garden of Hearts" </strong> s a romantic escape where love blossoms amidst nature’s beauty.
+            Surrounded by vibrant flowers and soft breezes, every moment feels like a promise of
+            forever.
+          </p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -103,12 +110,15 @@ About Us
 
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
+          <h2 class="text-2xl font-semibold text-white">
 
-            City Lights Romance
+            City of Love
           </h2>
           <p class="text-white font-medium text-sm mt-1">#ENGAGEMENT</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Celebrate your engagement with the sparkling city skyline as your backdrop. The City Lights Romance theme captures your love amidst dazzling lights and urban chic vibes, perfect for an elegant and modern engagement..</p>
+          <p class="text-xs text-white mt-2 line-clamp-4"><strong>"City of Love"</strong> is where every street corner sparkles with romance, and the glow of city
+            lights sets the perfect mood. In the heart of the bustling city, love thrives under the starry
+            skyline.
+          </p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>
@@ -126,11 +136,13 @@ About Us
       <div class=" p-2 bottom-6  overflow-hidden   absolute z-30 !h-max !w-[90%] left-1/2 -translate-x-1/2">
 
         <div class="translate-y-28 group-hover/main:-translate-y-0 duration-300">
-          <h2 class="text-2xl w-4/5 font-semibold text-white">
-            Rustic Charm
+          <h2 class="text-2xl font-semibold text-white">
+            Timeless Rustic Love
           </h2>
           <p class="text-white font-medium text-sm mt-1">#ENGAGEMENT</p>
-          <p class="text-xs text-white mt-2 line-clamp-4">Rustic barn doors, wildflowers, and a cozy setting—all contribute to the natural beauty of this engagement theme. Perfect for couples looking for an outdoor, laid-back atmosphere, we capture the essence of your bond with warmth and simplicity.</p>
+          <p class="text-xs text-white mt-2 line-clamp-4"><strong>"Timeless Rustic Love"</strong> captures the beauty of simplicity, where love blooms amidst
+            rustic textures and natural charm. In a world of wooden beams and wildflowers, every
+            moment feels like a cherished memory made to last forever.</p>
           <button class="flex justify-between text-white uppercase text-sm items-center overflow-hidden group/btn gap-4 z-20 relative mt-5">
             <span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> Learn More</span>
           </button>

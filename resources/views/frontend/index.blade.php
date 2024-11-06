@@ -66,9 +66,9 @@
 								<br class="md:block !hidden" />
 								Day through Captivating Images
 							</div>
-							<button class="flex justify-between text-white sm:text-lg text-sm uppercase items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.9s]">
+							<a href="{{route('website.about_us')}}" class="inline-flex justify-between text-white sm:text-lg text-sm uppercase items-center overflow-hidden group/btn gap-4 z-20 relative mt-8 group-[.swiper-slide-active]:animate-fade-in-up opacity-0 group-[.swiper-slide-active]:[animation-delay:.9s]">
 								<span class='group-hover/btn:-translate-x-7 duration-300 w-7 h-[2px] bg-white'></span> <span class='group-hover/btn:-translate-x-7 duration-300'> explore my portfolio</span>
-							</button>
+							</a>
 						</div>
 					</div>
 				</div>
